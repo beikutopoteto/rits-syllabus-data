@@ -8,6 +8,7 @@ GitHub Actions で定期実行し、GitHub Pages で公開する想定。
 import asyncio
 import json
 import os
+import re
 import sys
 from datetime import datetime, timezone
 
@@ -39,61 +40,92 @@ FACULTIES = [
 DAYS = ["月曜日", "火曜日", "水曜日", "木曜日", "金曜日", "土曜日"]
 PERIODS = ["1", "2", "3", "4", "5", "6", "7"]
 
+# 正しい学期名（サイト上の実際の選択肢）
 SEMESTERS = [
-    "春セメスター",
-    "秋セメスター",
+    "春学期",
+    "秋学期",
 ]
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "data")
 
 
-async def select_combobox(page: Page, button_id: str, value: str):
-    """Salesforce Lightning コンボボックスの値を選択する"""
-    btn = page.locator(f"#{button_id}")
+async def select_combobox_by_label(page: Page, aria_label: str, value: str):
+    """aria-labelを使ってコンボボックスを特定し、値を選択する。
+    IDはページロードごとに変わるため、ラベルベースで検出する。"""
+    btn = page.locator(f"button[role='combobox'][aria-label='{aria_label}']")
     await btn.click()
-    await page.wait_for_timeout(300)
-    # ドロップダウン内のオプションをテキストで検索
-    dropdown_id = button_id.replace("combobox-button-", "dropdown-element-")
-    dropdown = page.locator(f"#{dropdown_id}")
+    await page.wait_for_timeout(500)
+    # ドロップダウンのIDをボタンのaria-controlsから取得
+    dropdown_id = await btn.get_attribute("aria-controls")
+    if dropdown_id:
+        dropdown = page.locator(f"#{dropdown_id}")
+    else:
+        # フォールバック: ボタンIDからドロップダウンIDを推測
+        btn_id = await btn.get_attribute("id") or ""
+        dropdown_id = btn_id.replace("combobox-button-", "dropdown-element-")
+        dropdown = page.locator(f"#{dropdown_id}")
     option = dropdown.get_by_text(value, exact=True)
     await option.click()
-    await page.wait_for_timeout(200)
+    await page.wait_for_timeout(300)
 
 
 async def check_checkbox(page: Page, label_text: str):
-    """チェックボックスをラベルテキストで選択する"""
-    label = page.get_by_label(label_text, exact=True)
-    if not await label.is_checked():
-        await label.check()
+    """チェックボックスをラベルテキストで選択する。
+    Salesforce LWCのカスタムチェックボックスはラベルをクリックする必要がある。"""
+    cb = page.get_by_label(label_text, exact=True)
+    if not await cb.is_checked():
+        # ラベル要素をクリックして状態を変更する
+        cb_id = await cb.get_attribute("id")
+        if cb_id:
+            label_el = page.locator(f"label[for='{cb_id}']")
+            await label_el.click()
+        else:
+            await cb.click(force=True)
     await page.wait_for_timeout(100)
 
 
 async def uncheck_all_checkboxes(page: Page, labels: list[str]):
     """指定したラベルのチェックボックスをすべて解除する"""
     for label_text in labels:
-        label = page.get_by_label(label_text, exact=True)
-        if await label.is_checked():
-            await label.uncheck()
+        cb = page.get_by_label(label_text, exact=True)
+        if await cb.is_checked():
+            cb_id = await cb.get_attribute("id")
+            if cb_id:
+                label_el = page.locator(f"label[for='{cb_id}']")
+                await label_el.click()
+            else:
+                await cb.click(force=True)
         await page.wait_for_timeout(50)
 
 
 async def extract_table_rows(page: Page) -> list[dict]:
-    """検索結果テーブルからデータを抽出する"""
+    """検索結果テーブルからデータを抽出する。
+    テーブル構造:
+      [0] TD: チェックボックス（空）
+      [1] TH: 授業科目名（リンク付き）
+      [2] TD: 学部・研究科
+      [3] TD: 学期
+      [4] TD: 開講曜日・時限
+      [5] TD: キャンパス
+      [6] TD: 全担当教員
+      [7] TD: 授業で利用する言語
+      [8] TD: 単位数
+    """
     rows = []
     table = page.locator("lightning-datatable table tbody tr")
     count = await table.count()
 
     for i in range(count):
         row = table.nth(i)
-        cells = row.locator("td")
+        # TD と TH の両方を取得する（授業科目名は TH タグ）
+        cells = row.locator("td, th")
         cell_count = await cells.count()
 
-        if cell_count < 8:
+        if cell_count < 9:
             continue
 
-        # 最初のセルはチェックボックス列なのでスキップ
-        # セル構造: [checkbox, 授業科目名, 学部, 学期, 曜日時限, キャンパス, 教員, 言語, 単位]
         try:
+            # [1] 授業科目名（TH タグ、リンク付き）
             name_cell = cells.nth(1)
             link = name_cell.locator("a")
             link_count = await link.count()
@@ -103,15 +135,22 @@ async def extract_table_rows(page: Page) -> list[dict]:
             if link_count > 0:
                 syllabus_path = await link.first.get_attribute("href") or ""
 
+            # [2] 学部・研究科
             faculty_text = await cells.nth(2).inner_text()
+            # [3] 学期
             term_text = await cells.nth(3).inner_text()
+            # [4] 開講曜日・時限
             day_period_text = await cells.nth(4).inner_text()
+            # [5] キャンパス
             campus_text = await cells.nth(5).inner_text()
+            # [6] 全担当教員
             instructor_text = await cells.nth(6).inner_text()
+            # [7] 授業で利用する言語
             language_text = await cells.nth(7).inner_text()
-            credits_text = await cells.nth(8).inner_text() if cell_count > 8 else ""
+            # [8] 単位数
+            credits_text = await cells.nth(8).inner_text()
 
-            # 授業コードと科目名を分離 (例: "92770:ファイナンス（MP） (U1)")
+            # 授業コードと科目名を分離 (例: "52595:（留）日本語Ⅷ（アカデミック日本語a）(O1)")
             code = ""
             name = course_name_full.strip()
             if ":" in name:
@@ -124,16 +163,13 @@ async def extract_table_rows(page: Page) -> list[dict]:
             if syllabus_path:
                 syllabus_url = f"https://syllabus.ritsumei.ac.jp{syllabus_path}"
 
-            # 教室情報を取得（キャンパスから推測）
-            campus = campus_text.strip()
-
             rows.append({
                 "code": code,
                 "name": name,
                 "faculty": faculty_text.strip(),
                 "term": term_text.strip(),
                 "dayPeriod": day_period_text.strip(),
-                "campus": campus,
+                "campus": campus_text.strip(),
                 "instructor": instructor_text.strip(),
                 "language": language_text.strip(),
                 "credits": credits_text.strip(),
@@ -150,8 +186,6 @@ async def get_total_count(page: Page) -> int:
     """検索結果の総件数を取得する"""
     try:
         count_text = await page.locator("text=/全 \\d+ 件/").first.inner_text()
-        # "全 123 件 (1/13ページ)" -> 123
-        import re
         match = re.search(r"全\s*(\d+)\s*件", count_text)
         if match:
             return int(match.group(1))
@@ -177,14 +211,14 @@ async def scrape_faculty_day_period(
         await clear_btn.click()
         await page.wait_for_timeout(500)
 
-        # 学部を選択
-        await select_combobox(page, "combobox-button-14", faculty)
+        # 学部を選択（aria-labelベース）
+        await select_combobox_by_label(page, "学部・研究科", faculty)
 
         # 年度を選択
-        await select_combobox(page, "combobox-button-18", year)
+        await select_combobox_by_label(page, "年度", year)
 
         # 学期を選択
-        await select_combobox(page, "combobox-button-22", semester)
+        await select_combobox_by_label(page, "学期", semester)
 
         # 曜日チェックボックスを設定
         await uncheck_all_checkboxes(page, DAYS)
@@ -194,8 +228,8 @@ async def scrape_faculty_day_period(
         await uncheck_all_checkboxes(page, PERIODS)
         await check_checkbox(page, period)
 
-        # 表示件数を50に変更
-        select = page.locator("#select-10")
+        # 表示件数を50に変更（selectのnameで特定）
+        select = page.locator("select[name='results-per-page']")
         await select.select_option("50")
         await page.wait_for_timeout(200)
 
@@ -237,9 +271,14 @@ async def scrape_faculty_day_period(
 
 
 async def main():
-    year = os.environ.get("SCRAPE_YEAR", str(datetime.now().year))
-    target_faculties = os.environ.get("SCRAPE_FACULTIES", "").split(",") if os.environ.get("SCRAPE_FACULTIES") else FACULTIES
-    target_faculties = [f.strip() for f in target_faculties if f.strip()]
+    year_str = os.environ.get("SCRAPE_YEAR", "").strip()
+    year = year_str if year_str else str(datetime.now().year)
+
+    faculties_str = os.environ.get("SCRAPE_FACULTIES", "").strip()
+    if faculties_str:
+        target_faculties = [f.strip() for f in faculties_str.split(",") if f.strip()]
+    else:
+        target_faculties = FACULTIES
 
     print(f"=== 立命館大学シラバス スクレイピング開始 ===")
     print(f"年度: {year}")
@@ -262,7 +301,7 @@ async def main():
 
         # シラバスサイトにアクセス
         await page.goto(BASE_URL, wait_until="networkidle")
-        await page.wait_for_timeout(2000)
+        await page.wait_for_timeout(3000)
 
         for faculty in target_faculties:
             print(f"\n--- {faculty} ---")
@@ -273,7 +312,6 @@ async def main():
                             page, faculty, semester, day, period, year
                         )
                         for c in courses:
-                            # 重複排除キー
                             key = f"{c['code']}_{c['dayPeriod']}_{c['term']}"
                             if key not in seen_keys:
                                 seen_keys.add(key)
