@@ -1,0 +1,44 @@
+name: Update Syllabus Data
+on:
+  schedule:
+    - cron: '0 18 * * 0'
+  workflow_dispatch:
+    inputs:
+      year:
+        description: '取得する年度（例: 2026）'
+        required: false
+        default: ''
+      faculties:
+        description: '対象学部（カンマ区切り、空の場合は全学部）'
+        required: false
+        default: ''
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          pip install playwright
+          playwright install chromium
+          playwright install-deps chromium
+      - name: Run scraper
+        env:
+          SCRAPE_YEAR: <LaTex>${{ github.event.inputs.year || '' }}
+          SCRAPE_FACULTIES: $</LaTex>{{ github.event.inputs.faculties || '' }}
+          OUTPUT_DIR: data
+        run: python scrape.py
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: <LaTex>${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data
+          publish_branch: gh-pages
+          force_orphan: true
+          commit_message: "Update syllabus data - $</LaTex>{{ github.run_id }}"
