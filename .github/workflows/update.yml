@@ -3,15 +3,6 @@ on:
   schedule:
     - cron: '0 18 * * 0'
   workflow_dispatch:
-    inputs:
-      year:
-        description: '取得する年度（例: 2026）'
-        required: false
-        default: ''
-      faculties:
-        description: '対象学部（カンマ区切り、空の場合は全学部）'
-        required: false
-        default: ''
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -31,14 +22,11 @@ jobs:
       - name: Run scraper
         run: python scrape.py
         env:
-          SCRAPE_YEAR: <LaTex>${{ github.event.inputs.year }}
-          SCRAPE_FACULTIES: $</LaTex>{{ github.event.inputs.faculties }}
           OUTPUT_DIR: data
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: <LaTex>${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{TOKEN_PLACEHOLDER}}
           publish_dir: ./data
           publish_branch: gh-pages
           force_orphan: true
-          commit_message: "Update syllabus data - $</LaTex>{{ github.run_id }}"
