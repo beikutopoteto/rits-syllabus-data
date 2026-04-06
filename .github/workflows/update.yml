@@ -1,28 +1,92 @@
 name: Update Syllabus Data
+
 on:
   schedule:
     - cron: '0 18 * * 0'
   workflow_dispatch:
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      max-parallel: 6
+      matrix:
+        faculty:
+          - "法学部"
+          - "経済学部"
+          - "経営学部"
+          - "産業社会学部"
+          - "国際関係学部"
+          - "政策科学部"
+          - "文学部"
+          - "デザイン・アート学部"
+          - "映像学部"
+          - "総合心理学部"
+          - "理工学部"
+          - "グローバル教養学部"
+          - "食マネジメント学部"
+          - "情報理工学部"
+          - "生命科学部"
+          - "薬学部"
+          - "スポーツ健康科学部"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: |
           pip install playwright
           playwright install chromium
           playwright install-deps chromium
-      - name: Run scraper
+
+      - name: Scrape faculty data
         run: python scrape.py
         env:
+          SCRAPE_FACULTY: ${{ matrix.faculty }}
           OUTPUT_DIR: data
+
+      - name: Upload faculty data
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-${{ matrix.faculty }}
+          path: data/
+          retention-days: 1
+
+  merge:
+    needs: scrape
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Download all faculty data
+        uses: actions/download-artifact@v4
+        with:
+          path: data/
+          pattern: data-*
+          merge-multiple: true
+
+      - name: List downloaded files
+        run: ls -la data/
+
+      - name: Merge faculty data
+        run: python merge.py
+        env:
+          OUTPUT_DIR: data
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
