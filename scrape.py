@@ -3,6 +3,11 @@
 立命館大学シラバス スクレイピングスクリプト
 Playwright を使用してシラバスサイトからデータを取得し、JSON形式で保存する。
 GitHub Actions で定期実行し、GitHub Pages で公開する想定。
+
+環境変数:
+  SCRAPE_FACULTY  - 対象学部名（指定時は単一学部のみ処理）
+  SCRAPE_YEAR     - 年度（デフォルト: 現在年度）
+  OUTPUT_DIR      - 出力ディレクトリ（デフォルト: data）
 """
 
 import asyncio
@@ -274,15 +279,16 @@ async def main():
     year_str = os.environ.get("SCRAPE_YEAR", "").strip()
     year = year_str if year_str else str(datetime.now().year)
 
-    faculties_str = os.environ.get("SCRAPE_FACULTIES", "").strip()
-    if faculties_str:
-        target_faculties = [f.strip() for f in faculties_str.split(",") if f.strip()]
+    # 単一学部モード: SCRAPE_FACULTY が指定されていればその学部のみ処理
+    single_faculty = os.environ.get("SCRAPE_FACULTY", "").strip()
+    if single_faculty:
+        target_faculties = [single_faculty]
     else:
         target_faculties = FACULTIES
 
     print(f"=== 立命館大学シラバス スクレイピング開始 ===")
     print(f"年度: {year}")
-    print(f"対象学部: {len(target_faculties)}学部")
+    print(f"対象学部: {', '.join(target_faculties)}")
     print(f"出力先: {OUTPUT_DIR}/")
     print()
 
@@ -322,44 +328,63 @@ async def main():
 
         await browser.close()
 
-    # 結果を保存
-    output = {
-        "lastUpdated": datetime.now(timezone.utc).isoformat(),
-        "year": int(year),
-        "totalCourses": len(all_courses),
-        "courses": all_courses,
-    }
-
-    output_path = os.path.join(OUTPUT_DIR, "syllabus.json")
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    print(f"\n=== 完了 ===")
-    print(f"取得件数: {len(all_courses)}件")
-    print(f"出力ファイル: {output_path}")
-
-    # 学部別にも分割保存
-    faculty_data = {}
-    for c in all_courses:
-        fac = c["faculty"]
-        if fac not in faculty_data:
-            faculty_data[fac] = []
-        faculty_data[fac].append(c)
-
-    for fac, courses in faculty_data.items():
-        safe_name = fac.replace("・", "_").replace("（", "(").replace("）", ")")
-        fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}.json")
+    # 単一学部モードの場合: 学部別ファイルのみ出力
+    if single_faculty:
+        safe_name = single_faculty.replace("・", "_").replace("（", "(").replace("）", ")")
         fac_output = {
-            "lastUpdated": output["lastUpdated"],
+            "lastUpdated": datetime.now(timezone.utc).isoformat(),
             "year": int(year),
-            "faculty": fac,
-            "totalCourses": len(courses),
-            "courses": courses,
+            "faculty": single_faculty,
+            "totalCourses": len(all_courses),
+            "courses": all_courses,
         }
+        fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}.json")
         with open(fac_path, "w", encoding="utf-8") as f:
             json.dump(fac_output, f, ensure_ascii=False, indent=2)
 
-    print(f"学部別ファイル: {len(faculty_data)}ファイル")
+        print(f"\n=== 完了 ===")
+        print(f"学部: {single_faculty}")
+        print(f"取得件数: {len(all_courses)}件")
+        print(f"出力ファイル: {fac_path}")
+    else:
+        # 全学部モード: 統合ファイルと学部別ファイルを出力
+        output = {
+            "lastUpdated": datetime.now(timezone.utc).isoformat(),
+            "year": int(year),
+            "totalCourses": len(all_courses),
+            "courses": all_courses,
+        }
+
+        output_path = os.path.join(OUTPUT_DIR, "syllabus.json")
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+
+        print(f"\n=== 完了 ===")
+        print(f"取得件数: {len(all_courses)}件")
+        print(f"出力ファイル: {output_path}")
+
+        # 学部別にも分割保存
+        faculty_data = {}
+        for c in all_courses:
+            fac = c["faculty"]
+            if fac not in faculty_data:
+                faculty_data[fac] = []
+            faculty_data[fac].append(c)
+
+        for fac, courses in faculty_data.items():
+            safe_name = fac.replace("・", "_").replace("（", "(").replace("）", ")")
+            fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}.json")
+            fac_output = {
+                "lastUpdated": output["lastUpdated"],
+                "year": int(year),
+                "faculty": fac,
+                "totalCourses": len(courses),
+                "courses": courses,
+            }
+            with open(fac_path, "w", encoding="utf-8") as f:
+                json.dump(fac_output, f, ensure_ascii=False, indent=2)
+
+        print(f"学部別ファイル: {len(faculty_data)}ファイル")
 
 
 if __name__ == "__main__":
