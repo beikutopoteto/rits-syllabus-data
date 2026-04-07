@@ -48,7 +48,7 @@ jobs:
         run: python scrape.py
         env:
           SCRAPE_FACULTY: <LaTex>${{ matrix.faculty }}
-          SCRAPE_SEMESTER: $</LaTex>{{ matrix.semester }}
+          SCRAPE_SEMESTER: ${{ matrix.semester || '' }}
           OUTPUT_DIR: data
       - name: Upload faculty data
         uses: actions/upload-artifact@v4
