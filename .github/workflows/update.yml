@@ -47,7 +47,7 @@ jobs:
       - name: Scrape faculty data
         run: python scrape.py
         env:
-          SCRAPE_FACULTY: <LaTex>${{ matrix.faculty }}
+          SCRAPE_FACULTY: ${{ matrix.faculty }}
           SCRAPE_SEMESTER: ${{ matrix.semester || '' }}
           OUTPUT_DIR: data
       - name: Upload faculty data
