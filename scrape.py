@@ -17,7 +17,7 @@ import re
 import sys
 from datetime import datetime, timezone
 
-from playwright.async_api import async_playwright, Page, TimeoutError as PlaywrightTimeout
+from playwright.async_api import async_playwright, Browser, BrowserContext, Page, TimeoutError as PlaywrightTimeout
 
 BASE_URL = "https://syllabus.ritsumei.ac.jp/syllabus/s/?language=ja"
 
@@ -52,6 +52,9 @@ SEMESTERS = [
 ]
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "data")
+
+# 詳細ページ並列取得の同時実行数（サーバー負荷軽減）
+DETAIL_CONCURRENCY = 5
 
 
 async def select_combobox_by_label(page: Page, aria_label: str, value: str):
@@ -103,18 +106,94 @@ async def uncheck_all_checkboxes(page: Page, labels: list[str]):
         await page.wait_for_timeout(50)
 
 
+async def fetch_room_from_detail(context: BrowserContext, syllabus_url: str) -> str:
+    """シラバス詳細ページから「授業施設」を取得する。
+    別ページを新規タブで開いて取得し、閉じる。"""
+    if not syllabus_url:
+        return ""
+    detail_page = await context.new_page()
+    try:
+        await detail_page.goto(syllabus_url, wait_until="networkidle", timeout=20000)
+        await detail_page.wait_for_timeout(1000)
+
+        # 「授業施設」ラベルの次の要素を取得する
+        # 構造: <dt>授業施設</dt><dd>コラーニングⅠ　２０６号教室</dd>
+        # または lightning-formatted-text / div などの場合もある
+        room = ""
+
+        # 方法1: dl/dt/dd 構造
+        try:
+            dt_elements = detail_page.locator("dt")
+            dt_count = await dt_elements.count()
+            for i in range(dt_count):
+                dt_text = (await dt_elements.nth(i).inner_text()).strip()
+                if "授業施設" in dt_text:
+                    # 対応するdd要素を取得
+                    dd = detail_page.locator("dd").nth(i)
+                    room = (await dd.inner_text()).strip()
+                    break
+        except Exception:
+            pass
+
+        # 方法2: ラベルテキストの隣接要素（Salesforce LWC形式）
+        if not room:
+            try:
+                # "授業施設" テキストを含む要素の親/兄弟から値を取得
+                label_el = detail_page.get_by_text("授業施設", exact=True).first
+                parent = label_el.locator("xpath=..")
+                # 親の次の兄弟要素
+                sibling = parent.locator("xpath=following-sibling::*[1]")
+                room = (await sibling.inner_text()).strip()
+            except Exception:
+                pass
+
+        # 方法3: テキスト検索で「授業施設」の後ろのテキストを抽出
+        if not room:
+            try:
+                full_text = await detail_page.inner_text("body")
+                match = re.search(r"授業施設\s*\n?\s*(.+?)(?:\n|授業で利用する言語|$)", full_text)
+                if match:
+                    room = match.group(1).strip()
+            except Exception:
+                pass
+
+        return room
+    except PlaywrightTimeout:
+        print(f"  [DETAIL TIMEOUT] {syllabus_url}", file=sys.stderr)
+        return ""
+    except Exception as e:
+        print(f"  [DETAIL ERROR] {syllabus_url}: {e}", file=sys.stderr)
+        return ""
+    finally:
+        await detail_page.close()
+
+
+async def fetch_rooms_parallel(context: BrowserContext, courses: list[dict]) -> list[dict]:
+    """複数授業の詳細ページを並列取得して room フィールドを付与する。"""
+    semaphore = asyncio.Semaphore(DETAIL_CONCURRENCY)
+
+    async def fetch_one(course: dict) -> dict:
+        async with semaphore:
+            room = await fetch_room_from_detail(context, course.get("syllabusUrl", ""))
+            return {**course, "room": room}
+
+    tasks = [fetch_one(c) for c in courses]
+    results = await asyncio.gather(*tasks)
+    return list(results)
+
+
 async def extract_table_rows(page: Page) -> list[dict]:
     """検索結果テーブルからデータを抽出する。
-    テーブル構造:
+    テーブル構造（検索結果一覧）:
       [0] TD: チェックボックス（空）
       [1] TH: 授業科目名（リンク付き）
-      [2] TD: 学部・研究科
+      [2] TD: 年度
       [3] TD: 学期
       [4] TD: 開講曜日・時限
-      [5] TD: キャンパス
+      [5] TD: 学部・研究科
       [6] TD: 全担当教員
-      [7] TD: 授業で利用する言語
-      [8] TD: 単位数
+      [7] TD: 単位数
+    ※ キャンパス列は一覧には存在しない（詳細ページのみ）
     """
     rows = []
     table = page.locator("lightning-datatable table tbody tr")
@@ -126,7 +205,7 @@ async def extract_table_rows(page: Page) -> list[dict]:
         cells = row.locator("td, th")
         cell_count = await cells.count()
 
-        if cell_count < 9:
+        if cell_count < 7:
             continue
 
         try:
@@ -140,20 +219,18 @@ async def extract_table_rows(page: Page) -> list[dict]:
             if link_count > 0:
                 syllabus_path = await link.first.get_attribute("href") or ""
 
-            # [2] 学部・研究科
-            faculty_text = await cells.nth(2).inner_text()
             # [3] 学期
             term_text = await cells.nth(3).inner_text()
             # [4] 開講曜日・時限
             day_period_text = await cells.nth(4).inner_text()
-            # [5] キャンパス
-            campus_text = await cells.nth(5).inner_text()
+            # [5] 学部・研究科
+            faculty_text = await cells.nth(5).inner_text()
             # [6] 全担当教員
             instructor_text = await cells.nth(6).inner_text()
-            # [7] 授業で利用する言語
-            language_text = await cells.nth(7).inner_text()
-            # [8] 単位数
-            credits_text = await cells.nth(8).inner_text()
+            # [7] 単位数（存在する場合）
+            credits_text = ""
+            if cell_count > 7:
+                credits_text = await cells.nth(7).inner_text()
 
             # 授業コードと科目名を分離 (例: "52595:（留）日本語Ⅷ（アカデミック日本語a）(O1)")
             code = ""
@@ -174,11 +251,10 @@ async def extract_table_rows(page: Page) -> list[dict]:
                 "faculty": faculty_text.strip(),
                 "term": term_text.strip(),
                 "dayPeriod": day_period_text.strip(),
-                "campus": campus_text.strip(),
                 "instructor": instructor_text.strip(),
-                "language": language_text.strip(),
                 "credits": credits_text.strip(),
                 "syllabusUrl": syllabus_url,
+                "room": "",  # 詳細ページ取得後に埋める
             })
         except Exception as e:
             print(f"  [WARN] Row {i} extraction error: {e}", file=sys.stderr)
@@ -201,13 +277,14 @@ async def get_total_count(page: Page) -> int:
 
 async def scrape_faculty_day_period(
     page: Page,
+    context: BrowserContext,
     faculty: str,
     semester: str,
     day: str,
     period: str,
     year: str,
 ) -> list[dict]:
-    """特定の学部・曜日・時限の授業一覧を取得する"""
+    """特定の学部・曜日・時限の授業一覧を取得し、詳細ページから授業施設も取得する"""
     all_courses = []
 
     try:
@@ -267,6 +344,11 @@ async def scrape_faculty_day_period(
             except Exception:
                 break
 
+        # 詳細ページから授業施設を並列取得
+        if all_courses:
+            print(f"    → 授業施設を取得中 ({len(all_courses)}件)...", flush=True)
+            all_courses = await fetch_rooms_parallel(context, all_courses)
+
     except PlaywrightTimeout:
         print(f"  [TIMEOUT] {faculty} / {semester} / {day} {period}限", file=sys.stderr)
     except Exception as e:
@@ -315,7 +397,7 @@ async def main():
                 for day in DAYS:
                     for period in PERIODS:
                         courses = await scrape_faculty_day_period(
-                            page, faculty, semester, day, period, year
+                            page, context, faculty, semester, day, period, year
                         )
                         for c in courses:
                             key = f"{c['code']}_{c['dayPeriod']}_{c['term']}"
