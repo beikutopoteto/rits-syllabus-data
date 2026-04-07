@@ -1,64 +1,61 @@
 name: Update Syllabus Data
-
 on:
   schedule:
     - cron: '0 18 * * 0'
   workflow_dispatch:
-
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    timeout-minutes: 300
     strategy:
       fail-fast: false
-      max-parallel: 9
+      max-parallel: 18
       matrix:
-        faculty:
-          - "法学部"
-          - "経済学部"
-          - "経営学部"
-          - "産業社会学部"
-          - "国際関係学部"
-          - "政策科学部"
-          - "文学部"
-          - "デザイン・アート学部"
-          - "映像学部"
-          - "総合心理学部"
-          - "理工学部"
-          - "グローバル教養学部"
-          - "食マネジメント学部"
-          - "情報理工学部"
-          - "生命科学部"
-          - "薬学部"
-          - "スポーツ健康科学部"
+        include:
+          - faculty: "法学部"
+          - faculty: "経済学部"
+          - faculty: "経営学部"
+          - faculty: "産業社会学部"
+          - faculty: "国際関係学部"
+          - faculty: "政策科学部"
+          - faculty: "デザイン・アート学部"
+          - faculty: "映像学部"
+          - faculty: "総合心理学部"
+          - faculty: "理工学部"
+          - faculty: "グローバル教養学部"
+          - faculty: "食マネジメント学部"
+          - faculty: "情報理工学部"
+          - faculty: "生命科学部"
+          - faculty: "薬学部"
+          - faculty: "スポーツ健康科学部"
+          - faculty: "文学部"
+            semester: "春学期"
+          - faculty: "文学部"
+            semester: "秋学期"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: |
           pip install playwright
           playwright install chromium
           playwright install-deps chromium
-
       - name: Scrape faculty data
         run: python scrape.py
         env:
-          SCRAPE_FACULTY: ${{ matrix.faculty }}
+          SCRAPE_FACULTY: <LaTex>${{ matrix.faculty }}
+          SCRAPE_SEMESTER: $</LaTex>{{ matrix.semester }}
           OUTPUT_DIR: data
-
       - name: Upload faculty data
         uses: actions/upload-artifact@v4
         with:
-          name: data-${{ matrix.faculty }}
+          name: data-<LaTex>${{ matrix.faculty }}-$</LaTex>{{ matrix.semester || 'all' }}
           path: data/
           retention-days: 1
-
   merge:
     needs: scrape
     runs-on: ubuntu-latest
@@ -66,27 +63,22 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Download all faculty data
         uses: actions/download-artifact@v4
         with:
           path: data/
           pattern: data-*
           merge-multiple: true
-
       - name: List downloaded files
         run: ls -la data/
-
       - name: Merge faculty data
         run: python merge.py
         env:
           OUTPUT_DIR: data
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
