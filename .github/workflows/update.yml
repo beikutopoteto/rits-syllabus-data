@@ -53,7 +53,8 @@ jobs:
       - name: Upload faculty data
         uses: actions/upload-artifact@v4
         with:
-          name: data-<LaTex>${{ matrix.faculty }}-$</LaTex>{{ matrix.semester || 'all' }}
+          # <LaTex> などのタグを削除し、変数の書き方を ${{ }} に統一します
+          name: data-${{ matrix.faculty }}-${{ matrix.semester || 'all' }}
           path: data/
           retention-days: 1
   merge:
