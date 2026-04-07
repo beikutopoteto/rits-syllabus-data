@@ -53,8 +53,8 @@ SEMESTERS = [
 
 OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "data")
 
-# 詳細ページ並列取得の同時実行数（サーバー負荷軽減）
-DETAIL_CONCURRENCY = 5
+# 詳細ページ並列取得の同時実行数
+DETAIL_CONCURRENCY = 15
 
 
 async def select_combobox_by_label(page: Page, aria_label: str, value: str):
