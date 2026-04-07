@@ -368,9 +368,17 @@ async def main():
     else:
         target_faculties = FACULTIES
 
+    # 単一セメスターモード: SCRAPE_SEMESTER が指定されていればそのセメスターのみ処理
+    single_semester = os.environ.get("SCRAPE_SEMESTER", "").strip()
+    if single_semester:
+        target_semesters = [single_semester]
+    else:
+        target_semesters = SEMESTERS
+
     print(f"=== 立命館大学シラバス スクレイピング開始 ===")
     print(f"年度: {year}")
     print(f"対象学部: {', '.join(target_faculties)}")
+    print(f"対象セメスター: {', '.join(target_semesters)}")
     print(f"出力先: {OUTPUT_DIR}/")
     print()
 
@@ -393,7 +401,7 @@ async def main():
 
         for faculty in target_faculties:
             print(f"\n--- {faculty} ---")
-            for semester in SEMESTERS:
+            for semester in target_semesters:
                 for day in DAYS:
                     for period in PERIODS:
                         courses = await scrape_faculty_day_period(
