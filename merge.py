@@ -14,7 +14,10 @@ OUTPUT_DIR = os.environ.get("OUTPUT_DIR", "data")
 
 
 def main():
-    pattern = os.path.join(OUTPUT_DIR, "syllabus_*.json")
+    # SCRAPE_YEAR が設定されていれば年度付きファイルを対象にする
+    year_str = os.environ.get("SCRAPE_YEAR", "").strip()
+    year_suffix = f"_{year_str}" if year_str else ""
+    pattern = os.path.join(OUTPUT_DIR, f"syllabus_*{year_suffix}.json")
     files = sorted(glob.glob(pattern))
 
     if not files:
@@ -57,19 +60,24 @@ def main():
         "courses": all_courses,
     }
 
-    output_path = os.path.join(OUTPUT_DIR, "syllabus.json")
+    output_filename = f"syllabus_{year}.json" if year_str else "syllabus.json"
+    output_path = os.path.join(OUTPUT_DIR, output_filename)
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
     # index.json も生成（メタデータのみ、軽量）
+    def fac_filename(fac: str) -> str:
+        safe = fac.replace('・', '_').replace('（', '(').replace('）', ')')
+        return f"syllabus_{safe}_{year}.json" if year_str else f"syllabus_{safe}.json"
+
     index = {
         "lastUpdated": output["lastUpdated"],
         "year": year,
         "totalCourses": len(all_courses),
         "faculties": faculties_found,
         "files": {
-            "all": "syllabus.json",
-            "byFaculty": {fac: f"syllabus_{fac.replace('・', '_').replace('（', '(').replace('）', ')')}.json" for fac in faculties_found},
+            "all": output_filename,
+            "byFaculty": {fac: fac_filename(fac) for fac in faculties_found},
         },
     }
 

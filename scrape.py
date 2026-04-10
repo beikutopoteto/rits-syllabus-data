@@ -428,7 +428,7 @@ async def main():
             "totalCourses": len(all_courses),
             "courses": all_courses,
         }
-        fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}.json")
+        fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}_{year}.json")
         with open(fac_path, "w", encoding="utf-8") as f:
             json.dump(fac_output, f, ensure_ascii=False, indent=2)
 
@@ -445,7 +445,7 @@ async def main():
             "courses": all_courses,
         }
 
-        output_path = os.path.join(OUTPUT_DIR, "syllabus.json")
+        output_path = os.path.join(OUTPUT_DIR, f"syllabus_{year}.json")
         with open(output_path, "w", encoding="utf-8") as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
 
@@ -463,7 +463,7 @@ async def main():
 
         for fac, courses in faculty_data.items():
             safe_name = fac.replace("・", "_").replace("（", "(").replace("）", ")")
-            fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}.json")
+            fac_path = os.path.join(OUTPUT_DIR, f"syllabus_{safe_name}_{year}.json")
             fac_output = {
                 "lastUpdated": output["lastUpdated"],
                 "year": int(year),
