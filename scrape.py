@@ -187,13 +187,13 @@ async def extract_table_rows(page: Page) -> list[dict]:
     テーブル構造（検索結果一覧）:
       [0] TD: チェックボックス（空）
       [1] TH: 授業科目名（リンク付き）
-      [2] TD: 年度
+      [2] TD: 学部・研究科
       [3] TD: 学期
       [4] TD: 開講曜日・時限
-      [5] TD: 学部・研究科
+      [5] TD: キャンパス
       [6] TD: 全担当教員
-      [7] TD: 単位数
-    ※ キャンパス列は一覧には存在しない（詳細ページのみ）
+      [7] TD: 授業で利用する言語
+      [8] TD: 単位数
     """
     rows = []
     table = page.locator("lightning-datatable table tbody tr")
@@ -205,7 +205,7 @@ async def extract_table_rows(page: Page) -> list[dict]:
         cells = row.locator("td, th")
         cell_count = await cells.count()
 
-        if cell_count < 7:
+        if cell_count < 9:
             continue
 
         try:
@@ -219,18 +219,22 @@ async def extract_table_rows(page: Page) -> list[dict]:
             if link_count > 0:
                 syllabus_path = await link.first.get_attribute("href") or ""
 
+            # [2] 学部・研究科
+            faculty_text = await cells.nth(2).inner_text()
             # [3] 学期
             term_text = await cells.nth(3).inner_text()
             # [4] 開講曜日・時限
             day_period_text = await cells.nth(4).inner_text()
-            # [5] 学部・研究科
-            faculty_text = await cells.nth(5).inner_text()
+            # [5] キャンパス
+            campus_text = await cells.nth(5).inner_text()
             # [6] 全担当教員
             instructor_text = await cells.nth(6).inner_text()
-            # [7] 単位数（存在する場合）
+            # [7] 授業で利用する言語
+            language_text = await cells.nth(7).inner_text()
+            # [8] 単位数
             credits_text = ""
-            if cell_count > 7:
-                credits_text = await cells.nth(7).inner_text()
+            if cell_count > 8:
+                credits_text = await cells.nth(8).inner_text()
 
             # 授業コードと科目名を分離 (例: "52595:（留）日本語Ⅷ（アカデミック日本語a）(O1)")
             code = ""
@@ -251,7 +255,9 @@ async def extract_table_rows(page: Page) -> list[dict]:
                 "faculty": faculty_text.strip(),
                 "term": term_text.strip(),
                 "dayPeriod": day_period_text.strip(),
+                "campus": campus_text.strip(),
                 "instructor": instructor_text.strip(),
+                "language": language_text.strip(),
                 "credits": credits_text.strip(),
                 "syllabusUrl": syllabus_url,
                 "room": "",  # 詳細ページ取得後に埋める
