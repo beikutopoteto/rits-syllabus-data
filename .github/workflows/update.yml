@@ -47,7 +47,7 @@ jobs:
       - name: Scrape faculty data
         run: python scrape.py
         env:
-          SCRAPE_YEAR: 2026
+          SCRAPE_YEAR: 2025
           SCRAPE_FACULTY: ${{ matrix.faculty }}
           SCRAPE_SEMESTER: ${{ matrix.semester || '' }}
           OUTPUT_DIR: data
@@ -80,7 +80,7 @@ jobs:
       - name: Merge faculty data
         run: python merge.py
         env:
-          SCRAPE_YEAR: 2026
+          SCRAPE_YEAR: 2025
           OUTPUT_DIR: data
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
