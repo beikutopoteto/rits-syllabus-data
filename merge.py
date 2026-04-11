@@ -28,9 +28,20 @@ def main():
     seen_keys = set()
     faculties_found = []
 
+    # --- 修正前 ---
+# for fpath in files:
+#     with open(fpath, "r", encoding="utf-8") as f:
+#         data = json.load(f)
+
+# --- 修正後 ---
     for fpath in files:
-        with open(fpath, "r", encoding="utf-8") as f:
-            data = json.load(f)
+        try:
+            with open(fpath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except UnicodeDecodeError:
+        # UTF-8でダメなら、日本のシステムでよく使われる cp932 で試す
+            with open(fpath, "r", encoding="cp932") as f:
+                data = json.load(f)
 
         faculty = data.get("faculty", "unknown")
         courses = data.get("courses", [])
@@ -47,10 +58,21 @@ def main():
     # 統合ファイルを出力
     year = datetime.now().year
     # 最初のファイルから年度を取得
+    # --- 修正前 ---
+# if files:
+#     with open(files[0], "r", encoding="utf-8") as f:
+#         first = json.load(f)
+#         year = first.get("year", year)
+
+# --- 修正後 ---
     if files:
-        with open(files[0], "r", encoding="utf-8") as f:
-            first = json.load(f)
-            year = first.get("year", year)
+        try:
+            with open(files[0], "r", encoding="utf-8") as f:
+                 first = json.load(f)
+        except UnicodeDecodeError:
+            with open(files[0], "r", encoding="cp932") as f:
+                 first = json.load(f)
+        year = first.get("year", year)
 
     output = {
         "lastUpdated": datetime.now(timezone.utc).isoformat(),
