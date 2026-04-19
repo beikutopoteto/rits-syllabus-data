@@ -69,7 +69,7 @@ python scrape.py
 | `OUTPUT_DIR` | 出力ディレクトリ | `data` |
 
  ## 著作権およびデータの取り扱いについて
-データの出典
+• データの出典
 本リポジトリで取得・公開している講義情報は、立命館大学 シラバス検索システム（一般公開用）を情報源としています。
 • 出典元URL: https://syllabus.ritsumei.ac.jp/syllabus/s/
 著作権の帰属
