@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T14:02:12.235465+00:00",
+  "lastUpdated": "2026-05-07T15:51:17.300067+00:00",
   "year": 2026,
   "faculty": "理工学部",
-  "totalCourses": 1646,
+  "totalCourses": 1629,
   "courses": [
     {
       "code": "11617",
@@ -655,19 +655,6 @@
       "room": "BKC"
     },
     {
-      "code": "32827",
-      "name": "建築専門演習(8T) § 32828:建築専門演習(8X)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "月2",
-      "campus": "BKC",
-      "instructor": "青木 和雄、近本 智行、福山 智子、本間 睦朗、吉富 信太、李 明香",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwYzQAK/202632827",
-      "room": "コラーニングⅠ　３０１号教室"
-    },
-    {
       "code": "34879",
       "name": "社会と福祉(TB)",
       "faculty": "理工学部,生命科学部,薬学部,スポーツ健康科学部",
@@ -1029,19 +1016,6 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6pQAC/202632303",
-      "room": "BKC"
-    },
-    {
-      "code": "32305",
-      "name": "基礎物理学実験(X2)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "月3,月4,月5",
-      "campus": "BKC",
-      "instructor": "平井 豪",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw8lQAC/202632305",
       "room": "BKC"
     },
     {
@@ -1513,19 +1487,6 @@
       "room": "プリズム情報処理演習室Ｐ３３"
     },
     {
-      "code": "32512",
-      "name": "プロセッサデザイン(6X)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "月4",
-      "campus": "BKC",
-      "instructor": "熊木 武志",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwibQAC/202632512",
-      "room": "フォレストハウス１０８号教室"
-    },
-    {
       "code": "32530",
       "name": "力学Ⅱ (B5) § 32531:力学Ⅱ(Y5)",
       "faculty": "理工学部",
@@ -1693,19 +1654,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwgYQAS/202631811",
       "room": "コラーニングⅠ　２０４号教室"
-    },
-    {
-      "code": "31824",
-      "name": "情報処理(X8)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "月5",
-      "campus": "BKC",
-      "instructor": "岡野 訓尚",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsoQAC/202631824",
-      "room": "フォレストハウス１０１号教室"
     },
     {
       "code": "32194",
@@ -4139,19 +4087,6 @@
       "room": "コラーニングⅠ　１０４号教室"
     },
     {
-      "code": "31011",
-      "name": "（教）数学科授業法 (G2)",
-      "faculty": "理工学部,理工学研究科",
-      "term": "春セメスター",
-      "dayPeriod": "火6",
-      "campus": "BKC",
-      "instructor": "沖 裕貴",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwQzQAK/202631011",
-      "room": "コラーニングⅡ　５０１号教室"
-    },
-    {
       "code": "32993",
       "name": "財務諸表論(E) § 32994:財務・会計論Ⅱ(T1)",
       "faculty": "経済学部,理工学部",
@@ -4542,19 +4477,6 @@
       "room": "コラーニングⅠ情報処理Ｃ３１"
     },
     {
-      "code": "32563",
-      "name": "ＣＡＤ演習Ⅰ(Y5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "水1,水2",
-      "campus": "BKC",
-      "instructor": "南部 紘一郎",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw22QAC/202632563",
-      "room": "コラーニングⅠ情報語学Ｃ１２"
-    },
-    {
       "code": "32564",
       "name": "機械工作実習(A5) § 32565:機械工作実習(5A)",
       "faculty": "理工学部",
@@ -4708,7 +4630,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "11609",
@@ -5751,19 +5673,6 @@
       "room": "コラーニングⅠ情報処理Ｃ２２"
     },
     {
-      "code": "32623",
-      "name": "ＣＡＤ演習Ⅱ(Y5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "水3,水4",
-      "campus": "BKC",
-      "instructor": "渡辺 圭子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwq2QAC/202632623",
-      "room": "コラーニングⅠ情報語学Ｃ１１"
-    },
-    {
       "code": "32624",
       "name": "ＣＡＤ演習Ⅱ (D5)",
       "faculty": "理工学部",
@@ -5775,19 +5684,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwr0QAC/202632624",
       "room": "プリズム情報処理演習室Ｐ３２"
-    },
-    {
-      "code": "32625",
-      "name": "ＣＡＤ演習Ⅱ(Z5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "水3,水4",
-      "campus": "BKC",
-      "instructor": "小林 大造",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwryQAC/202632625",
-      "room": "コラーニングⅠ情報語学Ｃ１２"
     },
     {
       "code": "32660",
@@ -6908,19 +6804,6 @@
       "room": "コラーニングⅠ情報処理Ｃ３２"
     },
     {
-      "code": "32561",
-      "name": "ＣＡＤ演習Ⅰ(X5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "木1,木2",
-      "campus": "BKC",
-      "instructor": "山本 憲隆",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw06QAC/202632561",
-      "room": "コラーニングⅠ情報語学Ｃ１２"
-    },
-    {
       "code": "32570",
       "name": "機械工作実習(F5) § 32571:機械工作実習(5C)",
       "faculty": "理工学部",
@@ -7831,19 +7714,6 @@
       "room": "コラーニングⅠ情報処理Ｃ３１"
     },
     {
-      "code": "32619",
-      "name": "ＣＡＤ演習Ⅱ(W5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "木3,木4",
-      "campus": "BKC",
-      "instructor": "日高 勇気",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmAQAS/202632619",
-      "room": "コラーニングⅠ情報語学Ｃ１２"
-    },
-    {
       "code": "32620",
       "name": "ＣＡＤ演習Ⅱ (B5)",
       "faculty": "理工学部",
@@ -7855,19 +7725,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwn8QAC/202632620",
       "room": "プリズム情報処理演習室Ｐ３３"
-    },
-    {
-      "code": "32621",
-      "name": "ＣＡＤ演習Ⅱ(X5)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "木3,木4",
-      "campus": "BKC",
-      "instructor": "磯崎 瑛宏",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwo6QAC/202632621",
-      "room": "コラーニングⅠ情報語学Ｃ１１"
     },
     {
       "code": "32738",
@@ -8182,32 +8039,6 @@
       "room": "フォレストハウス１０２号教室"
     },
     {
-      "code": "32236",
-      "name": "数理科学セミナー(X1)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "加川 貴章",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwIQQA0/202632236",
-      "room": "プリズムハウス１１２号教室"
-    },
-    {
-      "code": "32240",
-      "name": "数理科学セミナー(Z1)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "石川 元稀、多羅間 大輔、野澤 啓、福本 善洋",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwMIQA0/202632240",
-      "room": "プリズムハウス１０８号教室"
-    },
-    {
       "code": "32265",
       "name": "確率過程論(T1)",
       "faculty": "理工学部",
@@ -8318,7 +8149,7 @@
       "term": "春セメスター",
       "dayPeriod": "木4",
       "campus": "BKC",
-      "instructor": "上杉 薫、植村 充典、織田 健吾、加古川 篤、玄 相昊、小南 貴雅、酒井 滝吉、佐竹 祐紀、下ノ村 和弘、手嶋 教之、野方 誠、平井 慎一、PAUL HANNIBAL、王 忠奎",
+      "instructor": "上杉 薫、植村 充典、織田 健吾、加古川 篤、玄 相昊、小南 貴雅、酒井 滝吉、佐竹 祐紀、下ノ村 和弘、瀧 千波、手嶋 教之、野方 誠、袴田 遼典、平井 慎一、PAUL HANNIBAL、王 忠奎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwSBQA0/202632677",
@@ -9469,19 +9300,6 @@
       "room": "フォレストハウス２０５号教室"
     },
     {
-      "code": "32102",
-      "name": "物理科学２(X)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "金2",
-      "campus": "BKC",
-      "instructor": "俵口 忠功",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvjZQAS/202632102",
-      "room": "フォレストハウス１１２号教室"
-    },
-    {
       "code": "32283",
       "name": "ミクロとマクロの世界(A2)",
       "faculty": "理工学部",
@@ -9571,19 +9389,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKPQA0/202632484",
       "room": "コラーニングⅠ　３０２号教室"
-    },
-    {
-      "code": "32511",
-      "name": "電子回路設計(6X)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "金2",
-      "campus": "BKC",
-      "instructor": "大倉 俊介",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwhdQAC/202632511",
-      "room": "BKC"
     },
     {
       "code": "32733",
@@ -10587,19 +10392,6 @@
       "room": "フォレストハウス２０３号教室"
     },
     {
-      "code": "32238",
-      "name": "数理科学セミナー(Y1)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "金4",
-      "campus": "BKC",
-      "instructor": "渚 勝",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKMQA0/202632238",
-      "room": "プリズムハウス１０５号教室"
-    },
-    {
       "code": "32434",
       "name": "半導体工学(A8)",
       "faculty": "理工学部",
@@ -10832,19 +10624,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwyeQAC/202632092",
       "room": "フォレストハウス２０５号教室"
-    },
-    {
-      "code": "32107",
-      "name": "物理科学３(X8)",
-      "faculty": "理工学部",
-      "term": "春セメスター",
-      "dayPeriod": "金5",
-      "campus": "BKC",
-      "instructor": "濱地 賢太郎",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvnRQAS/202632107",
-      "room": "フォレストハウス１１０号教室"
     },
     {
       "code": "32231",
@@ -21344,7 +21123,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金5",
       "campus": "BKC",
-      "instructor": "足立 佳久、河田 健一、小林 達矢、後藤 智、坂本 俊雄、平岡 実、藤井 太平、王 忠奎",
+      "instructor": "足立 佳久、河田 健一、小林 達矢、後藤 智、坂本 俊雄、藤井 太平、王 忠奎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwT9QAK/202632678",

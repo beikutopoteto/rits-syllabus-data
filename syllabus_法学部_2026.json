@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T13:57:56.090956+00:00",
+  "lastUpdated": "2026-05-07T15:46:47.177363+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1446,
+  "totalCourses": 1443,
   "courses": [
     {
       "code": "12128",
@@ -1615,19 +1615,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHiQAK/202611524",
       "room": "学而館GJ401号教室"
-    },
-    {
-      "code": "12647",
-      "name": "ドイツ語中級表現読解Ⅰ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "中川 洋一",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvXwQAK/202612647",
-      "room": "存心館ZS306号教室"
     },
     {
       "code": "12659",
@@ -3320,19 +3307,6 @@
       "room": "以学館IG302号教室"
     },
     {
-      "code": "12645",
-      "name": "ドイツ語中級コミュニケーションⅠ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "火4",
-      "campus": "衣笠",
-      "instructor": "HINSKEN THOMAS",
-      "language": "ドイツ語（German)",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvW0QAK/202612645",
-      "room": "存心館ZS303号教室"
-    },
-    {
       "code": "12654",
       "name": "中国語中級コミュニケーションⅠ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -3655,7 +3629,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQhQAK/202610003",
-      "room": "啓明館KM201号教室"
+      "room": "研心館KE302号教室"
     },
     {
       "code": "16827",
@@ -4539,7 +4513,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "11609",
@@ -7789,7 +7763,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwgEQAS/202616959",
-      "room": "以学館IG402号教室"
+      "room": "学而館GJ301号教室"
     },
     {
       "code": "10012",
@@ -7997,7 +7971,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUrQAK/202611565",
-      "room": "洋洋館YY203号教室"
+      "room": "学而館GJ307号教室"
     },
     {
       "code": "14505",
@@ -9142,19 +9116,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwhCQAS/202616960",
       "room": "明学館MG201号教室"
-    },
-    {
-      "code": "12650",
-      "name": "ドイツ語中級表現読解Ⅳ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "金4",
-      "campus": "衣笠",
-      "instructor": "村本 容子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaqQAC/202612650",
-      "room": "存心館ZS407号教室"
     },
     {
       "code": "12656",

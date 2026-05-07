@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T13:20:47.717651+00:00",
+  "lastUpdated": "2026-05-07T15:09:53.283506+00:00",
   "year": 2026,
   "faculty": "スポーツ健康科学部",
-  "totalCourses": 749,
+  "totalCourses": 747,
   "courses": [
     {
       "code": "34196",
@@ -510,19 +510,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqGQAS/202633820",
       "room": "コラーニングⅠ　１０７号教室"
-    },
-    {
-      "code": "33837",
-      "name": "パフォーマンス測定評価実習Ⅰ(VA)",
-      "faculty": "スポーツ健康科学部",
-      "term": "春セメスター",
-      "dayPeriod": "月3,月4",
-      "campus": "BKC/BKC",
-      "instructor": "一瀬 星空",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx0uQAC/202633837",
-      "room": "ラルカディア　２０２号教室/ラルカディア　２０２号教室"
     },
     {
       "code": "34044",
@@ -1068,7 +1055,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RweyQAC/202633805",
-      "room": "コラーニングⅠ　３０５号教室"
+      "room": "コラーニングⅠ　４０３号教室"
     },
     {
       "code": "34019",
@@ -1900,7 +1887,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "34220",
@@ -2407,7 +2394,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwhtQAC/202633897",
-      "room": "コラーニングⅠ　２０５号教室"
+      "room": "コラーニングⅠ　３０３号教室"
     },
     {
       "code": "33904",
@@ -2485,7 +2472,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIdQAK/202634886",
-      "room": "コラーニングⅠ　２０４号教室"
+      "room": "コラーニングⅠ　１０３号教室"
     },
     {
       "code": "33894",
@@ -3551,7 +3538,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rww6QAC/202634016",
-      "room": "コラーニングⅠ　２０５号教室"
+      "room": "コラーニングⅠ　４０１号教室"
     },
     {
       "code": "17095",
@@ -3681,7 +3668,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrEQAS/202633821",
-      "room": "コラーニングⅠ　２０５号教室"
+      "room": "コラーニングⅠ　４０１号教室"
     },
     {
       "code": "33834",
@@ -4240,7 +4227,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwB1QAK/202634075",
-      "room": "ラルカディア　４１０号教室"
+      "room": "ラルカディア　４０７号教室"
     },
     {
       "code": "34076",
@@ -4253,7 +4240,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwBzQAK/202634076",
-      "room": "ラルカディア　４１１号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34077",
@@ -4266,7 +4253,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwCxQAK/202634077",
-      "room": "ラルカディア　４１２号教室"
+      "room": "ラルカディア　４１１号教室"
     },
     {
       "code": "34078",
@@ -4279,7 +4266,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwDvQAK/202634078",
-      "room": "ラルカディア　４１３号教室"
+      "room": "ラルカディア　４１２号教室"
     },
     {
       "code": "34080",
@@ -4292,7 +4279,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwFrQAK/202634080",
-      "room": "ラルカディア　４１４号教室"
+      "room": "ラルカディア　４１３号教室"
     },
     {
       "code": "34081",
@@ -4305,7 +4292,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwGpQAK/202634081",
-      "room": "ラルカディア　４０７号教室"
+      "room": "ラルカディア　４１４号教室"
     },
     {
       "code": "16877",
@@ -4435,7 +4422,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw0NQAS/202634064",
-      "room": "ラルカディア　４１０号教室"
+      "room": "ラルカディア　４０６号教室"
     },
     {
       "code": "34065",
@@ -4513,7 +4500,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwOZQA0/202634089",
-      "room": "ラルカディア　４０６号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "17092",
@@ -4669,7 +4656,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvzPQAS/202634063",
-      "room": "ラルカディア　４１０号教室"
+      "room": "ラルカディア　４０７号教室"
     },
     {
       "code": "34069",
@@ -4695,7 +4682,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6BQAS/202634070",
-      "room": "ラルカディア　４１２号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34071",
@@ -4708,7 +4695,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw79QAC/202634071",
-      "room": "ラルカディア　４１３号教室"
+      "room": "ラルカディア　４１２号教室"
     },
     {
       "code": "34072",
@@ -4721,7 +4708,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw87QAC/202634072",
-      "room": "ラルカディア　４１４号教室"
+      "room": "ラルカディア　４１３号教室"
     },
     {
       "code": "34073",
@@ -4734,7 +4721,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw95QAC/202634073",
-      "room": "ラルカディア　４０７号教室"
+      "room": "ラルカディア　４１４号教室"
     },
     {
       "code": "34836",
@@ -4900,7 +4887,7 @@
       "dayPeriod": "月1",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwTPQA0/202634094",
       "room": "ラルカディア　３１４号教室"
@@ -4913,7 +4900,7 @@
       "dayPeriod": "月1",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwUNQA0/202634095",
       "room": "ラルカディア　３１５号教室"
@@ -5030,7 +5017,7 @@
       "dayPeriod": "月2",
       "campus": "BKC",
       "instructor": "大賀 まゆみ",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwVLQA0/202634096",
       "room": "ラルカディア　３１３号教室"
@@ -5043,7 +5030,7 @@
       "dayPeriod": "月2",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWJQA0/202634097",
       "room": "ラルカディア　３１４号教室"
@@ -5056,7 +5043,7 @@
       "dayPeriod": "月2",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwXHQA0/202634098",
       "room": "ラルカディア　３１５号教室"
@@ -5238,7 +5225,7 @@
       "dayPeriod": "月3",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwYFQA0/202634099",
       "room": "ラルカディア　３１４号教室"
@@ -5251,7 +5238,7 @@
       "dayPeriod": "月3",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwZDQA0/202634100",
       "room": "ラルカディア　３１５号教室"
@@ -5420,7 +5407,7 @@
       "dayPeriod": "月4",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaBQAS/202634101",
       "room": "ラルカディア　３１４号教室"
@@ -5511,7 +5498,7 @@
       "dayPeriod": "月5",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwb9QAC/202634102",
       "room": "ラルカディア　３１５号教室"
@@ -5524,7 +5511,7 @@
       "dayPeriod": "月5",
       "campus": "BKC",
       "instructor": "生駒 万貴",
-      "language": "",
+      "language": "日本語および英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwd5QAC/202634104",
       "room": "ラルカディア　３１４号教室"
@@ -5693,7 +5680,7 @@
       "dayPeriod": "火1",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwfzQAC/202634107",
       "room": "ラルカディア　４０３号教室"
@@ -5706,7 +5693,7 @@
       "dayPeriod": "火1",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwgxQAC/202634108",
       "room": "ラルカディア　４０４号教室"
@@ -5900,7 +5887,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火2",
       "campus": "BKC",
-      "instructor": "前大 純朗",
+      "instructor": "一瀬 星空",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwa8QAC/202633799",
@@ -5940,7 +5927,7 @@
       "dayPeriod": "火2",
       "campus": "BKC",
       "instructor": "生駒 万貴",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwitQAC/202634110",
       "room": "ラルカディア　４０２号教室"
@@ -5953,7 +5940,7 @@
       "dayPeriod": "火2",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwjrQAC/202634111",
       "room": "ラルカディア　４０３号教室"
@@ -5966,7 +5953,7 @@
       "dayPeriod": "火2",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmRQAS/202634112",
       "room": "ラルカディア　４０４号教室"
@@ -6122,7 +6109,7 @@
       "dayPeriod": "火3",
       "campus": "BKC",
       "instructor": "生駒 万貴",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnPQAS/202634113",
       "room": "ラルカディア　４０２号教室"
@@ -6135,7 +6122,7 @@
       "dayPeriod": "火3",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwoNQAS/202634114",
       "room": "ラルカディア　４０３号教室"
@@ -6148,7 +6135,7 @@
       "dayPeriod": "火3",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwpLQAS/202634115",
       "room": "ラルカディア　４０４号教室"
@@ -6278,7 +6265,7 @@
       "dayPeriod": "火4",
       "campus": "BKC",
       "instructor": "守津 蘭",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqJQAS/202634116",
       "room": "ラルカディア　４０３号教室"
@@ -6291,7 +6278,7 @@
       "dayPeriod": "火4",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrHQAS/202634117",
       "room": "ラルカディア　４０４号教室"
@@ -6356,7 +6343,7 @@
       "dayPeriod": "火5",
       "campus": "BKC",
       "instructor": "生駒 万貴",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwsFQAS/202634118",
       "room": "ラルカディア　４０２号教室"
@@ -7322,19 +7309,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwh6QAC/202634848",
       "room": "コラーニングⅠ　２０４号教室"
-    },
-    {
-      "code": "33758",
-      "name": "日本語表現法(V)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "BKC",
-      "instructor": "塩澤 華奈",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw1IQAS/202633758",
-      "room": "コラーニングⅠ情報語学Ｃ１１"
     },
     {
       "code": "34027",
@@ -8673,7 +8647,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmOQAS/202633813",
-      "room": "コラーニングⅠ　３０５号教室"
+      "room": "コラーニングⅠ　３０３号教室"
     },
     {
       "code": "33890",
@@ -8826,7 +8800,7 @@
       "dayPeriod": "木5",
       "campus": "BKC",
       "instructor": "武田 千絵",
-      "language": "",
+      "language": "外国語教育科目",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwtDQAS/202634119",
       "room": "ラルカディア　４１５号教室"
@@ -8956,7 +8930,7 @@
       "dayPeriod": "金1",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9iQAC/202634141",
       "room": "ラルカディア　４０３号教室"
@@ -8969,7 +8943,7 @@
       "dayPeriod": "金1",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAfQAK/202634142",
       "room": "ラルカディア　４０４号教室"
@@ -8982,7 +8956,7 @@
       "dayPeriod": "金1",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvCZQA0/202634144",
       "room": "ラルカディア　４０５号教室"
@@ -8995,7 +8969,7 @@
       "dayPeriod": "金1",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvETQA0/202634146",
       "room": "ラルカディア　４０６号教室"
@@ -9008,7 +8982,7 @@
       "dayPeriod": "金1",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvFQQA0/202634147",
       "room": "ラルカディア　４０７号教室"
@@ -9180,7 +9154,7 @@
       "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1DQAS/202634132",
-      "room": "ラルカディア　４０３号教室"
+      "room": "ラルカディア　４０７号教室"
     },
     {
       "code": "34133",
@@ -9190,7 +9164,7 @@
       "dayPeriod": "金2",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv29QAC/202634133",
       "room": "ラルカディア　４０４号教室"
@@ -9203,7 +9177,7 @@
       "dayPeriod": "金2",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv35QAC/202634134",
       "room": "ラルカディア　４０５号教室"
@@ -9216,7 +9190,7 @@
       "dayPeriod": "金2",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv41QAC/202634135",
       "room": "ラルカディア　４０６号教室"
@@ -9229,7 +9203,7 @@
       "dayPeriod": "金2",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4xQAC/202634136",
       "room": "ラルカディア　４０７号教室"
@@ -9242,7 +9216,7 @@
       "dayPeriod": "金2",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv5uQAC/202634137",
       "room": "ラルカディア　４１０号教室"
@@ -9385,7 +9359,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwv9QAC/202634121",
       "room": "ラルカディア　４０３号教室"
@@ -9398,7 +9372,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rww7QAC/202634122",
       "room": "ラルカディア　４０４号教室"
@@ -9411,7 +9385,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwx5QAC/202634123",
       "room": "ラルカディア　４０５号教室"
@@ -9424,7 +9398,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwy3QAC/202634124",
       "room": "ラルカディア　４０６号教室"
@@ -9437,7 +9411,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwz1QAC/202634125",
       "room": "ラルカディア　４０７号教室"
@@ -9450,7 +9424,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQaQAK/202634157",
       "room": "ラルカディア　４１０号教室"
@@ -9463,7 +9437,7 @@
       "dayPeriod": "金3",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvRYQA0/202634158",
       "room": "ラルカディア　４１１号教室"
@@ -9606,7 +9580,7 @@
       "dayPeriod": "金4",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwzzQAC/202634126",
       "room": "ラルカディア　４０４号教室"
@@ -9619,7 +9593,7 @@
       "dayPeriod": "金4",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx0xQAC/202634127",
       "room": "ラルカディア　４０５号教室"
@@ -9632,7 +9606,7 @@
       "dayPeriod": "金4",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx1vQAC/202634128",
       "room": "ラルカディア　４０６号教室"
@@ -9645,7 +9619,7 @@
       "dayPeriod": "金4",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6EQAS/202634129",
       "room": "ラルカディア　４０７号教室"
@@ -9658,7 +9632,7 @@
       "dayPeriod": "金4",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7CQAS/202634130",
       "room": "ラルカディア　４１０号教室"
@@ -9736,7 +9710,7 @@
       "dayPeriod": "金5",
       "campus": "BKC",
       "instructor": "祐伯 敦史",
-      "language": "",
+      "language": "英語、日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv0HQAS/202634131",
       "room": "ラルカディア　４１０号教室"

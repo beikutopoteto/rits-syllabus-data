@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T13:25:40.141416+00:00",
+  "lastUpdated": "2026-05-07T15:15:30.437202+00:00",
   "year": 2026,
   "faculty": "生命科学部",
-  "totalCourses": 805,
+  "totalCourses": 804,
   "courses": [
     {
       "code": "34196",
@@ -2202,19 +2202,6 @@
       "room": "フォレストハウス１０４号教室"
     },
     {
-      "code": "30616",
-      "name": "生物工学基礎演習1(MC)",
-      "faculty": "生命科学部",
-      "term": "春セメスター",
-      "dayPeriod": "水1",
-      "campus": "BKC",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwO0QAK/202630616",
-      "room": "フォレストハウス１０９号教室"
-    },
-    {
       "code": "30627",
       "name": "生命情報学基礎演習１(MA)",
       "faculty": "生命科学部",
@@ -2459,7 +2446,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "34220",
@@ -4067,7 +4054,7 @@
       "term": "春２Ｑ",
       "dayPeriod": "木3,木4,木5",
       "campus": "BKC",
-      "instructor": "稲田 康宏、折笠 有基、桑田 繁樹、越山 友美、鐘 承超、下田 景士",
+      "instructor": "稲田 康宏、岡崎 健一、折笠 有基、桑田 繁樹、越山 友美、鐘 承超、下田 景士",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwDMQA0/202630605",

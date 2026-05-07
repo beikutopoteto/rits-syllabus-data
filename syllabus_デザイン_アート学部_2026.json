@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T13:06:55.893993+00:00",
+  "lastUpdated": "2026-05-07T14:56:15.715867+00:00",
   "year": 2026,
   "faculty": "デザイン・アート学部",
   "totalCourses": 376,
@@ -314,7 +314,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvArQAK/202616832",
-      "room": "明学館MG401号教室"
+      "room": "研心館KE402号教室"
     },
     {
       "code": "15065",
@@ -1289,7 +1289,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "10216",
@@ -2121,7 +2121,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwgEQAS/202616959",
-      "room": "以学館IG402号教室"
+      "room": "学而館GJ301号教室"
     },
     {
       "code": "16928",

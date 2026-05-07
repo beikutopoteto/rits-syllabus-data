@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T13:53:02.117373+00:00",
+  "lastUpdated": "2026-05-07T15:42:49.933499+00:00",
   "year": 2026,
   "faculty": "経営学部",
   "totalCourses": 1356,
@@ -3538,7 +3538,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "11609",
@@ -8543,7 +8543,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RystQAC/202652157",
-      "room": "AC330講義室"
+      "room": "AC232講義室"
     },
     {
       "code": "52276",
@@ -8569,7 +8569,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyFPQA0/202652290",
-      "room": "AC232講義室"
+      "room": "AC330講義室"
     },
     {
       "code": "52306",

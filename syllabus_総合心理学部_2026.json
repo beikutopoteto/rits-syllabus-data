@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T13:17:15.409933+00:00",
+  "lastUpdated": "2026-05-07T15:06:42.192148+00:00",
   "year": 2026,
   "faculty": "総合心理学部",
-  "totalCourses": 648,
+  "totalCourses": 646,
   "courses": [
     {
       "code": "52595",
@@ -2644,19 +2644,6 @@
       "room": "AC343セミナールーム"
     },
     {
-      "code": "54155",
-      "name": "プロジェクト研究Ⅲ (CB)",
-      "faculty": "総合心理学部",
-      "term": "春セメスター",
-      "dayPeriod": "水5",
-      "campus": "OIC",
-      "instructor": "澤野 美智子",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxiVQAS/202654155",
-      "room": "AC344セミナールーム"
-    },
-    {
       "code": "54176",
       "name": "プロジェクト研究Ⅴ (CA)",
       "faculty": "総合心理学部",
@@ -2694,19 +2681,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyRLQA0/202654198",
       "room": "AC343セミナールーム"
-    },
-    {
-      "code": "54199",
-      "name": "プロジェクト研究Ⅶ (CB)",
-      "faculty": "総合心理学部",
-      "term": "春セメスター",
-      "dayPeriod": "水5",
-      "campus": "OIC",
-      "instructor": "澤野 美智子",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RySJQA0/202654199",
-      "room": "AC344セミナールーム"
     },
     {
       "code": "54224",

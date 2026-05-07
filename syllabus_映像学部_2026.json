@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T13:21:17.408576+00:00",
+  "lastUpdated": "2026-05-07T15:10:08.029142+00:00",
   "year": 2026,
   "faculty": "映像学部",
   "totalCourses": 749,
@@ -1666,7 +1666,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "11553",
@@ -2108,7 +2108,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxMhQAK/202650906",
-      "room": "H242セミナールーム"
+      "room": "シアター教室"
     },
     {
       "code": "50930",
@@ -3148,7 +3148,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxtCQAS/202654498",
-      "room": "AN110講義室"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "34945",
@@ -3681,7 +3681,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUrQAK/202611565",
-      "room": "洋洋館YY203号教室"
+      "room": "学而館GJ307号教室"
     },
     {
       "code": "54600",
@@ -5579,7 +5579,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZlQAK/202612994",
-      "room": "洋洋館YY201号教室"
+      "room": "清心館SE009号教室"
     },
     {
       "code": "50848",

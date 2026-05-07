@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-04-14T13:48:25.321819+00:00",
+  "lastUpdated": "2026-05-07T15:37:30.348284+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
-  "totalCourses": 1235,
+  "totalCourses": 1228,
   "courses": [
     {
       "code": "11617",
@@ -366,7 +366,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvESQA0/202615184",
-      "room": "恒心館KS206号教室"
+      "room": "洋洋館YY001号教室"
     },
     {
       "code": "15272",
@@ -1292,19 +1292,6 @@
       "room": "諒友館RY305号教室/諒友館RY305号教室"
     },
     {
-      "code": "15639",
-      "name": "IR18‐BD371 アラビア語Ⅲ(R) § 15640:IR-BC372 アラビア語Ⅲ(R)",
-      "faculty": "国際関係学部",
-      "term": "春セメスター",
-      "dayPeriod": "月4",
-      "campus": "衣笠",
-      "instructor": "KHASHAN AMMAR",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujUQAS/202615639",
-      "room": "恒心館KS207号教室"
-    },
-    {
       "code": "15718",
       "name": "IR18‐DJ301 国際関係思想(R) § 15719:IR-DR301 国際関係学Ⅲ(R)",
       "faculty": "国際関係学部",
@@ -1394,19 +1381,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvHiQAK/202611524",
       "room": "学而館GJ401号教室"
-    },
-    {
-      "code": "12647",
-      "name": "ドイツ語中級表現読解Ⅰ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "中川 洋一",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvXwQAK/202612647",
-      "room": "存心館ZS306号教室"
     },
     {
       "code": "12659",
@@ -1667,19 +1641,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvk3QAC/202616105",
       "room": "諒友館RY206号教室"
-    },
-    {
-      "code": "16108",
-      "name": "IR18‐HJ301 専門演習(37)",
-      "faculty": "国際関係学部",
-      "term": "春セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "中川 涼司",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvmxQAC/202616108",
-      "room": "諒友館RY305号教室"
     },
     {
       "code": "16115",
@@ -3060,19 +3021,6 @@
       "room": "ラルカディア　３０４号教室"
     },
     {
-      "code": "12645",
-      "name": "ドイツ語中級コミュニケーションⅠ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "火4",
-      "campus": "衣笠",
-      "instructor": "HINSKEN THOMAS",
-      "language": "ドイツ語（German)",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvW0QAK/202612645",
-      "room": "存心館ZS303号教室"
-    },
-    {
       "code": "12654",
       "name": "中国語中級コミュニケーションⅠ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -3967,7 +3915,7 @@
       "language": "日本語と英語：説明は日本語でも行うが、英語で考える習慣を醸成することを目指し、授業の後半では、英語で聞き取ったことを日本語に翻訳せず、英語ままで議論できることを目指す。",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnZQAS/202634943",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅡ　６０４号教室"
     },
     {
       "code": "11609",
@@ -6918,7 +6866,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUrQAK/202611565",
-      "room": "洋洋館YY203号教室"
+      "room": "学而館GJ307号教室"
     },
     {
       "code": "15165",
@@ -6983,7 +6931,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucyQAC/202615839",
-      "room": "洋洋館YY201号教室"
+      "room": "諒友館RY208号教室"
     },
     {
       "code": "16060",
@@ -7025,19 +6973,6 @@
       "room": "AS464セミナールーム"
     },
     {
-      "code": "51288",
-      "name": "国際PBLセミナー2 (EPS)(P) § 51289:IR18‐FE201 Special Lecture (Core Related Course)(RK) § 51290:IR-EDS201 Special Lecture (Core Related Course)(RK) § 51291:International PBL Seminar 2(P)",
-      "faculty": "国際関係学部,政策科学部",
-      "term": "春セメスター",
-      "dayPeriod": "木5",
-      "campus": "OIC",
-      "instructor": "SCHROEDER MARTIN、豊田 祐輔",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyJ8QAK/202651288",
-      "room": "OIC"
-    },
-    {
       "code": "11547",
       "name": "（留）日本語Ⅷ（キャリア日本語a）(GB)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部,映像学部",
@@ -7074,7 +7009,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqvQAC/202615325",
-      "room": "恒心館KS306号教室"
+      "room": "明学館MG001号教室"
     },
     {
       "code": "15693",
@@ -7675,19 +7610,6 @@
       "room": "以学館IG307号教室"
     },
     {
-      "code": "12650",
-      "name": "ドイツ語中級表現読解Ⅳ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "春セメスター",
-      "dayPeriod": "金4",
-      "campus": "衣笠",
-      "instructor": "村本 容子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaqQAC/202612650",
-      "room": "存心館ZS407号教室"
-    },
-    {
       "code": "12656",
       "name": "中国語中級表現読解Ⅰ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -8063,19 +7985,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvBhQAK/202615910",
       "room": "明学館MG002号教室"
-    },
-    {
-      "code": "16005",
-      "name": "IR18‐FJ204 プロフェッショナル・ワークショップ(RA) § 16006:IR-EDR304 プロフェッショナル・ワークショップ(RA)",
-      "faculty": "国際関係学部",
-      "term": "春セメスター",
-      "dayPeriod": "金4,金5",
-      "campus": "衣笠/衣笠",
-      "instructor": "石川 幸子",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNnQAK/202616005",
-      "room": "恒心館KS202号教室/恒心館KS202号教室"
     },
     {
       "code": "16007",
@@ -15377,7 +15286,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "CHADHA Astha",
+      "instructor": "AVILES ERNULT J. R.",
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOGQA0/202615816",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T13:24:28.365550+00:00",
+  "lastUpdated": "2026-05-07T15:19:16.728407+00:00",
   "year": 2026,
   "faculty": "食マネジメント学部",
   "totalCourses": 775,
@@ -3054,7 +3054,7 @@
       "dayPeriod": "水4",
       "campus": "BKC",
       "instructor": "阿良田 麻里子",
-      "language": "",
+      "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD0000062TVVQA2/202635088",
       "room": "ラルカディア　４１３号教室"
@@ -3746,7 +3746,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwSWQA0/202634542",
-      "room": "ラルカディア　３０８号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34543",
@@ -4071,7 +4071,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwXOQA0/202634693",
-      "room": "ラルカディア　３０８号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34694",
@@ -8738,7 +8738,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwB8QAK/202634670",
-      "room": "ラルカディア　３０８号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34671",
@@ -9063,7 +9063,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwvGQAS/202634716",
-      "room": "ラルカディア　３０８号教室"
+      "room": "ラルカディア　４１０号教室"
     },
     {
       "code": "34717",
