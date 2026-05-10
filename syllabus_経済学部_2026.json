@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-05-07T15:42:58.018982+00:00",
+  "lastUpdated": "2026-05-10T20:22:20.116213+00:00",
   "year": 2026,
   "faculty": "経済学部",
-  "totalCourses": 1279,
+  "totalCourses": 1280,
   "courses": [
     {
       "code": "11617",
@@ -4280,6 +4280,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxMDQA0/202633306",
       "room": "アドセミナリオ３１０号教室"
+    },
+    {
+      "code": "33307",
+      "name": "演習Ⅱ(13)",
+      "faculty": "経済学部",
+      "term": "春セメスター",
+      "dayPeriod": "水3",
+      "campus": "BKC",
+      "instructor": "河音 琢郎",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNBQA0/202633307",
+      "room": "アドセミナリオ４０５号教室"
     },
     {
       "code": "33309",
