@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T20:21:06.302351+00:00",
+  "lastUpdated": "2026-05-17T20:28:34.849313+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
   "totalCourses": 1228,
@@ -10808,6 +10808,19 @@
       "room": "恒心館KS305号教室"
     },
     {
+      "code": "15816",
+      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
+      "faculty": "国際関係学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火3",
+      "campus": "衣笠",
+      "instructor": "AVILES ERNULT J. R.",
+      "language": "英語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOGQA0/202615816",
+      "room": "恒心館KS306号教室"
+    },
+    {
       "code": "15833",
       "name": "IR18‐EBJ209 開発経済論Ⅱ(R)",
       "faculty": "国際関係学部",
@@ -15278,19 +15291,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv6vQAC/202615770",
       "room": "恒心館KS209号教室"
-    },
-    {
-      "code": "15816",
-      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
-      "faculty": "国際関係学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金3",
-      "campus": "衣笠",
-      "instructor": "AVILES ERNULT J. R.",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOGQA0/202615816",
-      "room": "明学館MG002号教室"
     },
     {
       "code": "15859",

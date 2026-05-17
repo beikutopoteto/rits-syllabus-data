@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T20:35:51.513556+00:00",
+  "lastUpdated": "2026-05-17T20:42:51.782803+00:00",
   "year": 2026,
   "faculty": "理工学部",
   "totalCourses": 1629,
@@ -2247,7 +2247,7 @@
       "term": "春セメスター",
       "dayPeriod": "火1,火2",
       "campus": "BKC",
-      "instructor": "岡野 訓尚、佐野 明秀、諏訪田 剛、峯元 高志",
+      "instructor": "岡野 訓尚、佐野 明秀、諏訪田 剛、原 知彦、峯元 高志",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwFYQA0/202632401",
@@ -3551,7 +3551,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwspQAC/202631951",
-      "room": "フォレストハウス１０７号教室"
+      "room": "フォレストハウス１０２号教室"
     },
     {
       "code": "31953",

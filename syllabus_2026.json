@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T20:43:21.069733+00:00",
+  "lastUpdated": "2026-05-17T20:51:00.736482+00:00",
   "year": 2026,
   "totalCourses": 9756,
   "faculties": [
@@ -24332,6 +24332,19 @@
       "room": "恒心館KS305号教室"
     },
     {
+      "code": "15816",
+      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
+      "faculty": "国際関係学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火3",
+      "campus": "衣笠",
+      "instructor": "AVILES ERNULT J. R.",
+      "language": "英語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOGQA0/202615816",
+      "room": "恒心館KS306号教室"
+    },
+    {
       "code": "15833",
       "name": "IR18‐EBJ209 開発経済論Ⅱ(R)",
       "faculty": "国際関係学部",
@@ -27723,19 +27736,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv6vQAC/202615770",
       "room": "恒心館KS209号教室"
-    },
-    {
-      "code": "15816",
-      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
-      "faculty": "国際関係学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金3",
-      "campus": "衣笠",
-      "instructor": "AVILES ERNULT J. R.",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOGQA0/202615816",
-      "room": "明学館MG002号教室"
     },
     {
       "code": "15859",
@@ -60751,7 +60751,7 @@
       "term": "春セメスター",
       "dayPeriod": "火1,火2",
       "campus": "BKC",
-      "instructor": "岡野 訓尚、佐野 明秀、諏訪田 剛、峯元 高志",
+      "instructor": "岡野 訓尚、佐野 明秀、諏訪田 剛、原 知彦、峯元 高志",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwFYQA0/202632401",
@@ -61717,7 +61717,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwspQAC/202631951",
-      "room": "フォレストハウス１０７号教室"
+      "room": "フォレストハウス１０２号教室"
     },
     {
       "code": "31953",
@@ -108335,7 +108335,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnFQAS/202633188",
-      "room": "アドセミナリオ３１０号教室"
+      "room": "プリズム・情報処理演習室Ｐ２５"
     },
     {
       "code": "33189",
@@ -116785,7 +116785,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyhmQAC/202654068",
-      "room": "AN211講義室"
+      "room": "授業で利用する言語"
     },
     {
       "code": "54095",
