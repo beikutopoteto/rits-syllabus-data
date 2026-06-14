@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T20:42:12.522281+00:00",
+  "lastUpdated": "2026-06-14T20:44:33.448033+00:00",
   "year": 2026,
   "faculty": "経済学部",
   "totalCourses": 1280,
@@ -11965,19 +11965,6 @@
       "room": "アドセミナリオ２１０号教室"
     },
     {
-      "code": "30433",
-      "name": "Comprehensive Skills 2(SG)",
-      "faculty": "経済学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水2",
-      "campus": "BKC",
-      "instructor": "大橋 香苗",
-      "language": "English/Japanese",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwM2QAK/202630433",
-      "room": "ラルカディア　４０２号教室"
-    },
-    {
       "code": "33004",
       "name": "民法Ⅱ(E)",
       "faculty": "経済学部",
@@ -15694,6 +15681,19 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw2eQAC/202630192",
       "room": "ラルカディア　４１１号教室"
+    },
+    {
+      "code": "30433",
+      "name": "Comprehensive Skills 2(SG)",
+      "faculty": "経済学部",
+      "term": "秋セメスター",
+      "dayPeriod": "金1",
+      "campus": "BKC",
+      "instructor": "大橋 香苗",
+      "language": "English/Japanese",
+      "credits": "1",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwM2QAK/202630433",
+      "room": "ラルカディア　３０４号教室"
     },
     {
       "code": "33031",

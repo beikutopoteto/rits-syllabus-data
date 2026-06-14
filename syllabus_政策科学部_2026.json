@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-07T20:23:16.628416+00:00",
+  "lastUpdated": "2026-06-14T20:25:22.039975+00:00",
   "year": 2026,
   "faculty": "政策科学部",
-  "totalCourses": 840,
+  "totalCourses": 839,
   "courses": [
     {
       "code": "52595",
@@ -2772,19 +2772,6 @@
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxveQAC/202651750",
       "room": "AS465セミナールーム"
-    },
-    {
-      "code": "51753",
-      "name": "学士論文(H)",
-      "faculty": "政策科学部",
-      "term": "春セメスター",
-      "dayPeriod": "水4",
-      "campus": "OIC",
-      "instructor": "藤井 禎介",
-      "language": "日本語",
-      "credits": "4",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxyYQAS/202651753",
-      "room": "AS455セミナールーム"
     },
     {
       "code": "51777",
