@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-14T20:01:29.513602+00:00",
+  "lastUpdated": "2026-06-28T19:56:20.353579+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
-  "totalCourses": 187,
+  "totalCourses": 185,
   "courses": [
     {
       "code": "52752",
@@ -1305,19 +1305,6 @@
       "room": "AN510セミナールーム"
     },
     {
-      "code": "52876",
-      "name": "LASS 2010 Special Lecture (Social Sciences)(IO)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月2",
-      "campus": "OIC",
-      "instructor": "塚田 英恵",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIAQA0/202652876",
-      "room": "AN524ラーニング・スタジオ"
-    },
-    {
       "code": "52790",
       "name": "SOC 1001 Introduction to Research Methods in Social Sciences(IB) § 52791:Research Design and Research Method (IB)",
       "faculty": "グローバル教養学部",
@@ -1342,19 +1329,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx9mQAC/202652869",
       "room": "AN517ラーニング・スタジオ"
-    },
-    {
-      "code": "52901",
-      "name": "POLS 1001 Introduction to Politics (IB)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月3,木3",
-      "campus": "OIC/OIC",
-      "instructor": "志村 真弓",
-      "language": "English",
-      "credits": "4",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxgMQAS/202652901",
-      "room": "AN520セミナールーム/AS557ラーニング・スタジオ"
     },
     {
       "code": "52810",
@@ -1981,19 +1955,6 @@
       "room": "AS550セミナールーム"
     },
     {
-      "code": "52878",
-      "name": "LASS 2010 Special Lecture (Social Sciences)(IQ)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "OIC",
-      "instructor": "塚田 英恵",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxK6QAK/202652878",
-      "room": "AS557ラーニング・スタジオ"
-    },
-    {
       "code": "52915",
       "name": "SOC 2002 Contemporary Social and Political Theory(I)",
       "faculty": "グローバル教養学部",
@@ -2213,6 +2174,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOBQA0/202615224",
       "room": "諒友館RY402号教室"
+    },
+    {
+      "code": "52901",
+      "name": "POLS 1001 Introduction to Politics (IB)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "木3,木4",
+      "campus": "OIC/OIC",
+      "instructor": "志村 真弓",
+      "language": "English",
+      "credits": "4",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxgMQAS/202652901",
+      "room": "AN521ラーニング・スタジオ/AN521ラーニング・スタジオ"
     },
     {
       "code": "54698",
