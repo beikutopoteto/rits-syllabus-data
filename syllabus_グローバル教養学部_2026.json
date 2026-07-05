@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-06-28T19:56:20.353579+00:00",
+  "lastUpdated": "2026-07-05T19:53:57.218605+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
-  "totalCourses": 185,
+  "totalCourses": 184,
   "courses": [
     {
       "code": "52752",
@@ -1305,19 +1305,6 @@
       "room": "AN510セミナールーム"
     },
     {
-      "code": "52790",
-      "name": "SOC 1001 Introduction to Research Methods in Social Sciences(IB) § 52791:Research Design and Research Method (IB)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月3,水3",
-      "campus": "OIC/OIC",
-      "instructor": "糸井 貴夕",
-      "language": "English",
-      "credits": "4",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPtQAK/202652790",
-      "room": "AN524ラーニング・スタジオ/AN524ラーニング・スタジオ"
-    },
-    {
       "code": "52869",
       "name": "LASS 2010 Special Lecture (Social Sciences)(IG)",
       "faculty": "グローバル教養学部",
@@ -1331,6 +1318,19 @@
       "room": "AN517ラーニング・スタジオ"
     },
     {
+      "code": "52790",
+      "name": "SOC 1001 Introduction to Research Methods in Social Sciences(IB) § 52791:Research Design and Research Method (IB)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "月4,水3",
+      "campus": "OIC/OIC",
+      "instructor": "糸井 貴夕",
+      "language": "English",
+      "credits": "4",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPtQAK/202652790",
+      "room": "AS560セミナールーム/AN524ラーニング・スタジオ"
+    },
+    {
       "code": "52810",
       "name": "EDU 1001 Introduction to Education (IB)",
       "faculty": "グローバル教養学部",
@@ -1342,19 +1342,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxiHQAS/202652810",
       "room": "AS550セミナールーム"
-    },
-    {
-      "code": "52819",
-      "name": "GLA 1001 Career Design 1 (ID)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月4",
-      "campus": "OIC",
-      "instructor": "糸井 貴夕",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxqzQAC/202652819",
-      "room": "AN524ラーニング・スタジオ"
     },
     {
       "code": "52909",
@@ -1394,19 +1381,6 @@
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxbVQAS/202652803",
       "room": "AN521ラーニング・スタジオ/AN524ラーニング・スタジオ"
-    },
-    {
-      "code": "52820",
-      "name": "GLA 1001 Career Design 1 (IE)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "OIC",
-      "instructor": "糸井 貴夕",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxrxQAC/202652820",
-      "room": "AN524ラーニング・スタジオ"
     },
     {
       "code": "52871",
@@ -1526,6 +1500,19 @@
       "room": "AS560セミナールーム/AS560セミナールーム"
     },
     {
+      "code": "52819",
+      "name": "GLA 1001 Career Design 1 (ID)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火3",
+      "campus": "OIC",
+      "instructor": "糸井 貴夕",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxqzQAC/202652819",
+      "room": "AS550セミナールーム"
+    },
+    {
       "code": "52836",
       "name": "JOUR 1001 Introduction to Journalism (IB)",
       "faculty": "グローバル教養学部",
@@ -1641,6 +1628,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRpQAK/202652793",
       "room": "AS561ラーニング・スタジオ"
+    },
+    {
+      "code": "52820",
+      "name": "GLA 1001 Career Design 1 (IE)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火4",
+      "campus": "OIC",
+      "instructor": "糸井 貴夕",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxrxQAC/202652820",
+      "room": "AS550セミナールーム"
     },
     {
       "code": "52838",
@@ -1771,19 +1771,6 @@
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwxjQAC/202652860",
       "room": "AN521ラーニング・スタジオ/AN517ラーニング・スタジオ"
-    },
-    {
-      "code": "52959",
-      "name": "GLA 3001 Research Seminar (50) § 52960:Research Seminar (50)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水2",
-      "campus": "OIC",
-      "instructor": "THOUNY CHRISTOPHE",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx0eQAC/202652959",
-      "room": "AS550セミナールーム"
     },
     {
       "code": "52969",
@@ -2124,16 +2111,16 @@
       "room": "AS561ラーニング・スタジオ"
     },
     {
-      "code": "52979",
-      "name": "GLA 3001 Research Seminar (60) § 52980:Research Seminar (60)",
+      "code": "54714",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
       "campus": "OIC",
       "instructor": "森井 一真",
-      "language": "英語",
+      "language": "",
       "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxDfQAK/202652979",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000007FZz7QAG/202654714",
       "room": "AS564ラーニング・スタジオ"
     },
     {
@@ -2212,7 +2199,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxlBQAS/202652813",
-      "room": "AN521ラーニング・スタジオ"
+      "room": "AS550セミナールーム"
     },
     {
       "code": "52983",
@@ -2293,6 +2280,19 @@
       "room": "AN527ラーニング・スタジオ/AN527ラーニング・スタジオ"
     },
     {
+      "code": "52883",
+      "name": "LAST 2010 Special Lecture (Science and Technology)(IB)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "金1",
+      "campus": "OIC",
+      "instructor": "MARQUEZ GIAN POWELL",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxOwQAK/202652883",
+      "room": "AN517ラーニング・スタジオ"
+    },
+    {
       "code": "52965",
       "name": "GLA 3001 Research Seminar (53) § 52966:Research Seminar (53)",
       "faculty": "グローバル教養学部",
@@ -2304,19 +2304,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6tQAC/202652965",
       "room": "AN521ラーニング・スタジオ"
-    },
-    {
-      "code": "52967",
-      "name": "GLA 3001 Research Seminar (54) § 52968:Research Seminar (54)",
-      "faculty": "グローバル教養学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金1",
-      "campus": "OIC",
-      "instructor": "MARQUEZ GIAN POWELL",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7rQAC/202652967",
-      "room": "AN517ラーニング・スタジオ"
     },
     {
       "code": "52674",
