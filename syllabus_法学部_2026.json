@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-05T20:45:11.373875+00:00",
+  "lastUpdated": "2026-07-12T20:30:50.664288+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1443,
+  "totalCourses": 1442,
   "courses": [
     {
       "code": "12128",
@@ -11144,19 +11144,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwEBQA0/202617017",
       "room": "明学館MG202号教室"
-    },
-    {
-      "code": "12118",
-      "name": "自主企画演習(J1)",
-      "faculty": "法学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5,水6",
-      "campus": "衣笠/衣笠",
-      "instructor": "",
-      "language": "",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvhXQAS/202612118",
-      "room": "衣笠/衣笠"
     },
     {
       "code": "12227",

@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-05T20:36:13.174259+00:00",
+  "lastUpdated": "2026-07-12T20:24:06.943703+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
-  "totalCourses": 1228,
+  "totalCourses": 1229,
   "courses": [
     {
       "code": "11617",
@@ -15356,6 +15356,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvbKQAS/202616031",
       "room": "洋洋館YY302号教室"
+    },
+    {
+      "code": "17255",
+      "name": "IR18‐FE301 Internship(RG) § 17256:RUIR-2544 Internship (GCG)(RG) § 17257:RUIR-2545 Internship (IRGC) (RG) § 17258:RUIR-2546 Internship (PGSCR) (RG) § 17259:RUIR-2624 Internship (Area Studies: East Asia and the Pacific)(RG) § 17260:RUIR-2634 Internship (Area Studies)(RG) § 17261:RUIR-2808 Internship (Elective) (RG)",
+      "faculty": "国際関係学部",
+      "term": "秋セメスター",
+      "dayPeriod": "金3",
+      "campus": "衣笠",
+      "instructor": "FRENCH THOMAS W.",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000007SzHRQA0/202617255",
+      "room": "恒心館KS202号教室"
     },
     {
       "code": "11787",

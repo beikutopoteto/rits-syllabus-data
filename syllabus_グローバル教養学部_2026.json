@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-05T19:53:57.218605+00:00",
+  "lastUpdated": "2026-07-12T19:41:50.511517+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
-  "totalCourses": 184,
+  "totalCourses": 185,
   "courses": [
     {
       "code": "52752",
@@ -1303,6 +1303,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxBhQAK/202652767",
       "room": "AN510セミナールーム"
+    },
+    {
+      "code": "52847",
+      "name": "LAHU 2000 Special Lecture (Arts and Humanities)(IC)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "月3,月4",
+      "campus": "OIC/OIC",
+      "instructor": "山下 惠理",
+      "language": "",
+      "credits": "4",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyHRQA0/202652847",
+      "room": "AN524ラーニング・スタジオ/AN524ラーニング・スタジオ"
     },
     {
       "code": "52869",
