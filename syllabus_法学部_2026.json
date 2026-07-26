@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-19T20:33:57.926047+00:00",
+  "lastUpdated": "2026-07-26T20:39:48.547031+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1442,
+  "totalCourses": 1444,
   "courses": [
     {
       "code": "12128",
@@ -11692,6 +11692,19 @@
       "room": "以学館IG301号教室"
     },
     {
+      "code": "12120",
+      "name": "自主企画演習(J3)",
+      "faculty": "法学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火2",
+      "campus": "衣笠",
+      "instructor": "木村 和成、多田 一路",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvjTQAS/202612120",
+      "room": "存心館ZS404号教室"
+    },
+    {
       "code": "12183",
       "name": "アジア法(J)",
       "faculty": "法学部",
@@ -17691,7 +17704,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "角 英幸、竹浜 修",
+      "instructor": "高尾 延治、竹浜 修",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvanQAC/202612335",
@@ -18515,6 +18528,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5RQAS/202616898",
       "room": "明学館MG202号教室"
+    },
+    {
+      "code": "12119",
+      "name": "自主企画演習(J2)",
+      "faculty": "法学部",
+      "term": "秋セメスター",
+      "dayPeriod": "金5",
+      "campus": "衣笠",
+      "instructor": "清水 拓磨、山田 泰弘",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RviVQAS/202612119",
+      "room": "存心館ZS305号教室"
     },
     {
       "code": "12315",

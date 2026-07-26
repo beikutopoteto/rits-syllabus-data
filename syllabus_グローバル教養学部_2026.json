@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-19T19:42:00.243651+00:00",
+  "lastUpdated": "2026-07-26T19:48:37.687955+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
-  "totalCourses": 185,
+  "totalCourses": 186,
   "courses": [
     {
       "code": "52752",
@@ -1823,6 +1823,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxChQAK/202652977",
       "room": "AN527ラーニング・スタジオ"
+    },
+    {
+      "code": "54722",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IF)",
+      "faculty": "グローバル教養学部",
+      "term": "秋セメスター",
+      "dayPeriod": "水2",
+      "campus": "OIC",
+      "instructor": "THOUNY CHRISTOPHE",
+      "language": "",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000007dSurQAE/202654722",
+      "room": "AS550セミナールーム"
     },
     {
       "code": "52806",
