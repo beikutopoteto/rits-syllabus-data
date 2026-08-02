@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-07-26T20:52:32.927769+00:00",
+  "lastUpdated": "2026-08-02T20:52:42.067643+00:00",
   "year": 2026,
-  "totalCourses": 9756,
+  "totalCourses": 9757,
   "faculties": [
     "グローバル教養学部",
     "スポーツ健康科学部",
@@ -1329,7 +1329,7 @@
       "dayPeriod": "月3,月4",
       "campus": "OIC/OIC",
       "instructor": "山下 惠理",
-      "language": "",
+      "language": "English",
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyHRQA0/202652847",
       "room": "AN524ラーニング・スタジオ/AN524ラーニング・スタジオ"
@@ -2161,7 +2161,7 @@
       "dayPeriod": "木2",
       "campus": "OIC",
       "instructor": "森井 一真",
-      "language": "",
+      "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000007FZz7QAG/202654714",
       "room": "AS564ラーニング・スタジオ"
@@ -24195,7 +24195,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火3,水1,木3",
       "campus": "衣笠/衣笠/衣笠",
-      "instructor": "太田 真実、高橋 旬子",
+      "instructor": "太田 真実、高橋 旬子、BAO RUI",
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTxQAK/202611726",
@@ -24320,7 +24320,7 @@
     },
     {
       "code": "15816",
-      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
+      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB)",
       "faculty": "国際関係学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -24494,7 +24494,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "高 尚",
       "language": "日本語と中国語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJuQAK/202616564",
@@ -27575,11 +27575,11 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "CHEN QIRONG",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwD8QAK/202616550",
-      "room": "学而館GJ308号教室"
+      "room": "学而館GJ311号教室"
     },
     {
       "code": "16552",
@@ -27592,7 +27592,7 @@
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE6QAK/202616552",
-      "room": "学而館GJ311号教室"
+      "room": "敬学館KG012号教室"
     },
     {
       "code": "16641",
@@ -27978,7 +27978,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "程 遠巍",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9GQAS/202616543",
@@ -34339,7 +34339,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunHQAS/202610034",
-      "room": "学而館GJ402号教室"
+      "room": "洋洋館YY201号教室"
     },
     {
       "code": "54668",
@@ -54762,7 +54762,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur1QAC/202610038",
-      "room": "学而館GJ402号教室"
+      "room": "学而館GJ403号教室"
     },
     {
       "code": "10042",
@@ -58444,6 +58444,19 @@
       "room": "洋洋館YY201号教室"
     },
     {
+      "code": "12118",
+      "name": "自主企画演習(J1)",
+      "faculty": "法学部",
+      "term": "秋セメスター",
+      "dayPeriod": "木5",
+      "campus": "衣笠",
+      "instructor": "WOLF MICHAEL L.",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvhXQAS/202612118",
+      "room": "興学館KO102号教室"
+    },
+    {
       "code": "10019",
       "name": "（教）教育心理学(GD)",
       "faculty": "法学部,産業社会学部,文学部,法学研究科,社会学研究科,文学研究科",
@@ -59451,7 +59464,7 @@
       "term": "春セメスター",
       "dayPeriod": "月2",
       "campus": "BKC",
-      "instructor": "滝沢 優",
+      "instructor": "滝沢 優、前島 尚行",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5rQAC/202632302",
@@ -86378,7 +86391,7 @@
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv7EQAS/202611416",
-      "room": "以学館IG310号教室/以学館IG310号教室"
+      "room": "敬学館KG007号教室/以学館IG310号教室"
     },
     {
       "code": "11417",
@@ -86768,7 +86781,7 @@
       "language": "日本語とスペイン語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvkKQAS/202611455",
-      "room": "以学館IG307号教室/以学館IG208号教室"
+      "room": "以学館IG307号教室/諒友館RY306号教室"
     },
     {
       "code": "11463",
@@ -88549,7 +88562,7 @@
       "language": "日本語とスペイン語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvfUQAS/202611450",
-      "room": "以学館IG404号教室/以学館IG307号教室"
+      "room": "諒友館RY306号教室/以学館IG307号教室"
     },
     {
       "code": "11454",
@@ -90421,7 +90434,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaKQAS/202610685",
-      "room": "志学館SG405号教室"
+      "room": "以学館IG演習実習室1"
     },
     {
       "code": "10686",
@@ -91422,7 +91435,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAwQAK/202610832",
-      "room": "志学館SG405号教室"
+      "room": "以学館IG演習実習室1"
     },
     {
       "code": "10837",
@@ -92098,7 +92111,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVcQAK/202610471",
-      "room": "志学館SG402号教室"
+      "room": "以学館IG204号教室"
     },
     {
       "code": "10472",
@@ -120356,7 +120369,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1",
       "campus": "BKC",
-      "instructor": "芦田 昇、天ヶ瀬 紀久子、荒木 通啓、池田 貴子、池之上 達哉、泉川 友美、市村 敦彦、井之上 浩一、井上 沙奈、上島 智、上野 明希子、梅原 崇史、角本 幹夫、桂 敏也、河野 貴子、北原 亮、北村 雅史、小池 千恵子、古徳 直之、菅野 清彦、高田 望、高橋 慧、高山 卓大、田中 亨、豊田 英尚、土肥 寿文、中山 勝文、野田 哲史、野村 祥子、林 宏明、林 嘉宏、藤田 隆司、藤田 卓也、間宮 弘晃、森本 功治、柳沢 大治郎、若井 恵里",
+      "instructor": "芦田 昇、天ヶ瀬 紀久子、荒木 通啓、池田 貴子、池之上 達哉、泉川 友美、市村 敦彦、井之上 浩一、井上 沙奈、上島 智、上野 明希子、梅原 崇史、小川 慶子、角本 幹夫、桂 敏也、河野 貴子、北原 亮、北村 雅史、小池 千恵子、古徳 直之、菅野 清彦、高田 望、高橋 慧、高山 卓大、田中 亨、豊田 英尚、土肥 寿文、中山 勝文、野田 哲史、野村 祥子、林 宏明、林 嘉宏、藤田 隆司、藤田 卓也、間宮 弘晃、森本 功治、柳沢 大治郎、若井 恵里",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWEQA0/202633638",
@@ -120460,7 +120473,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月3,月4,月5,火3,火4,火5,金3,金4,金5",
       "campus": "BKC/BKC/BKC",
-      "instructor": "天ヶ瀬 紀久子、市村 敦彦、井上 沙奈、岩田 和実、北村 佳久、高田 達之、高橋 慧、藤田 隆司、細木 るみこ、間宮 弘晃、柳沢 大治郎",
+      "instructor": "天ヶ瀬 紀久子、市村 敦彦、井上 沙奈、岩田 和実、小川 慶子、北村 佳久、高田 達之、高橋 慧、藤田 隆司、細木 るみこ、間宮 弘晃、柳沢 大治郎",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwgsQAC/202633649",

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T20:03:37.385199+00:00",
+  "lastUpdated": "2026-08-02T20:02:55.605604+00:00",
   "year": 2026,
   "faculty": "映像学部",
   "totalCourses": 749,
@@ -4578,7 +4578,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyBuQAK/202654515",
-      "room": "AC237講義室"
+      "room": ""
     },
     {
       "code": "16877",
@@ -6021,7 +6021,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunHQAS/202610034",
-      "room": "学而館GJ402号教室"
+      "room": "洋洋館YY201号教室"
     },
     {
       "code": "54541",

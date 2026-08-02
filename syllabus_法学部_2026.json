@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-07-26T20:39:48.547031+00:00",
+  "lastUpdated": "2026-08-02T20:39:14.942125+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1444,
+  "totalCourses": 1445,
   "courses": [
     {
       "code": "12128",
@@ -10129,7 +10129,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rur1QAC/202610038",
-      "room": "学而館GJ402号教室"
+      "room": "学而館GJ403号教室"
     },
     {
       "code": "10042",
@@ -12560,7 +12560,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunHQAS/202610034",
-      "room": "学而館GJ402号教室"
+      "room": "洋洋館YY201号教室"
     },
     {
       "code": "10068",
@@ -12764,7 +12764,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "高 尚",
       "language": "日本語と中国語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJuQAK/202616564",
@@ -17009,6 +17009,19 @@
       "room": "存心館ZS301号教室/存心館ZS301号教室"
     },
     {
+      "code": "12118",
+      "name": "自主企画演習(J1)",
+      "faculty": "法学部",
+      "term": "秋セメスター",
+      "dayPeriod": "木5",
+      "campus": "衣笠",
+      "instructor": "WOLF MICHAEL L.",
+      "language": "English",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvhXQAS/202612118",
+      "room": "興学館KO102号教室"
+    },
+    {
       "code": "15260",
       "name": "IR26-POL103 Introduction to the United Nations(RB) § 15261:IR18‐AE110 Introduction to the United Nations(RB) § 15262:Introduction to the United Nations(RB) § 15263:RUIR-1411 Introduction to the United Nations(RB)",
       "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,政策科学部,文学部,デザイン・アート学部,映像学部,理工学部,情報理工学部,スポーツ健康科学部",
@@ -17912,11 +17925,11 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "CHEN QIRONG",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwD8QAK/202616550",
-      "room": "学而館GJ308号教室"
+      "room": "学而館GJ311号教室"
     },
     {
       "code": "16552",
@@ -17929,7 +17942,7 @@
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE6QAK/202616552",
-      "room": "学而館GJ311号教室"
+      "room": "敬学館KG012号教室"
     },
     {
       "code": "16641",
@@ -18367,7 +18380,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "程 遠巍",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9GQAS/202616543",

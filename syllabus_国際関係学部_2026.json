@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T20:30:32.865852+00:00",
+  "lastUpdated": "2026-08-02T20:29:32.350574+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
   "totalCourses": 1229,
@@ -10684,7 +10684,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火3,水1,木3",
       "campus": "衣笠/衣笠/衣笠",
-      "instructor": "太田 真実、高橋 旬子",
+      "instructor": "太田 真実、高橋 旬子、BAO RUI",
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTxQAK/202611726",
@@ -10809,7 +10809,7 @@
     },
     {
       "code": "15816",
-      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15818:RUIR-3541 Advanced Topics in International Relations (GCG)(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB) § 15820:RUIR-3543 Advanced Topics in International Relations (PGSCR)(RB)",
+      "name": "IR18‐EE341 Advanced Topics in International Relations(RB) § 15817:IR-EAS302 Theories of International Politics(RB) § 15819:RUIR-3542 Advanced Topics in International Relations (IRGC)(RB)",
       "faculty": "国際関係学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -11009,7 +11009,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "高 尚",
       "language": "日本語と中国語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJuQAK/202616564",
@@ -15117,11 +15117,11 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "CHEN QIRONG",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwD8QAK/202616550",
-      "room": "学而館GJ308号教室"
+      "room": "学而館GJ311号教室"
     },
     {
       "code": "16552",
@@ -15134,7 +15134,7 @@
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE6QAK/202616552",
-      "room": "学而館GJ311号教室"
+      "room": "敬学館KG012号教室"
     },
     {
       "code": "16641",
@@ -15546,7 +15546,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "陳 朝朝",
+      "instructor": "程 遠巍",
       "language": "日本語と中国語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9GQAS/202616543",
