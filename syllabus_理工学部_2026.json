@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T20:43:31.113706+00:00",
+  "lastUpdated": "2026-08-09T20:13:52.981158+00:00",
   "year": 2026,
   "faculty": "理工学部",
   "totalCourses": 1629,
@@ -12777,7 +12777,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火1,火2",
       "campus": "BKC",
-      "instructor": "顔 聡",
+      "instructor": "顔 聡、NGUYEN THAO、山末 英嗣",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4wQAC/202632567",
@@ -18211,7 +18211,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木3,木4",
       "campus": "BKC",
-      "instructor": "北川 彩貴、久野 智子、古田 幸三、吉岡 修哉",
+      "instructor": "北川 彩貴、久野 智子、HARIFARA RABE、古田 幸三、吉岡 修哉",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwSAQA0/202632598",
@@ -19151,7 +19151,7 @@
       "language": "English",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvy1QAC/202631579",
-      "room": "コラーニングⅡ　５０５号教室"
+      "room": ""
     },
     {
       "code": "31583",
