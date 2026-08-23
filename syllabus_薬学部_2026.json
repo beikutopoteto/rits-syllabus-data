@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T19:22:26.980591+00:00",
+  "lastUpdated": "2026-08-23T19:23:34.674882+00:00",
   "year": 2026,
   "faculty": "薬学部",
   "totalCourses": 623,
@@ -5185,7 +5185,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火2",
       "campus": "BKC",
-      "instructor": "柏 宗伸、小嶋 智美、鈴鴨 よしみ、森脇 健介",
+      "instructor": "柏 宗伸、小嶋 智美、鈴鴨 よしみ、森本 航輔、森脇 健介",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvUtQAK/202630867",
@@ -6749,7 +6749,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvzKQAS/202633601",
-      "room": "コラーニングⅠ情報語学Ｃ１１"
+      "room": "プリズム情報語学演習室Ｐ２２"
     },
     {
       "code": "54617",
