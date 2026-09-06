@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T21:21:00.108687+00:00",
+  "lastUpdated": "2026-09-06T20:51:33.086518+00:00",
   "year": 2026,
   "faculty": "スポーツ健康科学部",
   "totalCourses": 747,
@@ -3408,7 +3408,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvNiQAK/202634222",
-      "room": "ラルカディア　３０１号教室"
+      "room": ""
     },
     {
       "code": "34839",
@@ -3421,7 +3421,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwYOQA0/202634839",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": ""
     },
     {
       "code": "34991",

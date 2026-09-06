@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T21:30:34.569493+00:00",
+  "lastUpdated": "2026-09-06T21:01:47.596898+00:00",
   "year": 2026,
   "faculty": "政策科学部",
   "totalCourses": 839,
@@ -5848,7 +5848,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月2",
       "campus": "OIC",
-      "instructor": "角本 和理",
+      "instructor": "高畑 優",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry6aQAC/202651465",
@@ -6030,7 +6030,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月3",
       "campus": "OIC",
-      "instructor": "角本 和理",
+      "instructor": "高畑 優",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyCOQA0/202651471",
@@ -7624,7 +7624,7 @@
     },
     {
       "code": "51623",
-      "name": "政策構想演習Ⅱ(15)",
+      "name": "政策構想演習Ⅱ(15) § 54728:政策構想演習Ⅰ(C)",
       "faculty": "政策科学部",
       "term": "秋セメスター",
       "dayPeriod": "水2",
@@ -9067,7 +9067,7 @@
     },
     {
       "code": "51613",
-      "name": "政策構想演習Ⅱ(7)",
+      "name": "政策構想演習Ⅱ(7) § 54726:政策構想演習Ⅰ(A)",
       "faculty": "政策科学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -9106,7 +9106,7 @@
     },
     {
       "code": "51618",
-      "name": "政策構想演習Ⅱ(11)",
+      "name": "政策構想演習Ⅱ(11) § 54727:政策構想演習Ⅰ(B)",
       "faculty": "政策科学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -9184,7 +9184,7 @@
     },
     {
       "code": "51633",
-      "name": "政策構想演習Ⅱ(25)",
+      "name": "政策構想演習Ⅱ(25) § 54729:政策構想演習Ⅰ(D)",
       "faculty": "政策科学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
