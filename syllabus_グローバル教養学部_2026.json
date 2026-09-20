@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-13T20:53:15.313611+00:00",
+  "lastUpdated": "2026-09-20T20:50:27.959982+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
   "totalCourses": 186,
   "courses": [
     {
       "code": "52752",
-      "name": "[2026 春セメスター]GLA 1201 Foundations in Research Skills 1(IC)",
+      "name": "GLA 1201 Foundations in Research Skills 1(IC)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月1",
@@ -19,7 +19,7 @@
     },
     {
       "code": "52762",
-      "name": "[2026 春セメスター]GLA 1101 Critical Thinking 1 (IC)",
+      "name": "GLA 1101 Critical Thinking 1 (IC)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月1",
@@ -32,7 +32,7 @@
     },
     {
       "code": "52868",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IF)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IF)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月1",
@@ -45,7 +45,7 @@
     },
     {
       "code": "52753",
-      "name": "[2026 春セメスター]GLA 1201 Foundations in Research Skills 1(ID)",
+      "name": "GLA 1201 Foundations in Research Skills 1(ID)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月2",
@@ -58,7 +58,7 @@
     },
     {
       "code": "52761",
-      "name": "[2026 春セメスター]GLA 1101 Critical Thinking 1 (IB)",
+      "name": "GLA 1101 Critical Thinking 1 (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月2",
@@ -71,7 +71,7 @@
     },
     {
       "code": "52870",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IH)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IH)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月2",
@@ -84,7 +84,7 @@
     },
     {
       "code": "52856",
-      "name": "[2026 春セメスター]LASS 2000 Special Lecture (Social Sciences)(IA)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月3,木3",
@@ -97,7 +97,7 @@
     },
     {
       "code": "52908",
-      "name": "[2026 春セメスター]PSYCH 2001 Neuroscience (I)",
+      "name": "PSYCH 2001 Neuroscience (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月3,木3",
@@ -110,7 +110,7 @@
     },
     {
       "code": "52808",
-      "name": "[2026 春セメスター]EDU 1001 Introduction to Education (I)",
+      "name": "EDU 1001 Introduction to Education (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月4",
@@ -123,7 +123,7 @@
     },
     {
       "code": "52816",
-      "name": "[2026 春セメスター]GLA 1001 Career Design 1 (IA)",
+      "name": "GLA 1001 Career Design 1 (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月4",
@@ -136,7 +136,7 @@
     },
     {
       "code": "52906",
-      "name": "[2026 春セメスター]PSYCH 1001 Introduction to Psychology (I)",
+      "name": "PSYCH 1001 Introduction to Psychology (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月4,木4",
@@ -149,7 +149,7 @@
     },
     {
       "code": "52817",
-      "name": "[2026 春セメスター]GLA 1001 Career Design 1 (IB)",
+      "name": "GLA 1001 Career Design 1 (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月5",
@@ -162,7 +162,7 @@
     },
     {
       "code": "52900",
-      "name": "[2026 春セメスター]POLS 1001 Introduction to Politics (I)",
+      "name": "POLS 1001 Introduction to Politics (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "月5,火3",
@@ -175,7 +175,7 @@
     },
     {
       "code": "52738",
-      "name": "[2026 春セメスター]WRT 1001 College Writing 1 (IA)",
+      "name": "WRT 1001 College Writing 1 (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火1",
@@ -188,7 +188,7 @@
     },
     {
       "code": "52834",
-      "name": "[2026 春セメスター]HIST 2004 Material Culture and Global History(I)",
+      "name": "HIST 2004 Material Culture and Global History(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火1,木1",
@@ -201,7 +201,7 @@
     },
     {
       "code": "52849",
-      "name": "[2026 春セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(IA)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火1",
@@ -214,7 +214,7 @@
     },
     {
       "code": "52647",
-      "name": "[2026 春セメスター]（留）日本語中級2（総合）(Z2) § 52648:JPNS 2002 日本語中級 2 （総合） (Z2)",
+      "name": "（留）日本語中級2（総合）(Z2) § 52648:JPNS 2002 日本語中級 2 （総合） (Z2)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火2,水1,金4",
@@ -227,7 +227,7 @@
     },
     {
       "code": "52739",
-      "name": "[2026 春セメスター]WRT 1001 College Writing 1 (IB)",
+      "name": "WRT 1001 College Writing 1 (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火2",
@@ -240,7 +240,7 @@
     },
     {
       "code": "52874",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IM)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IM)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火2",
@@ -253,7 +253,7 @@
     },
     {
       "code": "52599",
-      "name": "[2026 春セメスター]（留）日本語Ⅷ（キャリア日本語a）(O1) § 52600:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O1)",
+      "name": "（留）日本語Ⅷ（キャリア日本語a）(O1) § 52600:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O1)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "火3",
@@ -266,7 +266,7 @@
     },
     {
       "code": "52642",
-      "name": "[2026 春セメスター]（留）日本語上級（キャリア日本語） (Z) § 52643:JPNS 3021 日本語上級（キャリア日本語） (Z)",
+      "name": "（留）日本語上級（キャリア日本語） (Z) § 52643:JPNS 3021 日本語上級（キャリア日本語） (Z)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3",
@@ -279,7 +279,7 @@
     },
     {
       "code": "52665",
-      "name": "[2026 春セメスター]JPNS 1001 日本語初級 1 (Z)",
+      "name": "JPNS 1001 日本語初級 1 (Z)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3,木3,金5",
@@ -292,7 +292,7 @@
     },
     {
       "code": "52788",
-      "name": "[2026 春セメスター]SOC 1001 Introduction to Research Methods in Social Sciences(I) § 52789:Research Design and Research Method (I)",
+      "name": "SOC 1001 Introduction to Research Methods in Social Sciences(I) § 52789:Research Design and Research Method (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3,水1",
@@ -305,7 +305,7 @@
     },
     {
       "code": "52792",
-      "name": "[2026 春セメスター]ARTH 1001 Introduction to Art History (I)",
+      "name": "ARTH 1001 Introduction to Art History (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3",
@@ -318,7 +318,7 @@
     },
     {
       "code": "52896",
-      "name": "[2026 春セメスター]PHIL 2001 Issues in Ethics (I)",
+      "name": "PHIL 2001 Issues in Ethics (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3,金3",
@@ -331,7 +331,7 @@
     },
     {
       "code": "52949",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (30) § 52950:Research Seminar (30)",
+      "name": "GLA 3001 Research Seminar (30) § 52950:Research Seminar (30)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火3",
@@ -344,7 +344,7 @@
     },
     {
       "code": "52601",
-      "name": "[2026 春セメスター]（留）日本語Ⅷ（キャリア日本語a）(O2) § 52602:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O2)",
+      "name": "（留）日本語Ⅷ（キャリア日本語a）(O2) § 52602:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O2)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "火4",
@@ -357,7 +357,7 @@
     },
     {
       "code": "52616",
-      "name": "[2026 春セメスター]（留）日本語Ⅶ（文章表現a）(OE) § 52617:JPNS 3031 日本語Ⅶ（文章表現a） (OE)",
+      "name": "（留）日本語Ⅶ（文章表現a）(OE) § 52617:JPNS 3031 日本語Ⅶ（文章表現a） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "火4",
@@ -370,7 +370,7 @@
     },
     {
       "code": "52651",
-      "name": "[2026 春セメスター]（留）日本語中級1（総合）(Z2) § 52652:JPNS 2001 日本語中級 1 （総合） (Z2)",
+      "name": "（留）日本語中級1（総合）(Z2) § 52652:JPNS 2001 日本語中級 1 （総合） (Z2)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,水1,木3",
@@ -383,7 +383,7 @@
     },
     {
       "code": "52664",
-      "name": "[2026 春セメスター]JPNS 1002 日本語初級 2 (Z)",
+      "name": "JPNS 1002 日本語初級 2 (Z)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,木4,金5",
@@ -396,7 +396,7 @@
     },
     {
       "code": "52778",
-      "name": "[2026 春セメスター]HIST 1003 Introduction to Japanese History(I) § 52779:Civilizations in Global History (I)",
+      "name": "HIST 1003 Introduction to Japanese History(I) § 52779:Civilizations in Global History (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,木4",
@@ -409,7 +409,7 @@
     },
     {
       "code": "52794",
-      "name": "[2026 春セメスター]ARTH 2001 Global Art History (I)",
+      "name": "ARTH 2001 Global Art History (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,木2",
@@ -422,7 +422,7 @@
     },
     {
       "code": "52837",
-      "name": "[2026 春セメスター]JPNS 3001 日本語上級 （総合） (Z)",
+      "name": "JPNS 3001 日本語上級 （総合） (Z)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,水5",
@@ -435,7 +435,7 @@
     },
     {
       "code": "52855",
-      "name": "[2026 春セメスター]LASS 2000 Special Lecture (Social Sciences)(I)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,火5",
@@ -448,7 +448,7 @@
     },
     {
       "code": "52888",
-      "name": "[2026 春セメスター]LAST 1002 Introduction to Science and Technology(I)",
+      "name": "LAST 1002 Introduction to Science and Technology(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火4,金4",
@@ -461,7 +461,7 @@
     },
     {
       "code": "52797",
-      "name": "[2026 春セメスター]CIS 1001 Introduction to Algorithms and Programming(I)",
+      "name": "CIS 1001 Introduction to Algorithms and Programming(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火5,金5",
@@ -474,7 +474,7 @@
     },
     {
       "code": "52890",
-      "name": "[2026 春セメスター]LAST 1101 Introduction to Biology (I)",
+      "name": "LAST 1101 Introduction to Biology (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火5",
@@ -487,7 +487,7 @@
     },
     {
       "code": "54696",
-      "name": "[2026 春セメスター]PHIL 1001 Introduction to Philosophy: Values and Society(IA) § 54697:Introduction to Global Liberal Arts II (IA)",
+      "name": "PHIL 1001 Introduction to Philosophy: Values and Society(IA) § 54697:Introduction to Global Liberal Arts II (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "火5,木3",
@@ -500,7 +500,7 @@
     },
     {
       "code": "52627",
-      "name": "[2026 春セメスター]（留）日本語Ⅶ（読解a）(OE) § 52628:JPNS 3041 日本語Ⅶ（読解a） (OE)",
+      "name": "（留）日本語Ⅶ（読解a）(OE) § 52628:JPNS 3041 日本語Ⅶ（読解a） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "水1",
@@ -513,7 +513,7 @@
     },
     {
       "code": "52644",
-      "name": "[2026 春セメスター]（留）日本語上級（文法・ライティング）(Z) § 52645:JPNS 3002 日本語上級（文法・ライティング）(Z)",
+      "name": "（留）日本語上級（文法・ライティング）(Z) § 52645:JPNS 3002 日本語上級（文法・ライティング）(Z)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水1",
@@ -526,7 +526,7 @@
     },
     {
       "code": "52663",
-      "name": "[2026 春セメスター]JPNS 1003 日本語初級 3 (Z)",
+      "name": "JPNS 1003 日本語初級 3 (Z)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水1,木3,金5",
@@ -539,7 +539,7 @@
     },
     {
       "code": "52898",
-      "name": "[2026 春セメスター]PHIL 2002 Japanese Philosophy (I)",
+      "name": "PHIL 2002 Japanese Philosophy (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水1,金1",
@@ -552,7 +552,7 @@
     },
     {
       "code": "52902",
-      "name": "[2026 春セメスター]POLS 1002 Introduction to International Relations(I)",
+      "name": "POLS 1002 Introduction to International Relations(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水1",
@@ -565,7 +565,7 @@
     },
     {
       "code": "52807",
-      "name": "[2026 春セメスター]ECON 2001 Institutionalism and Economic Growth(I)",
+      "name": "ECON 2001 Institutionalism and Economic Growth(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水2,金2",
@@ -578,7 +578,7 @@
     },
     {
       "code": "52867",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IE)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IE)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水2",
@@ -591,7 +591,7 @@
     },
     {
       "code": "52927",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (05) § 52928:Research Seminar (05)",
+      "name": "GLA 3001 Research Seminar (05) § 52928:Research Seminar (05)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水2",
@@ -604,7 +604,7 @@
     },
     {
       "code": "52929",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (06) § 52930:Research Seminar (06)",
+      "name": "GLA 3001 Research Seminar (06) § 52930:Research Seminar (06)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水2",
@@ -617,7 +617,7 @@
     },
     {
       "code": "52935",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (09) § 52936:Research Seminar (09)",
+      "name": "GLA 3001 Research Seminar (09) § 52936:Research Seminar (09)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水2",
@@ -630,7 +630,7 @@
     },
     {
       "code": "52786",
-      "name": "[2026 春セメスター]PHIL 1002 Introduction to Philosophy: Knowledge and Reality(I) § 52787:Introduction to Global Liberal Arts I (I)",
+      "name": "PHIL 1002 Introduction to Philosophy: Knowledge and Reality(I) § 52787:Introduction to Global Liberal Arts I (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水3,金3",
@@ -643,7 +643,7 @@
     },
     {
       "code": "52805",
-      "name": "[2026 春セメスター]ECON 1001 Introduction to Market Economy(I)",
+      "name": "ECON 1001 Introduction to Market Economy(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水3,金3",
@@ -656,7 +656,7 @@
     },
     {
       "code": "52910",
-      "name": "[2026 春セメスター]SOC 1002 Introduction to Sociology (I)",
+      "name": "SOC 1002 Introduction to Sociology (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水3,金4",
@@ -669,7 +669,7 @@
     },
     {
       "code": "52774",
-      "name": "[2026 春セメスター]CLST 1001 Introduction to Cultural Studies(I) § 52775:Cultural Studies (I)",
+      "name": "CLST 1001 Introduction to Cultural Studies(I) § 52775:Cultural Studies (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4,水5",
@@ -682,7 +682,7 @@
     },
     {
       "code": "52835",
-      "name": "[2026 春セメスター]JOUR 1001 Introduction to Journalism (I)",
+      "name": "JOUR 1001 Introduction to Journalism (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4",
@@ -695,7 +695,7 @@
     },
     {
       "code": "52857",
-      "name": "[2026 春セメスター]LASS 2000 Special Lecture (Social Sciences)(IB)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4,木2",
@@ -708,7 +708,7 @@
     },
     {
       "code": "52939",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (25) § 52940:Research Seminar (25)",
+      "name": "GLA 3001 Research Seminar (25) § 52940:Research Seminar (25)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4",
@@ -721,7 +721,7 @@
     },
     {
       "code": "52943",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (27) § 52944:Research Seminar (27)",
+      "name": "GLA 3001 Research Seminar (27) § 52944:Research Seminar (27)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4",
@@ -734,7 +734,7 @@
     },
     {
       "code": "52951",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (31) § 52952:Research Seminar (31)",
+      "name": "GLA 3001 Research Seminar (31) § 52952:Research Seminar (31)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4",
@@ -747,7 +747,7 @@
     },
     {
       "code": "52953",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (32) § 52954:Research Seminar (32)",
+      "name": "GLA 3001 Research Seminar (32) § 52954:Research Seminar (32)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4",
@@ -760,7 +760,7 @@
     },
     {
       "code": "54699",
-      "name": "[2026 春セメスター]HIST 2001 History Workshop (IB)",
+      "name": "HIST 2001 History Workshop (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水4,水5",
@@ -773,7 +773,7 @@
     },
     {
       "code": "52863",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IA)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水5",
@@ -786,7 +786,7 @@
     },
     {
       "code": "52864",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IB)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "水5",
@@ -799,7 +799,7 @@
     },
     {
       "code": "52603",
-      "name": "[2026 春セメスター]（留）日本語Ⅷ（キャリア日本語a）(O3) § 52604:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O3)",
+      "name": "（留）日本語Ⅷ（キャリア日本語a）(O3) § 52604:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O3)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "木1",
@@ -812,7 +812,7 @@
     },
     {
       "code": "52750",
-      "name": "[2026 春セメスター]GLA 1201 Foundations in Research Skills 1(IA)",
+      "name": "GLA 1201 Foundations in Research Skills 1(IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木1",
@@ -825,7 +825,7 @@
     },
     {
       "code": "52760",
-      "name": "[2026 春セメスター]GLA 1101 Critical Thinking 1 (IA)",
+      "name": "GLA 1101 Critical Thinking 1 (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木1",
@@ -838,7 +838,7 @@
     },
     {
       "code": "52751",
-      "name": "[2026 春セメスター]GLA 1201 Foundations in Research Skills 1(IB)",
+      "name": "GLA 1201 Foundations in Research Skills 1(IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木2",
@@ -851,7 +851,7 @@
     },
     {
       "code": "52763",
-      "name": "[2026 春セメスター]GLA 1101 Critical Thinking 1 (ID)",
+      "name": "GLA 1101 Critical Thinking 1 (ID)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木2",
@@ -864,7 +864,7 @@
     },
     {
       "code": "52866",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(ID)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(ID)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木2",
@@ -877,7 +877,7 @@
     },
     {
       "code": "52931",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (07) § 52932:Research Seminar (07)",
+      "name": "GLA 3001 Research Seminar (07) § 52932:Research Seminar (07)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木2",
@@ -890,7 +890,7 @@
     },
     {
       "code": "52933",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (08) § 52934:Research Seminar (08)",
+      "name": "GLA 3001 Research Seminar (08) § 52934:Research Seminar (08)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木2",
@@ -903,7 +903,7 @@
     },
     {
       "code": "52809",
-      "name": "[2026 春セメスター]EDU 1001 Introduction to Education (IA)",
+      "name": "EDU 1001 Introduction to Education (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木3",
@@ -916,7 +916,7 @@
     },
     {
       "code": "52848",
-      "name": "[2026 春セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(I)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木3",
@@ -929,7 +929,7 @@
     },
     {
       "code": "52830",
-      "name": "[2026 春セメスター]HIST 1002 Introduction to Global History(I)",
+      "name": "HIST 1002 Introduction to Global History(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4,木5",
@@ -942,7 +942,7 @@
     },
     {
       "code": "52905",
-      "name": "[2026 春セメスター]POLS 2001 Contemporary Japan (IB)",
+      "name": "POLS 2001 Contemporary Japan (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4",
@@ -955,7 +955,7 @@
     },
     {
       "code": "52941",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (26) § 52942:Research Seminar (26)",
+      "name": "GLA 3001 Research Seminar (26) § 52942:Research Seminar (26)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4",
@@ -968,7 +968,7 @@
     },
     {
       "code": "52945",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (28) § 52946:Research Seminar (28)",
+      "name": "GLA 3001 Research Seminar (28) § 52946:Research Seminar (28)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4",
@@ -981,7 +981,7 @@
     },
     {
       "code": "52947",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (29) § 52948:Research Seminar (29)",
+      "name": "GLA 3001 Research Seminar (29) § 52948:Research Seminar (29)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4",
@@ -994,7 +994,7 @@
     },
     {
       "code": "52955",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (33) § 52956:Research Seminar (33)",
+      "name": "GLA 3001 Research Seminar (33) § 52956:Research Seminar (33)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木4",
@@ -1007,7 +1007,7 @@
     },
     {
       "code": "52770",
-      "name": "[2026 春セメスター]BAIS 1001 Introduction to Innovation and Knowledge Management(I) § 52771:Knowledge and Innovation (I)",
+      "name": "BAIS 1001 Introduction to Innovation and Knowledge Management(I) § 52771:Knowledge and Innovation (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木5,金5",
@@ -1020,7 +1020,7 @@
     },
     {
       "code": "52914",
-      "name": "[2026 春セメスター]SOC 2001 Classical Social and Political Theory(I)",
+      "name": "SOC 2001 Classical Social and Political Theory(I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木5",
@@ -1033,7 +1033,7 @@
     },
     {
       "code": "54702",
-      "name": "[2026 春セメスター]GLA 0901 Liberal Arts Experience (IA)",
+      "name": "GLA 0901 Liberal Arts Experience (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "木5",
@@ -1046,7 +1046,7 @@
     },
     {
       "code": "52740",
-      "name": "[2026 春セメスター]WRT 1001 College Writing 1 (IC)",
+      "name": "WRT 1001 College Writing 1 (IC)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金1",
@@ -1059,7 +1059,7 @@
     },
     {
       "code": "52745",
-      "name": "[2026 春セメスター]WRT 1002 College Writing 2 (IA)",
+      "name": "WRT 1002 College Writing 2 (IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金1",
@@ -1072,7 +1072,7 @@
     },
     {
       "code": "52796",
-      "name": "[2026 春セメスター]BAIS 2001 Global Management Studies (I)",
+      "name": "BAIS 2001 Global Management Studies (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金1",
@@ -1085,7 +1085,7 @@
     },
     {
       "code": "52923",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (03) § 52924:Research Seminar (03)",
+      "name": "GLA 3001 Research Seminar (03) § 52924:Research Seminar (03)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金1",
@@ -1098,7 +1098,7 @@
     },
     {
       "code": "52605",
-      "name": "[2026 春セメスター]（留）日本語Ⅷ（キャリア日本語a）(O4) § 52606:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O4)",
+      "name": "（留）日本語Ⅷ（キャリア日本語a）(O4) § 52606:JPNS 3022 日本語Ⅷ（キャリア日本語a） (O4)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "金2",
@@ -1111,7 +1111,7 @@
     },
     {
       "code": "52746",
-      "name": "[2026 春セメスター]WRT 1002 College Writing 2 (IB)",
+      "name": "WRT 1002 College Writing 2 (IB)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金2",
@@ -1124,7 +1124,7 @@
     },
     {
       "code": "52882",
-      "name": "[2026 春セメスター]LAST 2010 Special Lecture (Science and Technology)(IA)",
+      "name": "LAST 2010 Special Lecture (Science and Technology)(IA)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金2",
@@ -1137,7 +1137,7 @@
     },
     {
       "code": "52865",
-      "name": "[2026 春セメスター]LASS 2010 Special Lecture (Social Sciences)(IC)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IC)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金3",
@@ -1150,7 +1150,7 @@
     },
     {
       "code": "52919",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (01) § 52920:Research Seminar (01)",
+      "name": "GLA 3001 Research Seminar (01) § 52920:Research Seminar (01)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金3",
@@ -1163,7 +1163,7 @@
     },
     {
       "code": "52925",
-      "name": "[2026 春セメスター]GLA 3001 Research Seminar (04) § 52926:Research Seminar (04)",
+      "name": "GLA 3001 Research Seminar (04) § 52926:Research Seminar (04)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金3",
@@ -1176,7 +1176,7 @@
     },
     {
       "code": "52638",
-      "name": "[2026 春セメスター]（留）日本語Ⅶ（聴解口頭a）(OE) § 52639:JPNS 3012 日本語Ⅶ（聴解口頭a） (OE)",
+      "name": "（留）日本語Ⅶ（聴解口頭a）(OE) § 52639:JPNS 3012 日本語Ⅶ（聴解口頭a） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "春セメスター",
       "dayPeriod": "金4",
@@ -1189,7 +1189,7 @@
     },
     {
       "code": "52640",
-      "name": "[2026 春セメスター]（留）日本語上級（聴解口頭）(Z) § 52641:JPNS 3011 日本語上級 （聴解口頭） (Z)",
+      "name": "（留）日本語上級（聴解口頭）(Z) § 52641:JPNS 3011 日本語上級 （聴解口頭） (Z)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金4",
@@ -1202,7 +1202,7 @@
     },
     {
       "code": "52799",
-      "name": "[2026 春セメスター]CIS 2001 Applied Data Curation (I)",
+      "name": "CIS 2001 Applied Data Curation (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金4",
@@ -1215,7 +1215,7 @@
     },
     {
       "code": "52892",
-      "name": "[2026 春セメスター]LAST 1201 Introduction to Physics (I)",
+      "name": "LAST 1201 Introduction to Physics (I)",
       "faculty": "グローバル教養学部",
       "term": "春セメスター",
       "dayPeriod": "金4",
@@ -1228,7 +1228,7 @@
     },
     {
       "code": "52757",
-      "name": "[2026 秋セメスター]GLA 1202 Foundations in Research Skills 2(IC)",
+      "name": "GLA 1202 Foundations in Research Skills 2(IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月1",
@@ -1241,7 +1241,7 @@
     },
     {
       "code": "52765",
-      "name": "[2026 秋セメスター]GLA 1102 Critical Thinking 2 (IA)",
+      "name": "GLA 1102 Critical Thinking 2 (IA)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月1",
@@ -1254,7 +1254,7 @@
     },
     {
       "code": "52989",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (79) § 52990:Research Seminar (79)",
+      "name": "GLA 3001 Research Seminar (79) § 52990:Research Seminar (79)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月1",
@@ -1267,7 +1267,7 @@
     },
     {
       "code": "52999",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (84) § 53000:Research Seminar (84)",
+      "name": "GLA 3001 Research Seminar (84) § 53000:Research Seminar (84)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月1",
@@ -1280,7 +1280,7 @@
     },
     {
       "code": "52758",
-      "name": "[2026 秋セメスター]GLA 1202 Foundations in Research Skills 2(ID)",
+      "name": "GLA 1202 Foundations in Research Skills 2(ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月2",
@@ -1293,7 +1293,7 @@
     },
     {
       "code": "52767",
-      "name": "[2026 秋セメスター]GLA 1102 Critical Thinking 2 (IC)",
+      "name": "GLA 1102 Critical Thinking 2 (IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月2",
@@ -1306,7 +1306,7 @@
     },
     {
       "code": "52847",
-      "name": "[2026 秋セメスター]LAHU 2000 Special Lecture (Arts and Humanities)(IC)",
+      "name": "LAHU 2000 Special Lecture (Arts and Humanities)(IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月3,月4",
@@ -1319,7 +1319,7 @@
     },
     {
       "code": "52869",
-      "name": "[2026 秋セメスター]LASS 2010 Special Lecture (Social Sciences)(IG)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IG)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月3",
@@ -1332,7 +1332,7 @@
     },
     {
       "code": "52790",
-      "name": "[2026 秋セメスター]SOC 1001 Introduction to Research Methods in Social Sciences(IB) § 52791:Research Design and Research Method (IB)",
+      "name": "SOC 1001 Introduction to Research Methods in Social Sciences(IB) § 52791:Research Design and Research Method (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月4,水3",
@@ -1345,7 +1345,7 @@
     },
     {
       "code": "52810",
-      "name": "[2026 秋セメスター]EDU 1001 Introduction to Education (IB)",
+      "name": "EDU 1001 Introduction to Education (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月4",
@@ -1358,7 +1358,7 @@
     },
     {
       "code": "52909",
-      "name": "[2026 秋セメスター]PSYCH 2002 Cognitive Psychology (I)",
+      "name": "PSYCH 2002 Cognitive Psychology (I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月4,木4",
@@ -1371,7 +1371,7 @@
     },
     {
       "code": "52911",
-      "name": "[2026 秋セメスター]SOC 1002 Introduction to Sociology (IB)",
+      "name": "SOC 1002 Introduction to Sociology (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月4,水4",
@@ -1384,7 +1384,7 @@
     },
     {
       "code": "52803",
-      "name": "[2026 秋セメスター]DESN 1001 Introduction to Communication Design(IB)",
+      "name": "DESN 1001 Introduction to Communication Design(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月5,水5",
@@ -1397,7 +1397,7 @@
     },
     {
       "code": "52871",
-      "name": "[2026 秋セメスター]LASS 2010 Special Lecture (Social Sciences)(IJ)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IJ)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "月5",
@@ -1410,7 +1410,7 @@
     },
     {
       "code": "52742",
-      "name": "[2026 秋セメスター]WRT 1001 College Writing 1 (IE)",
+      "name": "WRT 1001 College Writing 1 (IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火1",
@@ -1423,7 +1423,7 @@
     },
     {
       "code": "52887",
-      "name": "[2026 秋セメスター]LAST 2001 Ocean and Society: The Blue Bridge in the Asia Pacific(I)",
+      "name": "LAST 2001 Ocean and Society: The Blue Bridge in the Asia Pacific(I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火1",
@@ -1436,7 +1436,7 @@
     },
     {
       "code": "52743",
-      "name": "[2026 秋セメスター]WRT 1001 College Writing 1 (IF)",
+      "name": "WRT 1001 College Writing 1 (IF)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火2",
@@ -1449,7 +1449,7 @@
     },
     {
       "code": "52670",
-      "name": "[2026 秋セメスター]（留）日本語Ⅷ（キャリア日本語b）(O1) § 52671:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O1)",
+      "name": "（留）日本語Ⅷ（キャリア日本語b）(O1) § 52671:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O1)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -1462,7 +1462,7 @@
     },
     {
       "code": "52713",
-      "name": "[2026 秋セメスター]（留）日本語上級（キャリア日本語） (K) § 52714:JPNS 3021 日本語上級（キャリア日本語） (K)",
+      "name": "（留）日本語上級（キャリア日本語） (K) § 52714:JPNS 3021 日本語上級（キャリア日本語） (K)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -1475,7 +1475,7 @@
     },
     {
       "code": "52736",
-      "name": "[2026 秋セメスター]JPNS 1001 日本語初級 1 (K)",
+      "name": "JPNS 1001 日本語初級 1 (K)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3,木3,金5",
@@ -1488,7 +1488,7 @@
     },
     {
       "code": "52784",
-      "name": "[2026 秋セメスター]PHIL 1001 Introduction to Philosophy: Values and Society(I) § 52785:Introduction to Global Liberal Arts II (I)",
+      "name": "PHIL 1001 Introduction to Philosophy: Values and Society(I) § 52785:Introduction to Global Liberal Arts II (I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3,木5",
@@ -1501,7 +1501,7 @@
     },
     {
       "code": "52801",
-      "name": "[2026 秋セメスター]CLST 2001 Technology and Environmentalism in Cultural Studies(I)",
+      "name": "CLST 2001 Technology and Environmentalism in Cultural Studies(I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3,火4",
@@ -1514,7 +1514,7 @@
     },
     {
       "code": "52819",
-      "name": "[2026 秋セメスター]GLA 1001 Career Design 1 (ID)",
+      "name": "GLA 1001 Career Design 1 (ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -1527,7 +1527,7 @@
     },
     {
       "code": "52836",
-      "name": "[2026 秋セメスター]JOUR 1001 Introduction to Journalism (IB)",
+      "name": "JOUR 1001 Introduction to Journalism (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -1540,7 +1540,7 @@
     },
     {
       "code": "52851",
-      "name": "[2026 秋セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(IC)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3",
@@ -1553,7 +1553,7 @@
     },
     {
       "code": "52861",
-      "name": "[2026 秋セメスター]LASS 2000 Special Lecture (Social Sciences)(IF)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(IF)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火3,木3",
@@ -1566,7 +1566,7 @@
     },
     {
       "code": "52672",
-      "name": "[2026 秋セメスター]（留）日本語Ⅷ（キャリア日本語b）(O2) § 52673:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O2)",
+      "name": "（留）日本語Ⅷ（キャリア日本語b）(O2) § 52673:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O2)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "火4",
@@ -1579,7 +1579,7 @@
     },
     {
       "code": "52698",
-      "name": "[2026 秋セメスター]（留）日本語Ⅶ（読解b）(OE) § 52699:JPNS 3042 日本語Ⅶ（読解b） (OE)",
+      "name": "（留）日本語Ⅶ（読解b）(OE) § 52699:JPNS 3042 日本語Ⅶ（読解b） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "火4",
@@ -1592,7 +1592,7 @@
     },
     {
       "code": "52723",
-      "name": "[2026 秋セメスター]（留）日本語中級1（総合）(K3) § 52724:JPNS 2001 日本語中級 1 （総合） (K3)",
+      "name": "（留）日本語中級1（総合）(K3) § 52724:JPNS 2001 日本語中級 1 （総合） (K3)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4,水1,木3",
@@ -1605,7 +1605,7 @@
     },
     {
       "code": "52735",
-      "name": "[2026 秋セメスター]JPNS 1002 日本語初級 2 (K)",
+      "name": "JPNS 1002 日本語初級 2 (K)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4,木4,金5",
@@ -1618,7 +1618,7 @@
     },
     {
       "code": "52782",
-      "name": "[2026 秋セメスター]LAST 1001 Introduction to Scientific Thinking(IB) § 52783:Statistics (I)",
+      "name": "LAST 1001 Introduction to Scientific Thinking(IB) § 52783:Statistics (I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4,金4",
@@ -1631,7 +1631,7 @@
     },
     {
       "code": "52793",
-      "name": "[2026 秋セメスター]ARTH 1001 Introduction to Art History (IB)",
+      "name": "ARTH 1001 Introduction to Art History (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4",
@@ -1644,7 +1644,7 @@
     },
     {
       "code": "52820",
-      "name": "[2026 秋セメスター]GLA 1001 Career Design 1 (IE)",
+      "name": "GLA 1001 Career Design 1 (IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4",
@@ -1657,7 +1657,7 @@
     },
     {
       "code": "52838",
-      "name": "[2026 秋セメスター]JPNS 3001 日本語上級 （総合） (K)",
+      "name": "JPNS 3001 日本語上級 （総合） (K)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4,水5",
@@ -1670,7 +1670,7 @@
     },
     {
       "code": "52845",
-      "name": "[2026 秋セメスター]LAHU 2000 Special Lecture (Arts and Humanities)(I)",
+      "name": "LAHU 2000 Special Lecture (Arts and Humanities)(I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火4,金3",
@@ -1683,7 +1683,7 @@
     },
     {
       "code": "52798",
-      "name": "[2026 秋セメスター]CIS 1001 Introduction to Algorithms and Programming(IB)",
+      "name": "CIS 1001 Introduction to Algorithms and Programming(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火5,木3",
@@ -1696,7 +1696,7 @@
     },
     {
       "code": "52873",
-      "name": "[2026 秋セメスター]LASS 2010 Special Lecture (Social Sciences)(IL)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IL)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "火5",
@@ -1709,7 +1709,7 @@
     },
     {
       "code": "52718",
-      "name": "[2026 秋セメスター]（留）日本語中級2（総合）(K2) § 52719:JPNS 2002 日本語中級 2 （総合） (K2)",
+      "name": "（留）日本語中級2（総合）(K2) § 52719:JPNS 2002 日本語中級 2 （総合） (K2)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水1,木3,金4",
@@ -1722,7 +1722,7 @@
     },
     {
       "code": "52734",
-      "name": "[2026 秋セメスター]JPNS 1003 日本語初級 3 (K)",
+      "name": "JPNS 1003 日本語初級 3 (K)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水1,木3,金4",
@@ -1735,7 +1735,7 @@
     },
     {
       "code": "52772",
-      "name": "[2026 秋セメスター]BAIS 1001 Introduction to Innovation and Knowledge Management(IB) § 52773:Knowledge and Innovation (IB)",
+      "name": "BAIS 1001 Introduction to Innovation and Knowledge Management(IB) § 52773:Knowledge and Innovation (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水1,金3",
@@ -1748,7 +1748,7 @@
     },
     {
       "code": "52899",
-      "name": "[2026 秋セメスター]PHIL 2002 Japanese Philosophy (IB)",
+      "name": "PHIL 2002 Japanese Philosophy (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水1,金1",
@@ -1761,7 +1761,7 @@
     },
     {
       "code": "52859",
-      "name": "[2026 秋セメスター]LASS 2000 Special Lecture (Social Sciences)(ID)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2,金4",
@@ -1774,7 +1774,7 @@
     },
     {
       "code": "52860",
-      "name": "[2026 秋セメスター]LASS 2000 Special Lecture (Social Sciences)(IE)",
+      "name": "LASS 2000 Special Lecture (Social Sciences)(IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2,金2",
@@ -1787,7 +1787,7 @@
     },
     {
       "code": "52969",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (55) § 52970:Research Seminar (55)",
+      "name": "GLA 3001 Research Seminar (55) § 52970:Research Seminar (55)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2",
@@ -1800,7 +1800,7 @@
     },
     {
       "code": "52971",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (56) § 52972:Research Seminar (56)",
+      "name": "GLA 3001 Research Seminar (56) § 52972:Research Seminar (56)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2",
@@ -1813,7 +1813,7 @@
     },
     {
       "code": "52977",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (59) § 52978:Research Seminar (59)",
+      "name": "GLA 3001 Research Seminar (59) § 52978:Research Seminar (59)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2",
@@ -1826,7 +1826,7 @@
     },
     {
       "code": "54722",
-      "name": "[2026 秋セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(IF)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IF)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水2",
@@ -1839,7 +1839,7 @@
     },
     {
       "code": "52806",
-      "name": "[2026 秋セメスター]ECON 1001 Introduction to Market Economy(IB)",
+      "name": "ECON 1001 Introduction to Market Economy(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水3,金3",
@@ -1852,7 +1852,7 @@
     },
     {
       "code": "52818",
-      "name": "[2026 秋セメスター]GLA 1001 Career Design 1 (IC)",
+      "name": "GLA 1001 Career Design 1 (IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水3",
@@ -1865,7 +1865,7 @@
     },
     {
       "code": "52846",
-      "name": "[2026 秋セメスター]LAHU 2000 Special Lecture (Arts and Humanities)(IB)",
+      "name": "LAHU 2000 Special Lecture (Arts and Humanities)(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水3,金3",
@@ -1878,7 +1878,7 @@
     },
     {
       "code": "52776",
-      "name": "[2026 秋セメスター]CLST 1001 Introduction to Cultural Studies(IB) § 52777:Cultural Studies (IB)",
+      "name": "CLST 1001 Introduction to Cultural Studies(IB) § 52777:Cultural Studies (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4,水5",
@@ -1891,7 +1891,7 @@
     },
     {
       "code": "52903",
-      "name": "[2026 秋セメスター]POLS 1002 Introduction to International Relations(IB)",
+      "name": "POLS 1002 Introduction to International Relations(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1904,7 +1904,7 @@
     },
     {
       "code": "52981",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (75) § 52982:Research Seminar (75)",
+      "name": "GLA 3001 Research Seminar (75) § 52982:Research Seminar (75)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1917,7 +1917,7 @@
     },
     {
       "code": "52985",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (77) § 52986:Research Seminar (77)",
+      "name": "GLA 3001 Research Seminar (77) § 52986:Research Seminar (77)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1930,7 +1930,7 @@
     },
     {
       "code": "52993",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (81) § 52994:Research Seminar (81)",
+      "name": "GLA 3001 Research Seminar (81) § 52994:Research Seminar (81)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1943,7 +1943,7 @@
     },
     {
       "code": "52995",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (82) § 52996:Research Seminar (82)",
+      "name": "GLA 3001 Research Seminar (82) § 52996:Research Seminar (82)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1956,7 +1956,7 @@
     },
     {
       "code": "52997",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (83) § 52998:Research Seminar (83)",
+      "name": "GLA 3001 Research Seminar (83) § 52998:Research Seminar (83)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水4",
@@ -1969,7 +1969,7 @@
     },
     {
       "code": "52915",
-      "name": "[2026 秋セメスター]SOC 2002 Contemporary Social and Political Theory(I)",
+      "name": "SOC 2002 Contemporary Social and Political Theory(I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "水5",
@@ -1982,7 +1982,7 @@
     },
     {
       "code": "52676",
-      "name": "[2026 秋セメスター]（留）日本語Ⅷ（キャリア日本語b）(O4) § 52677:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O4)",
+      "name": "（留）日本語Ⅷ（キャリア日本語b）(O4) § 52677:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O4)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "木1",
@@ -1995,7 +1995,7 @@
     },
     {
       "code": "52755",
-      "name": "[2026 秋セメスター]GLA 1202 Foundations in Research Skills 2(IA)",
+      "name": "GLA 1202 Foundations in Research Skills 2(IA)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木1",
@@ -2008,7 +2008,7 @@
     },
     {
       "code": "52766",
-      "name": "[2026 秋セメスター]GLA 1102 Critical Thinking 2 (IB)",
+      "name": "GLA 1102 Critical Thinking 2 (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木1",
@@ -2021,7 +2021,7 @@
     },
     {
       "code": "52872",
-      "name": "[2026 秋セメスター]LASS 2010 Special Lecture (Social Sciences)(IK)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IK)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木1",
@@ -2034,7 +2034,7 @@
     },
     {
       "code": "52756",
-      "name": "[2026 秋セメスター]GLA 1202 Foundations in Research Skills 2(IB)",
+      "name": "GLA 1202 Foundations in Research Skills 2(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2047,7 +2047,7 @@
     },
     {
       "code": "52768",
-      "name": "[2026 秋セメスター]GLA 1102 Critical Thinking 2 (ID)",
+      "name": "GLA 1102 Critical Thinking 2 (ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2060,7 +2060,7 @@
     },
     {
       "code": "52850",
-      "name": "[2026 秋セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(IB)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2073,7 +2073,7 @@
     },
     {
       "code": "52877",
-      "name": "[2026 秋セメスター]LASS 2010 Special Lecture (Social Sciences)(IP)",
+      "name": "LASS 2010 Special Lecture (Social Sciences)(IP)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2086,7 +2086,7 @@
     },
     {
       "code": "52961",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (51) § 52962:Research Seminar (51)",
+      "name": "GLA 3001 Research Seminar (51) § 52962:Research Seminar (51)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2099,7 +2099,7 @@
     },
     {
       "code": "52963",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (52) § 52964:Research Seminar (52)",
+      "name": "GLA 3001 Research Seminar (52) § 52964:Research Seminar (52)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2112,7 +2112,7 @@
     },
     {
       "code": "52973",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (57) § 52974:Research Seminar (57)",
+      "name": "GLA 3001 Research Seminar (57) § 52974:Research Seminar (57)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2125,7 +2125,7 @@
     },
     {
       "code": "52975",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (58) § 52976:Research Seminar (58)",
+      "name": "GLA 3001 Research Seminar (58) § 52976:Research Seminar (58)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2138,7 +2138,7 @@
     },
     {
       "code": "54714",
-      "name": "[2026 秋セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(IE)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木2",
@@ -2151,7 +2151,7 @@
     },
     {
       "code": "52687",
-      "name": "[2026 秋セメスター]（留）日本語Ⅶ（文章表現b）(OE) § 52688:JPNS 3032 日本語Ⅶ（文章表現b） (OE)",
+      "name": "（留）日本語Ⅶ（文章表現b）(OE) § 52688:JPNS 3032 日本語Ⅶ（文章表現b） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "木3",
@@ -2164,7 +2164,7 @@
     },
     {
       "code": "52715",
-      "name": "[2026 秋セメスター]（留）日本語上級（文法・ライティング）(K) § 52716:JPNS 3002 日本語上級（文法・ライティング）(K)",
+      "name": "（留）日本語上級（文法・ライティング）(K) § 52716:JPNS 3002 日本語上級（文法・ライティング）(K)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木3",
@@ -2177,7 +2177,7 @@
     },
     {
       "code": "15224",
-      "name": "[2026 秋セメスター]IR26-IR113 Data Literacy for Research Design(R) § 15225:IR18‐AE114 Data Literacy for Research Design(R) § 15226:RUIR-1805 Data Literacy for Research Design(R) § 17205:LAST 2110 Special Lecture (Science and Technology (Online))(99)",
+      "name": "IR26-IR113 Data Literacy for Research Design(R) § 15225:IR18‐AE114 Data Literacy for Research Design(R) § 15226:RUIR-1805 Data Literacy for Research Design(R) § 17205:LAST 2110 Special Lecture (Science and Technology (Online))(99)",
       "faculty": "国際関係学部,グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木3",
@@ -2190,7 +2190,7 @@
     },
     {
       "code": "52901",
-      "name": "[2026 秋セメスター]POLS 1001 Introduction to Politics (IB)",
+      "name": "POLS 1001 Introduction to Politics (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木3,木4",
@@ -2203,7 +2203,7 @@
     },
     {
       "code": "54698",
-      "name": "[2026 秋セメスター]HIST 1002 Introduction to Global History(IB)",
+      "name": "HIST 1002 Introduction to Global History(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木3,木4",
@@ -2216,7 +2216,7 @@
     },
     {
       "code": "52813",
-      "name": "[2026 秋セメスター]GLA 0901 Liberal Arts Experience (IB)",
+      "name": "GLA 0901 Liberal Arts Experience (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木4",
@@ -2229,7 +2229,7 @@
     },
     {
       "code": "52983",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (76) § 52984:Research Seminar (76)",
+      "name": "GLA 3001 Research Seminar (76) § 52984:Research Seminar (76)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木4",
@@ -2242,7 +2242,7 @@
     },
     {
       "code": "52987",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (78) § 52988:Research Seminar (78)",
+      "name": "GLA 3001 Research Seminar (78) § 52988:Research Seminar (78)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木4",
@@ -2255,7 +2255,7 @@
     },
     {
       "code": "52795",
-      "name": "[2026 秋セメスター]ARTH 2002 Histories in Modern and Contemporary Art(I)",
+      "name": "ARTH 2002 Histories in Modern and Contemporary Art(I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "木5",
@@ -2268,7 +2268,7 @@
     },
     {
       "code": "52747",
-      "name": "[2026 秋セメスター]WRT 1002 College Writing 2 (IC)",
+      "name": "WRT 1002 College Writing 2 (IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金1",
@@ -2281,7 +2281,7 @@
     },
     {
       "code": "52748",
-      "name": "[2026 秋セメスター]WRT 1002 College Writing 2 (ID)",
+      "name": "WRT 1002 College Writing 2 (ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金1",
@@ -2294,7 +2294,7 @@
     },
     {
       "code": "52831",
-      "name": "[2026 秋セメスター]HIST 2001 History Workshop (I)",
+      "name": "HIST 2001 History Workshop (I)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金1,金2",
@@ -2307,7 +2307,7 @@
     },
     {
       "code": "52883",
-      "name": "[2026 秋セメスター]LAST 2010 Special Lecture (Science and Technology)(IB)",
+      "name": "LAST 2010 Special Lecture (Science and Technology)(IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金1",
@@ -2320,7 +2320,7 @@
     },
     {
       "code": "52965",
-      "name": "[2026 秋セメスター]GLA 3001 Research Seminar (53) § 52966:Research Seminar (53)",
+      "name": "GLA 3001 Research Seminar (53) § 52966:Research Seminar (53)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金1",
@@ -2333,7 +2333,7 @@
     },
     {
       "code": "52674",
-      "name": "[2026 秋セメスター]（留）日本語Ⅷ（キャリア日本語b）(O3) § 52675:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O3)",
+      "name": "（留）日本語Ⅷ（キャリア日本語b）(O3) § 52675:JPNS 3023 日本語Ⅷ（キャリア日本語b） (O3)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "金2",
@@ -2346,7 +2346,7 @@
     },
     {
       "code": "52749",
-      "name": "[2026 秋セメスター]WRT 1002 College Writing 2 (IE)",
+      "name": "WRT 1002 College Writing 2 (IE)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金2",
@@ -2359,7 +2359,7 @@
     },
     {
       "code": "52893",
-      "name": "[2026 秋セメスター]LAST 1201 Introduction to Physics (IB)",
+      "name": "LAST 1201 Introduction to Physics (IB)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金3",
@@ -2372,7 +2372,7 @@
     },
     {
       "code": "52709",
-      "name": "[2026 秋セメスター]（留）日本語Ⅶ（聴解口頭b）(OE) § 52710:JPNS 3013 日本語Ⅶ（聴解口頭b） (OE)",
+      "name": "（留）日本語Ⅶ（聴解口頭b）(OE) § 52710:JPNS 3013 日本語Ⅶ（聴解口頭b） (OE)",
       "faculty": "経営学部,政策科学部,映像学部,総合心理学部,グローバル教養学部,情報理工学部",
       "term": "秋セメスター",
       "dayPeriod": "金4",
@@ -2385,7 +2385,7 @@
     },
     {
       "code": "52711",
-      "name": "[2026 秋セメスター]（留）日本語上級（聴解口頭）(K) § 52712:JPNS 3011 日本語上級 （聴解口頭） (K)",
+      "name": "（留）日本語上級（聴解口頭）(K) § 52712:JPNS 3011 日本語上級 （聴解口頭） (K)",
       "faculty": "経営学部,政策科学部,グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金4",
@@ -2398,7 +2398,7 @@
     },
     {
       "code": "52811",
-      "name": "[2026 秋セメスター]EDU 1001 Introduction to Education (IC)",
+      "name": "EDU 1001 Introduction to Education (IC)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金4",
@@ -2411,7 +2411,7 @@
     },
     {
       "code": "52852",
-      "name": "[2026 秋セメスター]LAHU 2010 Special Lecture (Arts and Humanities)(ID)",
+      "name": "LAHU 2010 Special Lecture (Arts and Humanities)(ID)",
       "faculty": "グローバル教養学部",
       "term": "秋セメスター",
       "dayPeriod": "金5",
