@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-20T21:55:53.253835+00:00",
+  "lastUpdated": "2026-09-27T22:30:21.718274+00:00",
   "year": 2026,
-  "totalCourses": 9757,
+  "totalCourses": 9754,
   "faculties": [
     "グローバル教養学部",
     "スポーツ健康科学部",
@@ -1289,7 +1289,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1",
       "campus": "OIC",
-      "instructor": "HAIMES PAUL WILLIAM",
+      "instructor": "HAIMES PAUL",
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxOxQAK/202652999",
@@ -1406,7 +1406,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月5,水5",
       "campus": "OIC/OIC",
-      "instructor": "HAIMES PAUL WILLIAM",
+      "instructor": "HAIMES PAUL",
       "language": "英語",
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxbVQAS/202652803",
@@ -9934,7 +9934,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木1",
       "campus": "BKC",
-      "instructor": "安 邦",
+      "instructor": "安 邦、高田 紘佑",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvscQAC/202633948",
@@ -11057,19 +11057,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmOQAS/202633813",
       "room": "コラーニングⅠ　３０３号教室"
-    },
-    {
-      "code": "33890",
-      "name": "インクルーシブ体育・スポーツ実習 (V) § 33891:スポーツ指導実習Ｂ（アダプテッドスポーツ）(V)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "永浜 明子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwd3QAC/202633890",
-      "room": "ラルカディア　１０１号教室"
     },
     {
       "code": "33903",
@@ -14514,7 +14501,7 @@
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugmQAC/202610239",
-      "room": "以学館IG207号教室"
+      "room": "以学館IG205号教室"
     },
     {
       "code": "17067",
@@ -22626,7 +22613,7 @@
       "language": "日本語／English",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8FQAS/202611772",
-      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY407号教室"
+      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY303号教室"
     },
     {
       "code": "11656",
@@ -23695,19 +23682,6 @@
       "room": "恒心館KS306号教室"
     },
     {
-      "code": "11733",
-      "name": "（留）日本語Ⅵ（総合）(K)",
-      "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,文学部,理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火2,木4,金2",
-      "campus": "衣笠/衣笠/衣笠",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "3",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaVQAS/202611733",
-      "room": "諒友館RY203号教室/洋洋館YY203号教室/諒友館RY304号教室"
-    },
-    {
       "code": "11750",
       "name": "（留）日本語Ⅴ（聴解口頭）(K)",
       "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,文学部,理工学部",
@@ -24164,7 +24138,7 @@
     },
     {
       "code": "11722",
-      "name": "（留）日本語6（総合） (K)",
+      "name": "（留）日本語6（総合） (K) § 17266:（留）日本語Ⅵ（総合）(K3)",
       "faculty": "国際関係学部",
       "term": "秋セメスター",
       "dayPeriod": "火3,木3,金4",
@@ -24251,7 +24225,7 @@
       "language": "日本語／英語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYdQAK/202611731",
-      "room": "諒友館RY203号教室/諒友館RY407号教室/諒友館RY406号教室"
+      "room": "諒友館RY203号教室/諒友館RY205号教室/諒友館RY406号教室"
     },
     {
       "code": "11732",
@@ -24264,7 +24238,7 @@
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZZQA0/202611732",
-      "room": "諒友館RY304号教室/諒友館RY402号教室/学而館GJ309号教室"
+      "room": "諒友館RY304号教室/学而館GJ310号教室/学而館GJ309号教室"
     },
     {
       "code": "15174",
@@ -24940,7 +24914,7 @@
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVpQAK/202611728",
-      "room": "学而館GJ311号教室/学而館GJ312号教室/諒友館RY203号教室"
+      "room": "学而館GJ311号教室/学而館GJ312号教室/諒友館RY402号教室"
     },
     {
       "code": "15427",
@@ -25187,7 +25161,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoXQAS/202611751",
-      "room": "学而館GJ309号教室/諒友館RY303号教室"
+      "room": "学而館GJ309号教室/諒友館RY505号教室"
     },
     {
       "code": "16980",
@@ -69569,7 +69543,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5uQAC/202632568",
-      "room": "プリズム情報処理演習室Ｐ３３"
+      "room": "プリズム・情報処理演習室Ｐ２６"
     },
     {
       "code": "32617",
@@ -79137,7 +79111,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw7ZQAS/202630697",
-      "room": "ラルカディア　３１１号教室"
+      "room": "ラルカディア　３１４号教室"
     },
     {
       "code": "30698",
@@ -79163,7 +79137,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9VQAS/202630699",
-      "room": "ラルカディア　３１４号教室"
+      "room": "ラルカディア　３１１号教室"
     },
     {
       "code": "30806",
@@ -79341,7 +79315,7 @@
       "term": "秋２Ｑ",
       "dayPeriod": "木3,木4,木5",
       "campus": "BKC",
-      "instructor": "井上 真男、大山 克明、久保田 幸彦、寺内 一姫、深尾 陽一朗、吉竹 悠宇志",
+      "instructor": "井上 真男、大山 克明、久保田 幸彦、寺内 一姫、姫野 友紀子、深尾 陽一朗、吉竹 悠宇志",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMDQA0/202630858",
@@ -87499,6 +87473,19 @@
       "room": "以学館IG207号教室"
     },
     {
+      "code": "10857",
+      "name": "ゼミナールⅣ(DB)",
+      "faculty": "産業社会学部",
+      "term": "秋セメスター",
+      "dayPeriod": "月4",
+      "campus": "衣笠",
+      "instructor": "野原 博人",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaYQAS/202610857",
+      "room": "IY学校教育実習室３"
+    },
+    {
       "code": "10996",
       "name": "比較ジェンダー論(S)",
       "faculty": "産業社会学部",
@@ -87783,19 +87770,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvTmQAK/202610850",
       "room": "以学館IG207号教室"
-    },
-    {
-      "code": "10857",
-      "name": "ゼミナールⅣ(DB)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "野原 博人",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaYQAS/202610857",
-      "room": "IY学校教育実習室３"
     },
     {
       "code": "10967",
@@ -88416,7 +88390,7 @@
       "dayPeriod": "火3",
       "campus": "衣笠",
       "instructor": "伊藤 遊",
-      "language": "",
+      "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyhQAC/202611031",
       "room": "以学館IG302号教室"
@@ -117568,19 +117542,6 @@
       "room": "AN415セミナールーム"
     },
     {
-      "code": "53930",
-      "name": "英語Ｐ1(CG)",
-      "faculty": "総合心理学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水1",
-      "campus": "OIC",
-      "instructor": "大石 衡聴",
-      "language": "外国語教育科目",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyArQAK/202653930",
-      "room": "AC341セミナールーム"
-    },
-    {
       "code": "53931",
       "name": "英語Ｐ1(CH)",
       "faculty": "総合心理学部",
@@ -121088,7 +121049,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwt7QAC/202633574",
-      "room": "ラルカディア　３１１号教室"
+      "room": "ラルカディア　３１４号教室"
     },
     {
       "code": "33575",
@@ -121487,7 +121448,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金3",
       "campus": "BKC",
-      "instructor": "近藤 雪絵、菅野 清彦、林 嘉宏",
+      "instructor": "近藤 雪絵、阪上 潤、菅野 清彦、林 嘉宏",
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwzvQAC/202633733",

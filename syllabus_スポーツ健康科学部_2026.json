@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T21:04:01.125781+00:00",
+  "lastUpdated": "2026-09-27T21:42:45.297001+00:00",
   "year": 2026,
   "faculty": "スポーツ健康科学部",
-  "totalCourses": 745,
+  "totalCourses": 744,
   "courses": [
     {
       "code": "34196",
@@ -7499,7 +7499,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木1",
       "campus": "BKC",
-      "instructor": "安 邦",
+      "instructor": "安 邦、高田 紘佑",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvscQAC/202633948",
@@ -8622,19 +8622,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmOQAS/202633813",
       "room": "コラーニングⅠ　３０３号教室"
-    },
-    {
-      "code": "33890",
-      "name": "インクルーシブ体育・スポーツ実習 (V) § 33891:スポーツ指導実習Ｂ（アダプテッドスポーツ）(V)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "永浜 明子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwd3QAC/202633890",
-      "room": "ラルカディア　１０１号教室"
     },
     {
       "code": "33903",

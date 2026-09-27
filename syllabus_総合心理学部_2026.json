@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T21:00:58.633236+00:00",
+  "lastUpdated": "2026-09-27T21:39:22.913535+00:00",
   "year": 2026,
   "faculty": "総合心理学部",
-  "totalCourses": 646,
+  "totalCourses": 645,
   "courses": [
     {
       "code": "52595",
@@ -5632,19 +5632,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxYtQAK/202654568",
       "room": "AN210講義室"
-    },
-    {
-      "code": "53930",
-      "name": "英語Ｐ1(CG)",
-      "faculty": "総合心理学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水1",
-      "campus": "OIC",
-      "instructor": "大石 衡聴",
-      "language": "外国語教育科目",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyArQAK/202653930",
-      "room": "AC341セミナールーム"
     },
     {
       "code": "53931",

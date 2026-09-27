@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T21:42:00.015259+00:00",
+  "lastUpdated": "2026-09-27T22:19:47.938622+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1444,
+  "totalCourses": 1443,
   "courses": [
     {
       "code": "12128",
@@ -10558,7 +10558,7 @@
       "language": "日本語／English",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8FQAS/202611772",
-      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY407号教室"
+      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY303号教室"
     },
     {
       "code": "17081",
@@ -11965,19 +11965,6 @@
       "room": "アドセミナリオ３１３号教室"
     },
     {
-      "code": "11733",
-      "name": "（留）日本語Ⅵ（総合）(K)",
-      "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,文学部,理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火2,木4,金2",
-      "campus": "衣笠/衣笠/衣笠",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "3",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaVQAS/202611733",
-      "room": "諒友館RY203号教室/洋洋館YY203号教室/諒友館RY304号教室"
-    },
-    {
       "code": "11750",
       "name": "（留）日本語Ⅴ（聴解口頭）(K)",
       "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,文学部,理工学部",
@@ -12547,7 +12534,7 @@
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugmQAC/202610239",
-      "room": "以学館IG207号教室"
+      "room": "以学館IG205号教室"
     },
     {
       "code": "17067",
@@ -13899,7 +13886,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoXQAS/202611751",
-      "room": "学而館GJ309号教室/諒友館RY303号教室"
+      "room": "学而館GJ309号教室/諒友館RY505号教室"
     },
     {
       "code": "10947",

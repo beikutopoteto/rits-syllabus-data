@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-20T21:55:42.040274+00:00",
+  "lastUpdated": "2026-09-27T22:30:10.468369+00:00",
   "year": 2026,
   "faculty": "産業社会学部",
-  "totalCourses": 1822,
+  "totalCourses": 1821,
   "courses": [
     {
       "code": "11617",
@@ -12976,7 +12976,7 @@
       "language": "日本語／English",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8FQAS/202611772",
-      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY407号教室"
+      "room": "諒友館RY203号教室/諒友館RY303号教室/諒友館RY205号教室/諒友館RY506号教室/諒友館RY303号教室"
     },
     {
       "code": "17081",
@@ -13915,6 +13915,19 @@
       "room": "以学館IG207号教室"
     },
     {
+      "code": "10857",
+      "name": "ゼミナールⅣ(DB)",
+      "faculty": "産業社会学部",
+      "term": "秋セメスター",
+      "dayPeriod": "月4",
+      "campus": "衣笠",
+      "instructor": "野原 博人",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaYQAS/202610857",
+      "room": "IY学校教育実習室３"
+    },
+    {
       "code": "10996",
       "name": "比較ジェンダー論(S)",
       "faculty": "産業社会学部",
@@ -14409,19 +14422,6 @@
       "room": "以学館IG207号教室"
     },
     {
-      "code": "10857",
-      "name": "ゼミナールⅣ(DB)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "野原 博人",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvaYQAS/202610857",
-      "room": "IY学校教育実習室３"
-    },
-    {
       "code": "10967",
       "name": "産業社会学(S)",
       "faculty": "産業社会学部",
@@ -14888,19 +14888,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwRfQAK/202635058",
       "room": "アドセミナリオ３１３号教室"
-    },
-    {
-      "code": "11733",
-      "name": "（留）日本語Ⅵ（総合）(K)",
-      "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,文学部,理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火2,木4,金2",
-      "campus": "衣笠/衣笠/衣笠",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "3",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuaVQAS/202611733",
-      "room": "諒友館RY203号教室/洋洋館YY203号教室/諒友館RY304号教室"
     },
     {
       "code": "11750",
@@ -15602,7 +15589,7 @@
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RugmQAC/202610239",
-      "room": "以学館IG207号教室"
+      "room": "以学館IG205号教室"
     },
     {
       "code": "17067",
@@ -15690,7 +15677,7 @@
       "dayPeriod": "火3",
       "campus": "衣笠",
       "instructor": "伊藤 遊",
-      "language": "",
+      "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuyhQAC/202611031",
       "room": "以学館IG302号教室"
@@ -16850,7 +16837,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuoXQAS/202611751",
-      "room": "学而館GJ309号教室/諒友館RY303号教室"
+      "room": "学而館GJ309号教室/諒友館RY505号教室"
     },
     {
       "code": "10947",
