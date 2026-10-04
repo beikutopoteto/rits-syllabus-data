@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-27T21:42:45.297001+00:00",
+  "lastUpdated": "2026-10-04T21:45:50.699636+00:00",
   "year": 2026,
   "faculty": "スポーツ健康科学部",
-  "totalCourses": 744,
+  "totalCourses": 741,
   "courses": [
     {
       "code": "34196",
@@ -5579,7 +5579,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -5826,7 +5826,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWTQA0/202634919",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": "コラーニングⅠ　１０６号教室"
     },
     {
       "code": "34905",
@@ -6048,19 +6048,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxduQAC/202634810",
       "room": "コラーニングⅠ　２０１号教室"
-    },
-    {
-      "code": "33798",
-      "name": "解剖・生理学実習(V)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火3,火4",
-      "campus": "BKC/BKC",
-      "instructor": "井上 翔太、藤江 隼平",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwZAQA0/202633798",
-      "room": "ラルカディア　４０７号教室/ラルカディア　４０７号教室"
     },
     {
       "code": "34013",
@@ -6632,7 +6619,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhZQAS/202615282",
-      "room": "恒心館KS306号教室"
+      "room": "洋洋館YY302号教室"
     },
     {
       "code": "34915",
@@ -7399,7 +7386,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7LQAS/202634873",
-      "room": "コラーニングⅠ　３０１号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "33941",
@@ -7698,7 +7685,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupzQAC/202615321",
-      "room": "明学館MG003号教室"
+      "room": "恒心館KS201号教室"
     },
     {
       "code": "17115",
@@ -8452,7 +8439,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqIQAS/202634009",
-      "room": "アドセミナリオ３０９号教室"
+      "room": "コラーニングⅠ　４０１号教室"
     },
     {
       "code": "34015",
@@ -8650,19 +8637,6 @@
       "room": "コラーニングⅠ　２０５号教室"
     },
     {
-      "code": "31037",
-      "name": "（教）保健体育科授業発展演習 (V)",
-      "faculty": "スポーツ健康科学部,スポーツ健康科学研究科",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "大友 智",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrlQAC/202631037",
-      "room": "ラルカディア　４１５号教室"
-    },
-    {
       "code": "15260",
       "name": "IR26-POL103 Introduction to the United Nations(RB) § 15261:IR18‐AE110 Introduction to the United Nations(RB) § 15262:Introduction to the United Nations(RB) § 15263:RUIR-1411 Introduction to the United Nations(RB)",
       "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,政策科学部,文学部,デザイン・アート学部,映像学部,理工学部,情報理工学部,スポーツ健康科学部",
@@ -8751,7 +8725,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwR0QAK/202631083",
-      "room": "フォレストハウス３０６号教室"
+      "room": "コラーニングⅡ　８０１号教室"
     },
     {
       "code": "34119",
@@ -9287,19 +9261,6 @@
       "room": "コラーニングⅠ　３０３号教室"
     },
     {
-      "code": "33788",
-      "name": "スポーツ指導実習Ｂ（有酸素・レジスタンストレーニング）(VA)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金3",
-      "campus": "BKC",
-      "instructor": "堀内 元",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwRQQA0/202633788",
-      "room": "ラルカディア　３０１号教室"
-    },
-    {
       "code": "33801",
       "name": "スポーツ健康科学特殊講義Ⅱ（ハイパフォーマンススポーツの科学）(V)",
       "faculty": "スポーツ健康科学部",
@@ -9479,7 +9440,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34853",

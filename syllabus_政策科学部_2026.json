@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:52:27.847983+00:00",
+  "lastUpdated": "2026-10-04T21:53:53.528420+00:00",
   "year": 2026,
   "faculty": "政策科学部",
   "totalCourses": 841,
@@ -5631,7 +5631,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyAPQA0/202651203",
-      "room": "C273講義室"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51338",
@@ -5774,7 +5774,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyWfQAK/202651226",
-      "room": "C274講義室"
+      "room": "AN224マルチメディアルーム"
     },
     {
       "code": "51312",
@@ -5800,7 +5800,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxzTQAS/202651371",
-      "room": "AS364セミナールーム"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51462",
@@ -6619,7 +6619,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry9TQAS/202651378",
-      "room": "AS363セミナールーム"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51420",
@@ -7035,7 +7035,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyBPQA0/202651380",
-      "room": "AS362セミナールーム"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "54612",
@@ -7282,7 +7282,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyBNQA0/202651204",
-      "room": "C273講義室"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51223",
@@ -8868,7 +8868,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupzQAC/202615321",
-      "room": "明学館MG003号教室"
+      "room": "恒心館KS201号教室"
     },
     {
       "code": "54585",
@@ -10506,7 +10506,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxh4QAC/202651247",
-      "room": "AN310講義室"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "51274",

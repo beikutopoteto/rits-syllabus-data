@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T22:23:34.167630+00:00",
+  "lastUpdated": "2026-10-04T22:26:39.273529+00:00",
   "year": 2026,
   "faculty": "理工学部",
   "totalCourses": 1626,
@@ -10749,7 +10749,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1,月2",
       "campus": "BKC",
-      "instructor": "川畑 良尚、田口 耕造",
+      "instructor": "川畑 良尚、下中 淳、田口 耕造、中村 彰男、毛利 真一郎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw20QAC/202632387",
@@ -11689,7 +11689,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutDQAS/202611756",
-      "room": "学而館GJ303号教室"
+      "room": "諒友館RY202号教室"
     },
     {
       "code": "11762",
@@ -12469,7 +12469,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -13850,19 +13850,6 @@
       "room": "コラーニングⅠ　１０７号教室"
     },
     {
-      "code": "32794",
-      "name": "建築計画Ⅰ(8T)",
-      "faculty": "理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火3",
-      "campus": "BKC",
-      "instructor": "宗本 晋作",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5xQAC/202632794",
-      "room": "コラーニングⅠ　１０６号教室"
-    },
-    {
       "code": "32823",
       "name": "建築生産(8T)",
       "faculty": "理工学部",
@@ -14162,6 +14149,19 @@
       "room": "コラーニングⅠ　１０７号教室"
     },
     {
+      "code": "32794",
+      "name": "建築計画Ⅰ(8T)",
+      "faculty": "理工学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火4",
+      "campus": "BKC",
+      "instructor": "宗本 晋作",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5xQAC/202632794",
+      "room": "コラーニングⅠ　１０４号教室"
+    },
+    {
       "code": "31014",
       "name": "（教）理科教育概論(G2)",
       "faculty": "理工学部,生命科学部,理工学研究科,生命科学研究科",
@@ -14302,7 +14302,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvsHQAS/202632116",
-      "room": "コラーニングⅠ　３０６号教室"
+      "room": "フォレストハウス１０２号教室"
     },
     {
       "code": "32121",
@@ -17201,7 +17201,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7LQAS/202634873",
-      "room": "コラーニングⅠ　３０１号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "54619",
@@ -17539,7 +17539,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvkaQAC/202632369",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "フォレストハウス３０１号教室"
     },
     {
       "code": "32389",
@@ -18549,7 +18549,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木4,木5",
       "campus": "BKC",
-      "instructor": "繁田 光浩、田口 耕造、沼居 貴陽、藤枝 一郎",
+      "instructor": "繁田 光浩、下中 淳、田口 耕造、沼居 貴陽、藤枝 一郎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJQQA0/202632405",
@@ -18761,7 +18761,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwR0QAK/202631083",
-      "room": "フォレストハウス３０６号教室"
+      "room": "コラーニングⅡ　８０１号教室"
     },
     {
       "code": "31793",
@@ -20581,7 +20581,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34853",

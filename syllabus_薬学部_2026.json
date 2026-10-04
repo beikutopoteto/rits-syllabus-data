@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:43:03.955763+00:00",
+  "lastUpdated": "2026-10-04T21:44:29.679269+00:00",
   "year": 2026,
   "faculty": "薬学部",
   "totalCourses": 621,
@@ -4929,7 +4929,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -5631,7 +5631,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4AQAS/202633606",
-      "room": "フォレストハウス１０５号教室"
+      "room": "フォレストハウス３０１号教室"
     },
     {
       "code": "33607",
@@ -6788,7 +6788,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7LQAS/202634873",
-      "room": "コラーニングⅠ　３０１号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "33573",
@@ -6827,7 +6827,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwu5QAC/202633575",
-      "room": "ラルカディア　３１０号教室"
+      "room": "ラルカディア　３１５号教室"
     },
     {
       "code": "33622",
@@ -7412,7 +7412,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwHFQA0/202630707",
-      "room": "ラルカディア　３１０号教室"
+      "room": "コラーニングⅡ　７０１号教室"
     },
     {
       "code": "34234",
@@ -7932,7 +7932,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34853",

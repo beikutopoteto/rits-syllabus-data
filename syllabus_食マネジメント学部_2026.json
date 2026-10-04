@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:46:05.161484+00:00",
+  "lastUpdated": "2026-10-04T21:49:49.808402+00:00",
   "year": 2026,
   "faculty": "食マネジメント学部",
   "totalCourses": 774,
@@ -4188,7 +4188,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqQQAS/202634711",
-      "room": "ラルカディア　４１２号教室"
+      "room": "環境実習室"
     },
     {
       "code": "34714",
@@ -5982,7 +5982,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -6320,7 +6320,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWTQA0/202634919",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": "コラーニングⅠ　１０６号教室"
     },
     {
       "code": "34905",
@@ -7308,7 +7308,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvmuQAC/202634484",
-      "room": "コラーニングⅠ　２０３号教室"
+      "room": "フォレストハウス１０４号教室"
     },
     {
       "code": "34587",
@@ -7321,7 +7321,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvk1QAC/202634587",
-      "room": "ラルカディア　１０３号教室"
+      "room": "アドセミナリオ２１１号教室"
     },
     {
       "code": "34601",
@@ -7347,7 +7347,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE1QAK/202634621",
-      "room": "コラーニングⅠ　４０１号教室"
+      "room": "コラーニングⅠ　１０１号教室"
     },
     {
       "code": "17093",
@@ -8881,7 +8881,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxHdQAK/202634734",
-      "room": "ラルカディア　４１２号教室"
+      "room": "環境実習室"
     },
     {
       "code": "17110",
@@ -9177,7 +9177,7 @@
       "dayPeriod": "木4",
       "campus": "BKC",
       "instructor": "吉積 巳貴",
-      "language": "",
+      "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000008Q5FZQA0/202635094",
       "room": "ラルカディア　４１０号教室"
@@ -9232,7 +9232,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvg9QAC/202634579",
-      "room": "コラーニングⅠ　１０６号教室"
+      "room": "アドセミナリオ２０６号教室"
     },
     {
       "code": "34234",
@@ -9375,7 +9375,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvlxQAC/202634589",
-      "room": "コラーニングⅠ　２０３号教室"
+      "room": "ラルカディア　２０２号教室"
     },
     {
       "code": "34600",
@@ -9934,7 +9934,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34853",
@@ -9973,7 +9973,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKnQAK/202634628",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅠ　２０５号教室"
     },
     {
       "code": "34629",

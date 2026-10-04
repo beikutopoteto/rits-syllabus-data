@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-09-27T21:48:24.888948+00:00",
+  "lastUpdated": "2026-10-04T21:50:37.672982+00:00",
   "year": 2026,
   "faculty": "生命科学部",
-  "totalCourses": 802,
+  "totalCourses": 801,
   "courses": [
     {
       "code": "34196",
@@ -6281,7 +6281,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -6554,7 +6554,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWTQA0/202634919",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": "コラーニングⅠ　１０６号教室"
     },
     {
       "code": "34813",
@@ -7298,19 +7298,6 @@
       "room": "フォレストハウス１０２号教室"
     },
     {
-      "code": "30838",
-      "name": "生物工学基礎演習2(MC)",
-      "faculty": "生命科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水1",
-      "campus": "BKC",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwL8QAK/202630838",
-      "room": "フォレストハウス１０８号教室"
-    },
-    {
       "code": "30853",
       "name": "生命情報学基礎演習２(MA)",
       "faculty": "生命科学部",
@@ -7633,7 +7620,7 @@
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvvyQAC/202630812",
-      "room": "ラルカディア　３１２号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "30817",
@@ -8569,7 +8556,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMCQA0/202630774",
-      "room": "フォレストハウス１０３号教室"
+      "room": "フォレストハウス２０３号教室"
     },
     {
       "code": "30835",
@@ -9479,7 +9466,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwHFQA0/202630707",
-      "room": "ラルカディア　３１０号教室"
+      "room": "コラーニングⅡ　７０１号教室"
     },
     {
       "code": "34234",
@@ -10194,7 +10181,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34967",

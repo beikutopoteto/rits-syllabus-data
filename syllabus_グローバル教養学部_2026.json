@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T21:28:40.790238+00:00",
+  "lastUpdated": "2026-10-04T21:31:07.659122+00:00",
   "year": 2026,
   "faculty": "グローバル教養学部",
   "totalCourses": 186,
@@ -1597,7 +1597,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火4,水1,木3",
       "campus": "OIC/OIC/OIC",
-      "instructor": "小木曽 左枝子、水野 瑛子、山田 千晶",
+      "instructor": "小木曽 左枝子、木寺 裕子、水野 瑛子、山田 千晶",
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRoQAK/202652723",
@@ -1861,7 +1861,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxq1QAC/202652818",
-      "room": "AN510セミナールーム"
+      "room": "AS561ラーニング・スタジオ"
     },
     {
       "code": "52846",

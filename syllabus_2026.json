@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-09-27T22:30:21.718274+00:00",
+  "lastUpdated": "2026-10-04T22:35:58.788993+00:00",
   "year": 2026,
-  "totalCourses": 9754,
+  "totalCourses": 9744,
   "faculties": [
     "グローバル教養学部",
     "スポーツ健康科学部",
@@ -1614,7 +1614,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火4,水1,木3",
       "campus": "OIC/OIC/OIC",
-      "instructor": "小木曽 左枝子、水野 瑛子、山田 千晶",
+      "instructor": "小木曽 左枝子、木寺 裕子、水野 瑛子、山田 千晶",
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRoQAK/202652723",
@@ -1878,7 +1878,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxq1QAC/202652818",
-      "room": "AN510セミナールーム"
+      "room": "AS561ラーニング・スタジオ"
     },
     {
       "code": "52846",
@@ -8014,7 +8014,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJaQAK/202634782",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": "コラーニングⅠ　１０９号教室"
     },
     {
       "code": "35013",
@@ -8261,7 +8261,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwWTQA0/202634919",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": "コラーニングⅠ　１０６号教室"
     },
     {
       "code": "34905",
@@ -8483,19 +8483,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxduQAC/202634810",
       "room": "コラーニングⅠ　２０１号教室"
-    },
-    {
-      "code": "33798",
-      "name": "解剖・生理学実習(V)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火3,火4",
-      "campus": "BKC/BKC",
-      "instructor": "井上 翔太、藤江 隼平",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwZAQA0/202633798",
-      "room": "ラルカディア　４０７号教室/ラルカディア　４０７号教室"
     },
     {
       "code": "34013",
@@ -9067,7 +9054,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuhZQAS/202615282",
-      "room": "恒心館KS306号教室"
+      "room": "洋洋館YY302号教室"
     },
     {
       "code": "34915",
@@ -9834,7 +9821,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7LQAS/202634873",
-      "room": "コラーニングⅠ　３０１号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "33941",
@@ -10133,7 +10120,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupzQAC/202615321",
-      "room": "明学館MG003号教室"
+      "room": "恒心館KS201号教室"
     },
     {
       "code": "17115",
@@ -10887,7 +10874,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqIQAS/202634009",
-      "room": "アドセミナリオ３０９号教室"
+      "room": "コラーニングⅠ　４０１号教室"
     },
     {
       "code": "34015",
@@ -11085,19 +11072,6 @@
       "room": "コラーニングⅠ　２０５号教室"
     },
     {
-      "code": "31037",
-      "name": "（教）保健体育科授業発展演習 (V)",
-      "faculty": "スポーツ健康科学部,スポーツ健康科学研究科",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "BKC",
-      "instructor": "大友 智",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwrlQAC/202631037",
-      "room": "ラルカディア　４１５号教室"
-    },
-    {
       "code": "15260",
       "name": "IR26-POL103 Introduction to the United Nations(RB) § 15261:IR18‐AE110 Introduction to the United Nations(RB) § 15262:Introduction to the United Nations(RB) § 15263:RUIR-1411 Introduction to the United Nations(RB)",
       "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,政策科学部,文学部,デザイン・アート学部,映像学部,理工学部,情報理工学部,スポーツ健康科学部",
@@ -11186,7 +11160,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwR0QAK/202631083",
-      "room": "フォレストハウス３０６号教室"
+      "room": "コラーニングⅡ　８０１号教室"
     },
     {
       "code": "34119",
@@ -11722,19 +11696,6 @@
       "room": "コラーニングⅠ　３０３号教室"
     },
     {
-      "code": "33788",
-      "name": "スポーツ指導実習Ｂ（有酸素・レジスタンストレーニング）(VA)",
-      "faculty": "スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金3",
-      "campus": "BKC",
-      "instructor": "堀内 元",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwRQQA0/202633788",
-      "room": "ラルカディア　３０１号教室"
-    },
-    {
       "code": "33801",
       "name": "スポーツ健康科学特殊講義Ⅱ（ハイパフォーマンススポーツの科学）(V)",
       "faculty": "スポーツ健康科学部",
@@ -11914,7 +11875,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwdHQAS/202635070",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34853",
@@ -15437,7 +15398,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvyfQAC/202616891",
-      "room": "洋洋館YY202号教室"
+      "room": "洋洋館YY301号教室"
     },
     {
       "code": "15074",
@@ -22080,7 +22041,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruh2QAC/202611647",
-      "room": "洋洋館YY303号教室"
+      "room": "学而館GJ309号教室"
     },
     {
       "code": "11670",
@@ -22886,7 +22847,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutDQAS/202611756",
-      "room": "学而館GJ303号教室"
+      "room": "諒友館RY202号教室"
     },
     {
       "code": "11762",
@@ -23419,7 +23380,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwB9QAK/202616133",
-      "room": "諒友館RY206号教室"
+      "room": "洋洋館YY303号教室"
     },
     {
       "code": "16136",
@@ -23731,7 +23692,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4VQAS/202617005",
-      "room": "研心館KE402号教室"
+      "room": "存心館ZS301号教室"
     },
     {
       "code": "11672",
@@ -23770,7 +23731,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1iQAC/202612294",
-      "room": "存心館ZS301号教室"
+      "room": "明学館MG301号教室"
     },
     {
       "code": "15409",
@@ -24234,7 +24195,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火3,水1,木3",
       "campus": "衣笠/衣笠/衣笠",
-      "instructor": "増田 寛次、道上 史絵、三井 久美子",
+      "instructor": "石塚 健、増田 寛次、道上 史絵",
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZZQA0/202611732",
@@ -24732,7 +24693,7 @@
       "language": "日本語とスペイン語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQ1QAK/202611538",
-      "room": "志学館SG203号教室"
+      "room": "学而館GJ307号教室"
     },
     {
       "code": "12664",
@@ -25200,7 +25161,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuwwQAC/202611678",
-      "room": "洋洋館YY303号教室"
+      "room": "洋洋館YY203号教室"
     },
     {
       "code": "11680",
@@ -26535,7 +26496,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木2",
       "campus": "衣笠",
-      "instructor": "三井 久美子",
+      "instructor": "石塚 健",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9BQAS/202611704",
@@ -26838,7 +26799,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004Ys0TQAS/202617208",
-      "room": "明学館MG002号教室"
+      "room": "恒心館KS203号教室"
     },
     {
       "code": "12211",
@@ -27137,7 +27098,7 @@
       "language": "日本語とスペイン語の併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMBQA0/202611530",
-      "room": "以学館IG404号教室"
+      "room": "洋洋館YY302号教室"
     },
     {
       "code": "12670",
@@ -27189,7 +27150,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1cQAC/202611688",
-      "room": "洋洋館YY203号教室"
+      "room": "洋洋館YY404号教室"
     },
     {
       "code": "15696",
@@ -27644,7 +27605,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rua5QAC/202615254",
-      "room": "敬学館KG009号教室"
+      "room": "明学館MG002号教室"
     },
     {
       "code": "15770",
@@ -41411,7 +41372,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyAPQA0/202651203",
-      "room": "C273講義室"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51338",
@@ -41489,7 +41450,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyWfQAK/202651226",
-      "room": "C274講義室"
+      "room": "AN224マルチメディアルーム"
     },
     {
       "code": "51312",
@@ -41515,7 +41476,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxzTQAS/202651371",
-      "room": "AS364セミナールーム"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51462",
@@ -42152,7 +42113,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ry9TQAS/202651378",
-      "room": "AS363セミナールーム"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51420",
@@ -42425,7 +42386,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyBPQA0/202651380",
-      "room": "AS362セミナールーム"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "54612",
@@ -42607,7 +42568,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyBNQA0/202651204",
-      "room": "C273講義室"
+      "room": "AS358セミナールーム"
     },
     {
       "code": "51223",
@@ -45012,7 +44973,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxh4QAC/202651247",
-      "room": "AN310講義室"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "51274",
@@ -48223,7 +48184,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPlQAK/202613237",
-      "room": "啓明館KM303号教室"
+      "room": "清心館SE003号教室"
     },
     {
       "code": "50762",
@@ -55204,7 +55165,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubWQAS/202612266",
-      "room": "存心館ZS201号教室"
+      "room": "存心館ZS310号教室"
     },
     {
       "code": "12296",
@@ -55217,7 +55178,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv3aQAC/202612296",
-      "room": "存心館ZS310号教室"
+      "room": "存心館ZS201号教室"
     },
     {
       "code": "12389",
@@ -55542,7 +55503,7 @@
       "language": "日本語",
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RungQAC/202612279",
-      "room": "存心館ZS207号教室/存心館ZS207号教室"
+      "room": "研心館KE402号教室/研心館KE402号教室"
     },
     {
       "code": "12289",
@@ -55568,7 +55529,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuxyQAC/202612290",
-      "room": "存心館ZS201号教室"
+      "room": "存心館ZS301号教室"
     },
     {
       "code": "12297",
@@ -55581,7 +55542,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv4WQAS/202612297",
-      "room": "存心館ZS301号教室"
+      "room": "存心館ZS201号教室"
     },
     {
       "code": "12471",
@@ -55789,7 +55750,7 @@
       "language": "日本語",
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuocQAC/202612280",
-      "room": "存心館ZS207号教室/存心館ZS207号教室"
+      "room": "研心館KE402号教室/研心館KE402号教室"
     },
     {
       "code": "12470",
@@ -56010,7 +55971,7 @@
       "language": "日本語",
       "credits": "4",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOfQAK/202612146",
-      "room": "存心館ZS201号教室/存心館ZS201号教室"
+      "room": "存心館ZS207号教室/存心館ZS201号教室"
     },
     {
       "code": "12161",
@@ -56049,7 +56010,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8KQAS/202612301",
-      "room": "存心館ZS311号教室"
+      "room": "存心館ZS201号教室"
     },
     {
       "code": "12375",
@@ -56231,7 +56192,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RufGQAS/202612270",
-      "room": "研心館KE402号教室"
+      "room": "存心館ZS310号教室"
     },
     {
       "code": "10126",
@@ -57141,7 +57102,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvImQAK/202612215",
-      "room": "存心館ZS207号教室"
+      "room": "明学館MG301号教室"
     },
     {
       "code": "12263",
@@ -57505,7 +57466,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutIQAS/202612285",
-      "room": "研心館KE402号教室"
+      "room": "存心館ZS310号教室"
     },
     {
       "code": "12310",
@@ -59130,7 +59091,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuOHQA0/202610009",
-      "room": "啓明館KM401号教室"
+      "room": "洋洋館YY201号教室"
     },
     {
       "code": "10127",
@@ -67082,7 +67043,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1,月2",
       "campus": "BKC",
-      "instructor": "川畑 良尚、田口 耕造",
+      "instructor": "川畑 良尚、下中 淳、田口 耕造、中村 彰男、毛利 真一郎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw20QAC/202632387",
@@ -69338,19 +69299,6 @@
       "room": "コラーニングⅠ　１０７号教室"
     },
     {
-      "code": "32794",
-      "name": "建築計画Ⅰ(8T)",
-      "faculty": "理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火3",
-      "campus": "BKC",
-      "instructor": "宗本 晋作",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5xQAC/202632794",
-      "room": "コラーニングⅠ　１０６号教室"
-    },
-    {
       "code": "32823",
       "name": "建築生産(8T)",
       "faculty": "理工学部",
@@ -69572,6 +69520,19 @@
       "room": "コラーニングⅠ　１０７号教室"
     },
     {
+      "code": "32794",
+      "name": "建築計画Ⅰ(8T)",
+      "faculty": "理工学部",
+      "term": "秋セメスター",
+      "dayPeriod": "火4",
+      "campus": "BKC",
+      "instructor": "宗本 晋作",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5xQAC/202632794",
+      "room": "コラーニングⅠ　１０４号教室"
+    },
+    {
       "code": "31014",
       "name": "（教）理科教育概論(G2)",
       "faculty": "理工学部,生命科学部,理工学研究科,生命科学研究科",
@@ -69673,7 +69634,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvsHQAS/202632116",
-      "room": "コラーニングⅠ　３０６号教室"
+      "room": "フォレストハウス１０２号教室"
     },
     {
       "code": "32121",
@@ -71961,7 +71922,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvkaQAC/202632369",
-      "room": "コラーニングⅡ　７０１号教室"
+      "room": "フォレストハウス３０１号教室"
     },
     {
       "code": "32389",
@@ -72659,7 +72620,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木4,木5",
       "campus": "BKC",
-      "instructor": "繁田 光浩、田口 耕造、沼居 貴陽、藤枝 一郎",
+      "instructor": "繁田 光浩、下中 淳、田口 耕造、沼居 貴陽、藤枝 一郎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJQQA0/202632405",
@@ -78399,19 +78360,6 @@
       "room": "フォレストハウス１０２号教室"
     },
     {
-      "code": "30838",
-      "name": "生物工学基礎演習2(MC)",
-      "faculty": "生命科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水1",
-      "campus": "BKC",
-      "instructor": "",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwL8QAK/202630838",
-      "room": "フォレストハウス１０８号教室"
-    },
-    {
       "code": "30853",
       "name": "生命情報学基礎演習２(MA)",
       "faculty": "生命科学部",
@@ -78630,7 +78578,7 @@
       "language": "英語および日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvvyQAC/202630812",
-      "room": "ラルカディア　３１２号教室"
+      "room": "コラーニングⅠ　１０５号教室"
     },
     {
       "code": "30817",
@@ -79059,7 +79007,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMCQA0/202630774",
-      "room": "フォレストハウス１０３号教室"
+      "room": "フォレストハウス２０３号教室"
     },
     {
       "code": "30835",
@@ -79397,7 +79345,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwHFQA0/202630707",
-      "room": "ラルカディア　３１０号教室"
+      "room": "コラーニングⅡ　７０１号教室"
     },
     {
       "code": "30724",
@@ -86277,19 +86225,6 @@
       "room": "IY学校教育実習室２"
     },
     {
-      "code": "11243",
-      "name": "Global Issues(SB)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月1",
-      "campus": "衣笠",
-      "instructor": "KIM WACHUTKA JACKIE",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvSsQAK/202611243",
-      "room": "以学館IG205号教室"
-    },
-    {
       "code": "11389",
       "name": "ドイツ語・展開(SC)",
       "faculty": "産業社会学部",
@@ -86768,7 +86703,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RucKQAS/202611480",
-      "room": "以学館IG409号教室/以学館IG406号教室"
+      "room": "以学館IG409号教室/学而館GJ310号教室"
     },
     {
       "code": "11481",
@@ -87159,32 +87094,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvfRQAS/202611165",
       "room": "以学館IG301号教室"
-    },
-    {
-      "code": "11272",
-      "name": "Reading & Discussion 2 (S)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月3",
-      "campus": "衣笠",
-      "instructor": "入江 伸光",
-      "language": "英語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTsQAK/202611272",
-      "room": "以学館IG207号教室"
-    },
-    {
-      "code": "10174",
-      "name": "（教）保健体育科授業発展演習 (S)",
-      "faculty": "産業社会学部,社会学研究科",
-      "term": "秋セメスター",
-      "dayPeriod": "月3",
-      "campus": "衣笠",
-      "instructor": "有山 篤利",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruq7QAC/202610174",
-      "room": "以学館IG206号教室"
     },
     {
       "code": "10536",
@@ -88757,7 +88666,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvM5QAK/202610958",
-      "room": "敬学館KG108号教室"
+      "room": "以学館IG303号教室"
     },
     {
       "code": "10990",
@@ -88874,7 +88783,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvcVQAS/202610977",
-      "room": "敬学館KG108号教室"
+      "room": "以学館IG303号教室"
     },
     {
       "code": "11028",
@@ -89681,19 +89590,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvmCQAS/202611081",
       "room": "以学館IG303号教室"
-    },
-    {
-      "code": "11278",
-      "name": "English in Film 2 (S)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木1",
-      "campus": "衣笠",
-      "instructor": "入江 伸光",
-      "language": "英語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZUQA0/202611278",
-      "room": "以学館IG207号教室"
     },
     {
       "code": "11393",
@@ -91490,19 +91386,6 @@
       "room": "志学館SG203号教室"
     },
     {
-      "code": "11114",
-      "name": "家庭(SB)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "小林 由佳",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RurEQAS/202611114",
-      "room": "IY学校教育実習室２"
-    },
-    {
       "code": "10345",
       "name": "社会経済学(S)",
       "faculty": "産業社会学部",
@@ -91838,7 +91721,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuZSQA0/202611095",
-      "room": "学而館GJ311号教室"
+      "room": "洋洋館YY305号教室"
     },
     {
       "code": "11096",
@@ -92541,19 +92424,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvgOQAS/202611075",
       "room": "IY学校教育実習室２"
-    },
-    {
-      "code": "11107",
-      "name": "生活(S)",
-      "faculty": "産業社会学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金5",
-      "campus": "衣笠",
-      "instructor": "野原 博人",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RukgQAC/202611107",
-      "room": "IY学校教育実習室３"
     },
     {
       "code": "11139",
@@ -101471,7 +101341,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxTfQAK/202652186",
-      "room": "AN310講義室"
+      "room": "C372講義室"
     },
     {
       "code": "52262",
@@ -101835,7 +101705,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyGNQA0/202652291",
-      "room": "AC330講義室"
+      "room": "C372講義室"
     },
     {
       "code": "52494",
@@ -109752,7 +109622,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJYQA0/202633054",
-      "room": "コラーニングⅠ　１０８号教室"
+      "room": "コラーニングⅠ　２０４号教室"
     },
     {
       "code": "30270",
@@ -111507,7 +111377,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwRIQA0/202633062",
-      "room": "コラーニングⅠ　１０８号教室"
+      "room": "ラルカディア　１０１号教室"
     },
     {
       "code": "34964",
@@ -111651,6 +111521,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwIaQAK/202633053",
       "room": "コラーニングⅠ　２０１号教室"
+    },
+    {
+      "code": "33088",
+      "name": "人文地理学(E)",
+      "faculty": "経済学部",
+      "term": "秋セメスター",
+      "dayPeriod": "水1",
+      "campus": "BKC",
+      "instructor": "加藤 政洋",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rws4QAC/202633088",
+      "room": "コラーニングⅡ　７０１号教室"
     },
     {
       "code": "33107",
@@ -111897,7 +111780,7 @@
       "language": "本講義は日本語で行う",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx1jQAC/202633005",
-      "room": "コラーニングⅠ　１０１号教室"
+      "room": "コラーニングⅠ　１０４号教室"
     },
     {
       "code": "33040",
@@ -112212,16 +112095,16 @@
       "room": "コラーニングⅡ　６０６号教室"
     },
     {
-      "code": "33088",
-      "name": "人文地理学(E)",
+      "code": "33091",
+      "name": "地誌学(E)",
       "faculty": "経済学部",
       "term": "秋セメスター",
       "dayPeriod": "水3",
       "campus": "BKC",
-      "instructor": "古関 大樹",
+      "instructor": "古賀 慎二",
       "language": "日本語",
       "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rws4QAC/202633088",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwuyQAC/202633091",
       "room": "コラーニングⅡ　７０１号教室"
     },
     {
@@ -112742,7 +112625,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwnGQAS/202633275",
-      "room": "プリズム・情報処理演習室Ｐ２５"
+      "room": "アクロス情報語学演習室ＡＣ１３"
     },
     {
       "code": "33277",
@@ -112951,19 +112834,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx6ZQAS/202630255",
       "room": "ラルカディア　３０７号教室"
-    },
-    {
-      "code": "33091",
-      "name": "地誌学(E)",
-      "faculty": "経済学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "BKC",
-      "instructor": "古関 大樹",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwuyQAC/202633091",
-      "room": "コラーニングⅡ　６０６号教室"
     },
     {
       "code": "30208",
@@ -113431,7 +113301,7 @@
       "language": "中国語と日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw8uQAC/202633043",
-      "room": "フォレストハウス１１０号教室"
+      "room": "アドセミナリオ３１３号教室"
     },
     {
       "code": "33048",
@@ -114081,7 +113951,7 @@
       "language": "English/Japanese",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwzLQAS/202630151",
-      "room": "ラルカディア　３０３号教室"
+      "room": "ラルカディア　３０４号教室"
     },
     {
       "code": "30152",
@@ -114185,7 +114055,7 @@
       "language": "English/Japanese",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwM2QAK/202630433",
-      "room": "ラルカディア　３０４号教室"
+      "room": "ラルカディア　３０３号教室"
     },
     {
       "code": "33031",
@@ -114211,7 +114081,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwHcQAK/202633052",
-      "room": "コラーニングⅠ　３０３号教室"
+      "room": "コラーニングⅠ　１０４号教室"
     },
     {
       "code": "33149",
@@ -114393,7 +114263,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKWQA0/202633055",
-      "room": "コラーニングⅠ　３０４号教室"
+      "room": "コラーニングⅠ　３０１号教室"
     },
     {
       "code": "33058",
@@ -114406,7 +114276,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwNQQA0/202633058",
-      "room": "コラーニングⅠ　１０５号教室"
+      "room": "アドセミナリオ２１０号教室"
     },
     {
       "code": "33148",
@@ -117617,7 +117487,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rz90QAC/202654097",
-      "room": "AN212講義室"
+      "room": "B374コロキウム"
     },
     {
       "code": "54124",
@@ -118930,7 +118800,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RywzQAC/202654084",
-      "room": "AN211講義室"
+      "room": "AN210講義室"
     },
     {
       "code": "54043",
@@ -120776,7 +120646,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4AQAS/202633606",
-      "room": "フォレストハウス１０５号教室"
+      "room": "フォレストハウス３０１号教室"
     },
     {
       "code": "33607",
@@ -121062,7 +120932,7 @@
       "language": "英語および日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rwu5QAC/202633575",
-      "room": "ラルカディア　３１０号教室"
+      "room": "ラルカディア　３１５号教室"
     },
     {
       "code": "33622",
@@ -123857,7 +123727,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwqQQAS/202634711",
-      "room": "ラルカディア　４１２号教室"
+      "room": "環境実習室"
     },
     {
       "code": "34714",
@@ -125365,7 +125235,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvmuQAC/202634484",
-      "room": "コラーニングⅠ　２０３号教室"
+      "room": "フォレストハウス１０４号教室"
     },
     {
       "code": "34587",
@@ -125378,7 +125248,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvk1QAC/202634587",
-      "room": "ラルカディア　１０３号教室"
+      "room": "アドセミナリオ２１１号教室"
     },
     {
       "code": "34601",
@@ -125404,7 +125274,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE1QAK/202634621",
-      "room": "コラーニングⅠ　４０１号教室"
+      "room": "コラーニングⅠ　１０１号教室"
     },
     {
       "code": "34583",
@@ -126236,7 +126106,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxHdQAK/202634734",
-      "room": "ラルカディア　４１２号教室"
+      "room": "環境実習室"
     },
     {
       "code": "34432",
@@ -126467,7 +126337,7 @@
       "dayPeriod": "木4",
       "campus": "BKC",
       "instructor": "吉積 巳貴",
-      "language": "",
+      "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000008Q5FZQA0/202635094",
       "room": "ラルカディア　４１０号教室"
@@ -126496,7 +126366,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvg9QAC/202634579",
-      "room": "コラーニングⅠ　１０６号教室"
+      "room": "アドセミナリオ２０６号教室"
     },
     {
       "code": "34273",
@@ -126548,7 +126418,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvlxQAC/202634589",
-      "room": "コラーニングⅠ　２０３号教室"
+      "room": "ラルカディア　２０２号教室"
     },
     {
       "code": "34600",
@@ -126795,7 +126665,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKnQAK/202634628",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅠ　２０５号教室"
     },
     {
       "code": "34629",
