@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:44:27.195804+00:00",
+  "lastUpdated": "2026-10-18T20:58:55.506262+00:00",
   "year": 2026,
   "faculty": "映像学部",
-  "totalCourses": 748,
+  "totalCourses": 747,
   "courses": [
     {
       "code": "11540",
@@ -6697,7 +6697,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRYQA0/202651053",
-      "room": "H324セミナールーム"
+      "room": "Ｈ棟"
     },
     {
       "code": "17093",
@@ -6853,7 +6853,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPlQAK/202613237",
-      "room": "清心館SE003号教室"
+      "room": "清心館SE204号教室"
     },
     {
       "code": "50762",
@@ -6983,7 +6983,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxVQQA0/202651057",
-      "room": "Ｈ棟"
+      "room": "AS368セミナールーム"
     },
     {
       "code": "51064",
@@ -7412,7 +7412,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "52676",
@@ -8049,7 +8049,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvB5QAK/202611708",
-      "room": "諒友館RY304号教室"
+      "room": "諒友館RY203号教室"
     },
     {
       "code": "54512",
@@ -8336,19 +8336,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxT7QAK/202654692",
       "room": "クリエイティブPC教室2/クリエイティブPC教室2"
-    },
-    {
-      "code": "51124",
-      "name": "（教）教育相談の実際(G)",
-      "faculty": "映像学部,情報理工学部,情報理工学研究科",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "OIC",
-      "instructor": "中村 健",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyL2QAK/202651124",
-      "room": "H341セミナールーム"
     },
     {
       "code": "50924",
@@ -9544,7 +9531,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxzOQAS/202650842",
-      "room": "H241セミナールーム"
+      "room": "AS261セミナールーム"
     },
     {
       "code": "50843",
@@ -9583,7 +9570,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyCIQA0/202650852",
-      "room": "H243セミナールーム"
+      "room": "AS262セミナールーム"
     },
     {
       "code": "50860",

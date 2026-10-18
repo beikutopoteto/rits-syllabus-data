@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T22:12:42.270025+00:00",
+  "lastUpdated": "2026-10-18T21:27:46.424325+00:00",
   "year": 2026,
   "faculty": "経済学部",
-  "totalCourses": 1277,
+  "totalCourses": 1275,
   "courses": [
     {
       "code": "11617",
@@ -531,7 +531,7 @@
       "term": "春セメスター",
       "dayPeriod": "月2",
       "campus": "BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIpQAK/202630266",
@@ -1259,7 +1259,7 @@
       "term": "春セメスター",
       "dayPeriod": "月4,火2",
       "campus": "BKC/BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語とドイツ語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx7XQAS/202630256",
@@ -8396,7 +8396,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1,火3",
       "campus": "BKC/BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語とドイツ語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxBPQA0/202630260",
@@ -8543,7 +8543,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupTQAS/202611752",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11760",
@@ -8595,7 +8595,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxe5QAC/202630080",
-      "room": "ラルカディア　３０３号教室/アドセミナリオ２０３号教室"
+      "room": "アドセミナリオ２０６号教室/アドセミナリオ２０３号教室"
     },
     {
       "code": "30082",
@@ -8708,7 +8708,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月2",
       "campus": "BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxKlQAK/202630270",
@@ -8842,7 +8842,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqPQAS/202611753",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11758",
@@ -10652,19 +10652,6 @@
       "room": "コラーニングⅠ　１０５号教室/コラーニングⅠ　１０５号教室"
     },
     {
-      "code": "33141",
-      "name": "Applied Economics(EC)",
-      "faculty": "経済学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火2",
-      "campus": "BKC",
-      "instructor": "李 翠盈",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw29QAC/202633141",
-      "room": "プリズム情報語学演習室Ｐ２４"
-    },
-    {
       "code": "33247",
       "name": "実践経済演習Ⅲ(06)",
       "faculty": "経済学部",
@@ -10948,7 +10935,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwY3QAK/202632971",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "コラーニングⅠ　１０８号教室"
     },
     {
       "code": "32999",
@@ -12443,7 +12430,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwMSQA0/202633057",
-      "room": "コラーニングⅠ　１０４号教室"
+      "room": "アドセミナリオ２１３号教室"
     },
     {
       "code": "33075",
@@ -13691,7 +13678,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "30208",
@@ -14043,19 +14030,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvsTQAS/202633131",
       "room": "アドセミナリオ２０５号教室"
-    },
-    {
-      "code": "33132",
-      "name": "英語ワークショップⅡ(ED)",
-      "faculty": "経済学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木2",
-      "campus": "BKC",
-      "instructor": "瀬戸 義隆",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvtRQAS/202633132",
-      "room": "アドセミナリオ３０３号教室"
     },
     {
       "code": "33133",

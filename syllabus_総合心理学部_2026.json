@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:41:28.248305+00:00",
+  "lastUpdated": "2026-10-18T20:54:58.659765+00:00",
   "year": 2026,
   "faculty": "総合心理学部",
-  "totalCourses": 645,
+  "totalCourses": 644,
   "courses": [
     {
       "code": "52595",
@@ -6853,19 +6853,6 @@
       "language": "日本語および英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyIdQAK/202654189",
-      "room": "AN412セミナールーム"
-    },
-    {
-      "code": "54211",
-      "name": "プロジェクト研究Ⅷ (CC)",
-      "faculty": "総合心理学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "OIC",
-      "instructor": "岡本 直子",
-      "language": "日本語および英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RydvQAC/202654211",
       "room": "AN412セミナールーム"
     },
     {

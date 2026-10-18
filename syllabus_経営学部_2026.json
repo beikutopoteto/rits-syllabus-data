@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T22:19:13.735270+00:00",
+  "lastUpdated": "2026-10-18T21:32:53.879919+00:00",
   "year": 2026,
   "faculty": "経営学部",
-  "totalCourses": 1355,
+  "totalCourses": 1354,
   "courses": [
     {
       "code": "11617",
@@ -9297,7 +9297,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupTQAS/202611752",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11760",
@@ -9882,7 +9882,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqPQAS/202611753",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11758",
@@ -14058,19 +14058,6 @@
       "room": "AC431セミナールーム"
     },
     {
-      "code": "50640",
-      "name": "中国語プレゼンテーション2 (B) § 50641:（副）中国語プレゼンテーション2 (B) § 50642:中国語プレゼンテーション(B) § 50643:既習者中国語(BF)",
-      "faculty": "経営学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "OIC",
-      "instructor": "権 慧",
-      "language": "日本語と中国語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxloQAC/202650640",
-      "room": "AC448セミナールーム"
-    },
-    {
       "code": "52244",
       "name": "経営学特殊講義β(XH) § 52245:コース特殊講義（組織とマネジメント）β(XH) § 52246:国際経営学特殊講義β(XH) § 52247:コース特殊講義（戦略とマーケティング）β(XH) § 52248:コース特殊講義(会計とファイナンス)β(XH)",
       "faculty": "経営学部",
@@ -14107,7 +14094,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "50193",

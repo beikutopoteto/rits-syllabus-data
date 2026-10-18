@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:49:49.808402+00:00",
+  "lastUpdated": "2026-10-18T21:02:42.482244+00:00",
   "year": 2026,
   "faculty": "食マネジメント学部",
-  "totalCourses": 774,
+  "totalCourses": 775,
   "courses": [
     {
       "code": "34196",
@@ -336,7 +336,7 @@
       "term": "春セメスター",
       "dayPeriod": "月2",
       "campus": "BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxIpQAK/202630266",
@@ -5185,7 +5185,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月2",
       "campus": "BKC",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxKlQAK/202630270",
@@ -7985,6 +7985,19 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxJZQA0/202634736",
       "room": "ラルカディア　４１０号教室"
+    },
+    {
+      "code": "35097",
+      "name": "専門演習Ⅳ(25)",
+      "faculty": "食マネジメント学部",
+      "term": "秋セメスター",
+      "dayPeriod": "水4",
+      "campus": "BKC",
+      "instructor": "阿良田 麻里子",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000008hSinQAE/202635097",
+      "room": "アドセミナリオ４０１号教室"
     },
     {
       "code": "17112",

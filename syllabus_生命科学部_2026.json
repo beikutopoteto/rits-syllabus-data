@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T21:50:37.672982+00:00",
+  "lastUpdated": "2026-10-18T21:04:05.493619+00:00",
   "year": 2026,
   "faculty": "生命科学部",
   "totalCourses": 801,
@@ -5393,7 +5393,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月1",
       "campus": "BKC",
-      "instructor": "川村 晃久、白壁 恭子、立花 雅史、田中 秀和、向 英里、森脇 健介",
+      "instructor": "川村 晃久、白壁 恭子、立花 雅史、田中 秀和、向 英里、毛利 晋輔、森脇 健介",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvbfQAC/202630875",
@@ -6866,7 +6866,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvysQAC/202630815",
-      "room": "フォレストハウス２０２号教室"
+      "room": "コラーニングⅠ　４０１号教室"
     },
     {
       "code": "30848",
@@ -7074,7 +7074,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxsQQAS/202634825",
-      "room": "コラーニングⅠ　３０５号教室"
+      "room": "コラーニングⅠ　３０３号教室"
     },
     {
       "code": "30687",
@@ -8465,7 +8465,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "34838",

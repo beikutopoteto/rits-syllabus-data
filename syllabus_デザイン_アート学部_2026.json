@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T21:31:39.090978+00:00",
+  "lastUpdated": "2026-10-18T20:44:50.922265+00:00",
   "year": 2026,
   "faculty": "デザイン・アート学部",
   "totalCourses": 376,
@@ -2628,7 +2628,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvISQA0/202616776",
-      "room": "以学館IG302号教室"
+      "room": "以学館IG206号教室"
     },
     {
       "code": "15055",
@@ -2888,7 +2888,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwUcQAK/202616945",
-      "room": "明学館MG202号教室"
+      "room": "敬学館KG009号教室"
     },
     {
       "code": "17015",
@@ -3772,7 +3772,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTWQA0/202615098",
-      "room": "衣３アリーナ/衣３アリーナ"
+      "room": "充光館JK003アトリエ/充光館JK003アトリエ"
     },
     {
       "code": "17093",
@@ -4162,7 +4162,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "17058",

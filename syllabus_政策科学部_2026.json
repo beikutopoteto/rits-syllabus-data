@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:53:53.528420+00:00",
+  "lastUpdated": "2026-10-18T21:08:21.871804+00:00",
   "year": 2026,
   "faculty": "政策科学部",
-  "totalCourses": 841,
+  "totalCourses": 839,
   "courses": [
     {
       "code": "52595",
@@ -6567,7 +6567,7 @@
       "language": "日本語\n日本語\n\n英語\nJapanese",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxubQAC/202651190",
-      "room": "AC231講義室"
+      "room": "AN328セミナールーム"
     },
     {
       "code": "51194",
@@ -8699,7 +8699,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "52676",
@@ -10028,19 +10028,6 @@
       "room": "AN424セミナールーム/AS456セミナールーム"
     },
     {
-      "code": "51973",
-      "name": "Thai・異文化コミュニケーション2 (P)",
-      "faculty": "政策科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "OIC",
-      "instructor": "P. WASUPONG",
-      "language": "日本語／タイ語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxNpQAK/202651973",
-      "room": "AS458セミナールーム"
-    },
-    {
       "code": "51981",
       "name": "Vietnamese・異文化コミュニケーション2 (P)",
       "faculty": "政策科学部",
@@ -10858,19 +10845,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyN6QAK/202651947",
       "room": "AC431セミナールーム"
-    },
-    {
-      "code": "51977",
-      "name": "Russian・異文化コミュニケーション2 (P)",
-      "faculty": "政策科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金4",
-      "campus": "OIC",
-      "instructor": "奈宮 ダリア",
-      "language": "日本語、ロシア語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxRhQAK/202651977",
-      "room": "AS451セミナールーム"
     },
     {
       "code": "51979",

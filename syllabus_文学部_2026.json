@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:46:51.276662+00:00",
+  "lastUpdated": "2026-10-18T20:58:45.106081+00:00",
   "year": 2026,
   "faculty": "文学部",
-  "totalCourses": 1189,
+  "totalCourses": 1186,
   "courses": [
     {
       "code": "15219",
@@ -587,7 +587,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwVaQAK/202616946",
-      "room": "明学館MG401号教室"
+      "room": "敬学館KG001号教室"
     },
     {
       "code": "13039",
@@ -665,7 +665,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupTQAS/202611752",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11760",
@@ -1562,7 +1562,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqPQAS/202611753",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11758",
@@ -1887,7 +1887,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RublQAC/202613940",
-      "room": "有心館YS301号教室"
+      "room": "有心館YS403号教室"
     },
     {
       "code": "14405",
@@ -2433,7 +2433,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuchQAC/202613941",
-      "room": "有心館YS301号教室"
+      "room": "有心館YS403号教室"
     },
     {
       "code": "14206",
@@ -2761,19 +2761,6 @@
       "room": "以学館IG203号教室"
     },
     {
-      "code": "12648",
-      "name": "ドイツ語中級表現読解Ⅱ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "中川 洋一",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYuQAK/202612648",
-      "room": "存心館ZS306号教室"
-    },
-    {
       "code": "12660",
       "name": "中国語中級表現読解Ⅴ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -2953,7 +2940,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvRJQA0/202613659",
-      "room": "明学館MG201号教室"
+      "room": "清心館SE007号教室"
     },
     {
       "code": "13842",
@@ -4552,7 +4539,7 @@
       "language": "日本語および朝鮮語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzVQAS/202616737",
-      "room": "以学館IG308号教室"
+      "room": "以学館IG406号教室"
     },
     {
       "code": "16740",
@@ -4917,19 +4904,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumFQAS/202615302",
       "room": "明学館MG002号教室"
-    },
-    {
-      "code": "12646",
-      "name": "ドイツ語中級コミュニケーションⅡ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火4",
-      "campus": "衣笠",
-      "instructor": "HINSKEN THOMAS",
-      "language": "German",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvWyQAK/202612646",
-      "room": "存心館ZS303号教室"
     },
     {
       "code": "12655",
@@ -7607,7 +7581,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RurbQAC/202613509",
-      "room": "敬学館KG206号教室"
+      "room": "敬学館KG107号教室"
     },
     {
       "code": "13565",
@@ -7685,7 +7659,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuYzQAK/202614190",
-      "room": "洋洋館YY201号教室"
+      "room": "研心館KE301号教室"
     },
     {
       "code": "14257",
@@ -7841,7 +7815,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPlQAK/202613237",
-      "room": "清心館SE003号教室"
+      "room": "清心館SE204号教室"
     },
     {
       "code": "54616",
@@ -9245,7 +9219,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "17058",
@@ -9323,7 +9297,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvE7QAK/202612831",
-      "room": "清心館SE401号教室"
+      "room": "明学館MG301号教室"
     },
     {
       "code": "12835",
@@ -10246,7 +10220,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9TQAS/202613631",
-      "room": "研心館KE402号教室"
+      "room": "明学館MG301号教室"
     },
     {
       "code": "13662",
@@ -10740,7 +10714,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvB5QAK/202611708",
-      "room": "諒友館RY304号教室"
+      "room": "諒友館RY203号教室"
     },
     {
       "code": "16848",
@@ -10766,7 +10740,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunJQAS/202610170",
-      "room": "洋洋館YY201号教室"
+      "room": "洋洋館YY203号教室"
     },
     {
       "code": "10067",
@@ -11624,7 +11598,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvDAQA0/202612830",
-      "room": "清心館SE009号教室"
+      "room": "明学館MG101号教室"
     },
     {
       "code": "12875",
@@ -11767,7 +11741,7 @@
       "language": "朝鮮語、日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvhjQAC/202613458",
-      "room": "啓明館KM201号教室"
+      "room": "敬学館KG002号教室"
     },
     {
       "code": "13496",
@@ -12122,142 +12096,176 @@
     },
     {
       "code": "14337",
-      "name": "日本語教授法演習Ⅱ (L) § 14338:日本語教授法基礎演習Ⅱ(L)",
+      "name": "日本語5",
+      "room": "敬学館KG212号教室"
+    },
+    {
+      "code": "13298",
+      "name": "考古学・文化遺産総説Ⅰ(L)",
       "faculty": "文学部",
-      "term": "秋セメスター",
+      "term": "春セメスター",
       "dayPeriod": "木4",
       "campus": "衣笠",
-      "instructor": "小林 明子",
+      "instructor": "中村 豊",
       "language": "日本語",
       "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RujIQAS/202614337",
-      "room": "敬学館KG211号教室"
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzzQAC/202613298",
+      "room": "明学館MG201号教室"
     },
     {
-      "code": "17222",
-      "name": "考古学実習Ⅱ(LC)",
+      "code": "13402",
+      "name": "基礎講読Ⅰ(H1)",
       "faculty": "文学部",
-      "term": "秋セメスター",
+      "term": "春セメスター",
       "dayPeriod": "木4",
       "campus": "衣笠",
-      "instructor": "中村 亜希子、長友 朋子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000004nZvCQAU/202617222",
-      "room": "学芸員課程実習室"
-    },
-    {
-      "code": "15260",
-      "name": "IR26-POL103 Introduction to the United Nations(RB) § 15261:IR18‐AE110 Introduction to the United Nations(RB) § 15262:Introduction to the United Nations(RB) § 15263:RUIR-1411 Introduction to the United Nations(RB)",
-      "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,政策科学部,文学部,デザイン・アート学部,映像学部,理工学部,情報理工学部,スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "石川 幸子",
-      "language": "英語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubxQAC/202615260",
-      "room": "明学館MG002号教室"
-    },
-    {
-      "code": "15231",
-      "name": "IR26-IR114 Special Lecture (General Education Course)(RB) § 15232:IR18‐AE106 Kyoto and the Japanese Arts(R) § 15233:Kyoto and the Japanese Arts(R) § 15234:RUIR-1611 Kyoto and the Japanese Arts(R)",
-      "faculty": "法学部,経済学部,経営学部,産業社会学部,国際関係学部,政策科学部,文学部,映像学部,情報理工学部,スポーツ健康科学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "GADJEVA NADEJDA P.",
-      "language": "English",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQ3QAK/202615231",
-      "room": "明学館MG001号教室"
-    },
-    {
-      "code": "11530",
-      "name": "基本スペイン語（生活）Ⅱ(A) § 11531:基本スペイン語（単位回復）(H)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "高木 仁",
-      "language": "日本語とスペイン語の併用",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMBQA0/202611530",
-      "room": "洋洋館YY302号教室"
-    },
-    {
-      "code": "12670",
-      "name": "基本ドイツ語（生活）Ⅱ(A)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "森口 大地",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQcQAK/202612670",
-      "room": "存心館ZS204号教室"
-    },
-    {
-      "code": "14926",
-      "name": "基本フランス語（生活）Ⅱ(A)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "松原 冬二",
-      "language": "日本語とフランス語を併用",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuayQAC/202614926",
-      "room": "敬学館KG211号教室"
-    },
-    {
-      "code": "15515",
-      "name": "基本朝鮮語（生活）Ⅱ(A)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "嚴 敞俊",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqxQAC/202615515",
-      "room": "洋洋館YY202号教室"
-    },
-    {
-      "code": "16769",
-      "name": "ピア・サポート論(GD)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部,デザイン・アート学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
-      "campus": "衣笠",
-      "instructor": "沖 裕貴",
+      "instructor": "井上 充幸",
       "language": "日本語",
       "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvDhQAK/202616769",
-      "room": "敬学館KG009号教室"
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv00QAC/202613402",
+      "room": "清心館SE004号教室"
     },
     {
-      "code": "16857",
-      "name": "京都学(GB)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部,デザイン・アート学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
+      "code": "13450",
+      "name": "東アジア現代文化論Ⅰ(L)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
       "campus": "衣笠",
-      "instructor": "星 優也、村田 真一",
+      "instructor": "張 文菁",
       "language": "日本語",
       "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZVQA0/202616857",
-      "room": "明学館MG402号教室"
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZzQAK/202613450",
+      "room": "研心館KE301号教室"
     },
     {
-      "code": "11688",
-      "name": "（留）日本語Ⅶ（読解b）(GF) § 11689:（留）日本語Ⅳ　読解・語彙(GF)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部,映像学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木5",
+      "code": "13464",
+      "name": "現代東アジア言語・文化講読演習(LF)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
       "campus": "衣笠",
-      "instructor": "京谷 麻矢",
+      "instructor": "安田 昌史",
+      "language": "朝鮮語、日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPnQAK/202613464",
+      "room": "清心館SE002号教室"
+    },
+    {
+      "code": "13484",
+      "name": "専門演習Ⅰ(IE) § 13485:専門演習Ⅲ(IE)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "上野 隆三、駒見 一善",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RubhQAC/202613484",
+      "room": "敬学館KG008号教室"
+    },
+    {
+      "code": "13559",
+      "name": "Lecture for Humanities (LH) § 13560:人文学特殊講義(LH)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "PRESTON NATHANIEL H.",
+      "language": "English, with some Japanese as needed",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RveqQAC/202613559",
+      "room": "敬学館KG104号教室"
+    },
+    {
+      "code": "13606",
+      "name": "専門演習Ⅰ(JA) § 13607:専門演習Ⅲ(JA)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "金山 亮太",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RutUQAS/202613606",
+      "room": "清心館SE205号教室"
+    },
+    {
+      "code": "13645",
+      "name": "アラビア語文献講読 (L)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "原 陸郎",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvI2QAK/202613645",
+      "room": "清心館SE006号教室"
+    },
+    {
+      "code": "13650",
+      "name": "ヨーロッパ近代史研究Ⅰ (L) § 13651:史料から見る西洋近代史(L)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "河合 竜太",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvMVQA0/202613650",
+      "room": "啓明館KM401号教室"
+    },
+    {
+      "code": "13694",
+      "name": "基礎講読Ⅰ(L3)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "西林 孝浩",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuTJQA0/202613694",
+      "room": "敬学館KG106号教室"
+    },
+    {
+      "code": "13695",
+      "name": "基礎講読Ⅰ(L4)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "宮本 直美",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuUFQA0/202613695",
+      "room": "清心館SE008号教室"
+    },
+    {
+      "code": "13855",
+      "name": "イタリアの文化とエクスプレッションⅢ(L)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "SGARBI FEDERICA",
+      "language": "日本語\nイタリア語\n英語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RureQAC/202613855",
+      "room": "敬学館KG205号教室"
+    },
+    {
+      "code": "13899",
+      "name": "地域調査入門(LF)",
+      "faculty": "文学部",
+      "term": "春セメスター",
+      "dayPeriod": "木4",
+      "campus": "衣笠",
+      "instructor": "花岡 和聖",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvV矢",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv1cQAC/202611688",
@@ -14055,7 +14063,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvBIQA0/202613072",
-      "room": "学而館GJ402号教室"
+      "room": "敬学館KG008号教室"
     },
     {
       "code": "13111",
@@ -14357,19 +14365,6 @@
       "room": "敬学館KG211号教室"
     },
     {
-      "code": "14915",
-      "name": "フランス語上級表現読解Ⅱ(K)",
-      "faculty": "文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金3",
-      "campus": "衣笠",
-      "instructor": "粟野 広雅",
-      "language": "日本語とフランス語を併用",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuP4QAK/202614915",
-      "room": "啓明館KM302号教室"
-    },
-    {
       "code": "14960",
       "name": "中国語・応用Ⅱ(LA)",
       "faculty": "文学部",
@@ -14545,7 +14540,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvwfQAC/202616429",
@@ -15420,7 +15415,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPDQA0/202610010",
-      "room": "啓明館KM401号教室"
+      "room": "洋洋館YY203号教室"
     },
     {
       "code": "12800",
@@ -15462,7 +15457,41 @@
       "room": "衣笠"
     }
   ]
-}�館RY303号教室"
+}ulty": "法学部,産業社会学部,国際関係学部,文学部",
+      "term": "春セメスター",
+      "dayPeriod": "金4",
+      "campus": "衣笠",
+      "instructor": "宋 基榮",
+      "language": "日本語と朝鮮語を併用",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvfHQAS/202616667",
+      "room": "清心館SE201号教室"
+    },
+    {
+      "code": "16825",
+      "name": "論理と思考(GA)",
+      "faculty": "法学部,産業社会学部,国際関係学部,文学部,デザイン・アート学部",
+      "term": "春セメスター",
+      "dayPeriod": "金4",
+      "campus": "衣笠",
+      "instructor": "大西 琢朗",
+      "language": "日本語",
+      "credits": "2",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvvkQAC/202616825",
+      "room": "研心館KE402号教室"
+    },
+    {
+      "code": "11542",
+      "name": "（留）日本語Ⅷ（アカデミック日本語a）(GB) § 11543:（留）日本語Ⅶ　文章表現(GB)",
+      "faculty": "法学部,産業社会学部,国際関係学部,文学部,映像学部",
+      "term": "春セメスター",
+      "dayPeriod": "金4",
+      "campus": "衣笠",
+      "instructor": "菅 智穂",
+      "language": "日本語",
+      "credits": "1",
+      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvRxQAK/202611542",
+      "room": "諒友館RY303号教室"
     },
     {
       "code": "11558",

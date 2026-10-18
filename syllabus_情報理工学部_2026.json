@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T21:50:28.764165+00:00",
+  "lastUpdated": "2026-10-18T21:03:02.720806+00:00",
   "year": 2026,
   "faculty": "情報理工学部",
-  "totalCourses": 818,
+  "totalCourses": 816,
   "courses": [
     {
       "code": "52595",
@@ -7571,19 +7571,6 @@
       "room": "H345セミナールーム"
     },
     {
-      "code": "53100",
-      "name": "英語入門 092(QW)",
-      "faculty": "情報理工学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火5",
-      "campus": "OIC",
-      "instructor": "加藤 佳子",
-      "language": "日本語、英語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyIRQA0/202653100",
-      "room": "H344セミナールーム"
-    },
-    {
       "code": "53548",
       "name": "プログラミング演習１(G1)",
       "faculty": "情報理工学部",
@@ -8621,7 +8608,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "52676",
@@ -9482,19 +9469,6 @@
       "room": "H243セミナールーム"
     },
     {
-      "code": "51124",
-      "name": "（教）教育相談の実際(G)",
-      "faculty": "映像学部,情報理工学部,情報理工学研究科",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "OIC",
-      "instructor": "中村 健",
-      "language": "日本語",
-      "credits": "2",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyL2QAK/202651124",
-      "room": "H341セミナールーム"
-    },
-    {
       "code": "53130",
       "name": "英語初級 104(Q4)",
       "faculty": "情報理工学部",
@@ -9635,7 +9609,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxuzQAC/202653600",
-      "room": "H301講義室"
+      "room": "AS368セミナールーム"
     },
     {
       "code": "15260",

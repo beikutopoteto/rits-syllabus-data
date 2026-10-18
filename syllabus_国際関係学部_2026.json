@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-04T22:13:58.799147+00:00",
+  "lastUpdated": "2026-10-18T21:25:16.221302+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
-  "totalCourses": 1227,
+  "totalCourses": 1222,
   "courses": [
     {
       "code": "11617",
@@ -6810,7 +6810,7 @@
       "term": "春セメスター",
       "dayPeriod": "木5",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuPgQAK/202612669",
@@ -7291,7 +7291,7 @@
       "term": "春セメスター",
       "dayPeriod": "金3",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvptQAC/202616418",
@@ -7642,7 +7642,7 @@
       "term": "春セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvk5QAC/202616410",
@@ -8257,7 +8257,7 @@
       "language": "日本語　JAPANESE",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuiVQAS/202615286",
-      "room": "恒心館KS305号教室"
+      "room": "敬学館KG009号教室"
     },
     {
       "code": "15772",
@@ -8335,7 +8335,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupTQAS/202611752",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11760",
@@ -8777,7 +8777,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuqPQAS/202611753",
-      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "学而館GJ308号教室/学而館GJ306号教室/学而館GJ303号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11758",
@@ -9469,19 +9469,6 @@
       "room": "以学館IG203号教室"
     },
     {
-      "code": "12648",
-      "name": "ドイツ語中級表現読解Ⅱ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "中川 洋一",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYuQAK/202612648",
-      "room": "存心館ZS306号教室"
-    },
-    {
       "code": "12660",
       "name": "中国語中級表現読解Ⅴ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -9597,19 +9584,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv8wQAC/202616763",
       "room": "学而館GJ312号教室"
-    },
-    {
-      "code": "15552",
-      "name": "IR18‐BC104 Intensive EnglishⅣ(RA)",
-      "faculty": "国際関係学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月5",
-      "campus": "衣笠",
-      "instructor": "MATSUO SCOT",
-      "language": "English",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rv9kQAC/202615552",
-      "room": "諒友館RY307号教室"
     },
     {
       "code": "15637",
@@ -10584,7 +10558,7 @@
       "language": "日本語および朝鮮語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzVQAS/202616737",
-      "room": "以学館IG308号教室"
+      "room": "以学館IG406号教室"
     },
     {
       "code": "16740",
@@ -10675,7 +10649,7 @@
       "language": "日本語",
       "credits": "3",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuObQAK/202611722",
-      "room": "諒友館RY201号教室/学而館GJ310号教室/学而館GJ305号教室"
+      "room": "諒友館RY201号教室/学而館GJ310号教室/諒友館RY508号教室"
     },
     {
       "code": "11724",
@@ -10910,19 +10884,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RumFQAS/202615302",
       "room": "明学館MG002号教室"
-    },
-    {
-      "code": "12646",
-      "name": "ドイツ語中級コミュニケーションⅡ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "火4",
-      "campus": "衣笠",
-      "instructor": "HINSKEN THOMAS",
-      "language": "German",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvWyQAK/202612646",
-      "room": "存心館ZS303号教室"
     },
     {
       "code": "12655",
@@ -13132,7 +13093,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwHvQAK/202616140",
-      "room": "諒友館RY401号教室"
+      "room": "洋洋館YY203号教室"
     },
     {
       "code": "16142",
@@ -13408,19 +13369,6 @@
       "room": "存心館ZS408号教室"
     },
     {
-      "code": "15553",
-      "name": "IR18‐BC105 Intensive EnglishⅤ(RA)",
-      "faculty": "国際関係学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水5",
-      "campus": "衣笠",
-      "instructor": "WARD DALE JOHN",
-      "language": "English",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvAhQAK/202615553",
-      "room": "恒心館KS202号教室"
-    },
-    {
       "code": "15809",
       "name": "IR18‐EE312 International Organizations(RB) § 15810:RUIR-3517 International Organizations(RB)",
       "faculty": "国際関係学部",
@@ -13509,7 +13457,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxS8QAK/202654621",
-      "room": "H241セミナールーム"
+      "room": "H321セミナールーム"
     },
     {
       "code": "17058",
@@ -13990,7 +13938,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvB5QAK/202611708",
-      "room": "諒友館RY304号教室"
+      "room": "諒友館RY203号教室"
     },
     {
       "code": "12154",
@@ -14129,7 +14077,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木3",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvPhQAK/202615935",
@@ -14342,19 +14290,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvQZQA0/202615209",
       "room": "恒心館KS204号教室"
-    },
-    {
-      "code": "15633",
-      "name": "IR18‐BD252 朝鮮語アドバンストⅡ(R) § 15634:IR-BC351 朝鮮語アドバンストⅡ(R)",
-      "faculty": "国際関係学部",
-      "term": "秋セメスター",
-      "dayPeriod": "木4",
-      "campus": "衣笠",
-      "instructor": "嚴 敞俊",
-      "language": "日本語と朝鮮語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuggQAC/202615633",
-      "room": "恒心館KS208号教室"
     },
     {
       "code": "16022",
@@ -14597,7 +14532,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木5",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuQcQAK/202612670",
@@ -15403,7 +15338,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "衣笠",
-      "instructor": "森口 大地",
+      "instructor": "山下 大地",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvwfQAC/202616429",
