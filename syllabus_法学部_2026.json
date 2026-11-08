@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-10-18T21:35:34.575688+00:00",
+  "lastUpdated": "2026-11-08T23:10:24.284164+00:00",
   "year": 2026,
   "faculty": "法学部",
-  "totalCourses": 1440,
+  "totalCourses": 1438,
   "courses": [
     {
       "code": "12128",
@@ -10389,7 +10389,7 @@
       "language": "日本語とスペイン語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rux5QAC/202612610",
-      "room": "洋洋館YY501号教室/洋洋館YY501号教室"
+      "room": "洋洋館YY408号教室/洋洋館YY408号教室"
     },
     {
       "code": "12622",
@@ -12560,7 +12560,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RunHQAS/202610034",
-      "room": "洋洋館YY201号教室"
+      "room": "学而館GJ402号教室"
     },
     {
       "code": "10068",
@@ -14955,19 +14955,6 @@
       "room": "AC242セミナールーム"
     },
     {
-      "code": "12649",
-      "name": "ドイツ語中級表現読解Ⅲ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "水4",
-      "campus": "衣笠",
-      "instructor": "田原 憲和",
-      "language": "日本語、ドイツ語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvZsQAK/202612649",
-      "room": "洋洋館YY501号教室"
-    },
-    {
       "code": "12658",
       "name": "中国語中級表現読解Ⅲ(K)",
       "faculty": "法学部,産業社会学部,国際関係学部,文学部",
@@ -17123,7 +17110,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuczQAC/202610023",
-      "room": "敬学館KG108号教室"
+      "room": "学而館GJ402号教室"
     },
     {
       "code": "10054",
@@ -17175,7 +17162,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuerQAC/202610025",
-      "room": "敬学館KG110号教室"
+      "room": "学而館GJ309号教室"
     },
     {
       "code": "10074",
@@ -17487,7 +17474,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPEQA0/202654618",
-      "room": "H348セミナールーム"
+      "room": ""
     },
     {
       "code": "35067",
@@ -17500,7 +17487,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaNQAS/202635067",
-      "room": "コラーニングⅡ　５０１号教室"
+      "room": ""
     },
     {
       "code": "17057",
@@ -18164,19 +18151,6 @@
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvPvQAK/202610963",
       "room": "学而館GJ401号教室"
-    },
-    {
-      "code": "12651",
-      "name": "ドイツ語中級表現読解Ⅴ(K)",
-      "faculty": "法学部,産業社会学部,国際関係学部,文学部",
-      "term": "秋セメスター",
-      "dayPeriod": "金4",
-      "campus": "衣笠",
-      "instructor": "村本 容子",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvboQAC/202612651",
-      "room": "存心館ZS407号教室"
     },
     {
       "code": "12657",

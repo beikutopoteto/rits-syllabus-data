@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T21:36:34.230359+00:00",
+  "lastUpdated": "2026-11-08T23:16:39.308626+00:00",
   "year": 2026,
   "faculty": "理工学部",
   "totalCourses": 1618,
@@ -12738,7 +12738,7 @@
       "term": "秋セメスター",
       "dayPeriod": "火1,火2",
       "campus": "BKC",
-      "instructor": "NGUYEN THAO、山末 英嗣",
+      "instructor": "柏倉 俊介、木内 真人、NGUYEN THAO、山末 英嗣",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw4wQAC/202632567",
@@ -15858,7 +15858,7 @@
       "term": "秋セメスター",
       "dayPeriod": "水3,水4",
       "campus": "BKC",
-      "instructor": "瀧 千波、早川 恭弘",
+      "instructor": "瀧 千波、早川 恭弘、PAUL HANNIBAL",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKRQA0/202632669",
@@ -16443,7 +16443,7 @@
       "term": "秋セメスター",
       "dayPeriod": "水4,水5",
       "campus": "BKC",
-      "instructor": "杉江 隆一、諏訪田 剛、沼居 貴陽、渡邉 歴",
+      "instructor": "杉江 隆一、諏訪田 剛、中野 道彦、沼居 貴陽、渡邉 歴",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKOQA0/202632406",
@@ -18592,7 +18592,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9pQAC/202632798",
-      "room": "BKC"
+      "room": ""
     },
     {
       "code": "32834",
@@ -18605,7 +18605,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvoYQAS/202632834",
-      "room": "フォレストハウス２０４号教室"
+      "room": ""
     },
     {
       "code": "31035",
@@ -18618,7 +18618,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwppQAC/202631035",
-      "room": "コラーニングⅡ　５０６号教室"
+      "room": ""
     },
     {
       "code": "15260",
@@ -18930,7 +18930,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvi1QAC/202634243",
-      "room": "ラルカディア　３０１号教室"
+      "room": ""
     },
     {
       "code": "34244",
