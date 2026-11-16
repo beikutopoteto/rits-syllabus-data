@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T23:16:39.308626+00:00",
+  "lastUpdated": "2026-11-16T00:01:51.739899+00:00",
   "year": 2026,
   "faculty": "理工学部",
   "totalCourses": 1618,
@@ -15858,7 +15858,7 @@
       "term": "秋セメスター",
       "dayPeriod": "水3,水4",
       "campus": "BKC",
-      "instructor": "瀧 千波、早川 恭弘、PAUL HANNIBAL",
+      "instructor": "上杉 薫、瀧 千波、早川 恭弘、PAUL HANNIBAL",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwKRQA0/202632669",
@@ -18592,7 +18592,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw9pQAC/202632798",
-      "room": ""
+      "room": "BKC"
     },
     {
       "code": "32834",
@@ -18605,7 +18605,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvoYQAS/202632834",
-      "room": ""
+      "room": "フォレストハウス２０４号教室"
     },
     {
       "code": "31035",
@@ -18618,7 +18618,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwppQAC/202631035",
-      "room": ""
+      "room": "コラーニングⅡ　５０６号教室"
     },
     {
       "code": "15260",
@@ -18930,7 +18930,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rvi1QAC/202634243",
-      "room": ""
+      "room": "ラルカディア　３０１号教室"
     },
     {
       "code": "34244",

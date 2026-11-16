@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T22:40:46.527344+00:00",
+  "lastUpdated": "2026-11-15T23:26:27.128910+00:00",
   "year": 2026,
   "faculty": "生命科学部",
   "totalCourses": 801,
@@ -6775,7 +6775,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx8KQAS/202634961",
-      "room": "コラーニングⅡ　８０１号教室"
+      "room": ""
     },
     {
       "code": "35026",
@@ -6840,7 +6840,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwuKQAS/202634863",
-      "room": "コラーニングⅠ　３０２号教室"
+      "room": ""
     },
     {
       "code": "30794",

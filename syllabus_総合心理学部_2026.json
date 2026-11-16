@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T22:32:08.143952+00:00",
+  "lastUpdated": "2026-11-15T23:17:59.331077+00:00",
   "year": 2026,
   "faculty": "総合心理学部",
   "totalCourses": 644,
@@ -6229,7 +6229,7 @@
       "language": "日本語\n日本語\n\n英語\nJapanese",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyhoQAC/202654327",
-      "room": "AN413セミナールーム"
+      "room": ""
     },
     {
       "code": "54340",
@@ -6255,7 +6255,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxWvQAK/202654379",
-      "room": "AN415セミナールーム"
+      "room": ""
     },
     {
       "code": "54380",

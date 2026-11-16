@@ -1,8 +1,8 @@
 {
-  "lastUpdated": "2026-11-08T22:36:26.344719+00:00",
+  "lastUpdated": "2026-11-15T23:21:00.129629+00:00",
   "year": 2026,
   "faculty": "薬学部",
-  "totalCourses": 621,
+  "totalCourses": 620,
   "courses": [
     {
       "code": "34196",
@@ -4722,19 +4722,6 @@
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwioQAC/202633651",
       "room": "学生実習室5南/学生実習室5南/学生実習室5南"
-    },
-    {
-      "code": "33652",
-      "name": "医薬品化学実習(Y)",
-      "faculty": "薬学部",
-      "term": "秋セメスター",
-      "dayPeriod": "月3,月4,月5,火3,火4,火5,金3,金4,金5",
-      "campus": "BKC/BKC/BKC",
-      "instructor": "土肥 寿文",
-      "language": "日本語",
-      "credits": "1",
-      "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwjmQAC/202633652",
-      "room": "CⅡ学生実習室6/CⅡ学生実習室6/CⅡ学生実習室6"
     },
     {
       "code": "34937",

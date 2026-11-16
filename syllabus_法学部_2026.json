@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T23:10:24.284164+00:00",
+  "lastUpdated": "2026-11-15T23:57:26.439313+00:00",
   "year": 2026,
   "faculty": "法学部",
   "totalCourses": 1438,
@@ -9414,7 +9414,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwBHQA0/202617014",
-      "room": "以学館IG302号教室"
+      "room": ""
     },
     {
       "code": "12665",
@@ -9453,7 +9453,7 @@
       "language": "日本語とフランス語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudmQAC/202614929",
-      "room": "敬学館KG004号教室"
+      "room": ""
     },
     {
       "code": "15514",
@@ -9479,7 +9479,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvcbQAC/202611555",
-      "room": "諒友館RY202号教室"
+      "room": ""
     },
     {
       "code": "10006",
@@ -17474,7 +17474,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxPEQA0/202654618",
-      "room": ""
+      "room": "H348セミナールーム"
     },
     {
       "code": "35067",
@@ -17487,7 +17487,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwaNQAS/202635067",
-      "room": ""
+      "room": "コラーニングⅡ　５０１号教室"
     },
     {
       "code": "17057",
