@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:53:33.268382+00:00",
+  "lastUpdated": "2026-11-23T00:39:01.920648+00:00",
   "year": 2026,
   "faculty": "経営学部",
   "totalCourses": 1354,
@@ -912,7 +912,7 @@
       "language": "日本語",
       "credits": "5",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuVoQAK/202611635",
-      "room": "学而館GJ311号教室/諒友館RY307号教室/学而館GJ308号教室/学而館GJ307号教室/洋洋館YY203号教室"
+      "room": ""
     },
     {
       "code": "11640",
@@ -990,7 +990,7 @@
       "language": "English",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxpeQAC/202650329",
-      "room": "AN322セミナールーム"
+      "room": ""
     },
     {
       "code": "50331",

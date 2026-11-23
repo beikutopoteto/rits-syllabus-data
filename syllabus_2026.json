@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T00:12:21.988736+00:00",
+  "lastUpdated": "2026-11-23T00:56:07.908997+00:00",
   "year": 2026,
   "totalCourses": 9720,
   "faculties": [
@@ -10753,7 +10753,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木3",
       "campus": "BKC",
-      "instructor": "永浜 明子",
+      "instructor": "長積 仁、永浜 明子",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE7QAK/202635044",
@@ -22414,7 +22414,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月2",
       "campus": "衣笠",
-      "instructor": "藤井 美穂",
+      "instructor": "河村 律子、藤井 美穂",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruc1QAC/202615709",
@@ -23315,7 +23315,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5LQAS/202616127",
-      "room": "恒心館KS204号教室"
+      "room": "授業で利用する言語"
     },
     {
       "code": "16128",
@@ -23328,7 +23328,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6JQAS/202616128",
-      "room": "恒心館KS201号教室"
+      "room": "授業で利用する言語"
     },
     {
       "code": "16130",
@@ -28944,7 +28944,7 @@
       "language": "日本語、英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx5wQAC/202653108",
-      "room": "H244セミナールーム"
+      "room": ""
     },
     {
       "code": "53109",
@@ -29035,7 +29035,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxo9QAC/202653250",
-      "room": "H243セミナールーム"
+      "room": ""
     },
     {
       "code": "53251",
@@ -34326,7 +34326,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxp9QAC/202653461",
-      "room": ""
+      "room": "OIC"
     },
     {
       "code": "53462",
@@ -37667,7 +37667,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyM4QAK/202651487",
-      "room": "AS468セミナールーム/AS468セミナールーム"
+      "room": ""
     },
     {
       "code": "51489",
@@ -54255,7 +54255,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwBHQA0/202617014",
-      "room": ""
+      "room": "以学館IG302号教室"
     },
     {
       "code": "10006",
@@ -55321,7 +55321,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzRQAS/202610050",
-      "room": "啓明館KM201号教室"
+      "room": "啓明館KM301号教室"
     },
     {
       "code": "12197",
@@ -67667,7 +67667,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月4",
       "campus": "BKC",
-      "instructor": "宇野 重康、岡野 訓尚、柿ヶ野 浩明、久保 幸弘、佐野 明秀、瀧口 浩一、田口 耕造、中野 道彦、野坂 秀之、福水 洋平、藤井 茉美、峯元 高志、毛利 真一郎",
+      "instructor": "宇野 重康、岡野 訓尚、柿ヶ野 浩明、久保 幸弘、佐野 明秀、鷹羽 浄嗣、瀧口 浩一、田口 耕造、中野 道彦、野坂 秀之、福水 洋平、藤井 茉美、峯元 高志、毛利 真一郎",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw04QAC/202632385",
@@ -72139,7 +72139,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木3,木4",
       "campus": "BKC",
-      "instructor": "上杉 薫、織田 健吾、早川 恭弘、PAUL HANNIBAL",
+      "instructor": "上杉 薫、織田 健吾、瀧 千波、早川 恭弘、PAUL HANNIBAL",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwJTQA0/202632668",
@@ -74167,7 +74167,7 @@
       "term": "秋セメスター",
       "dayPeriod": "金4",
       "campus": "BKC",
-      "instructor": "村田 順二",
+      "instructor": "南部 紘一郎、村田 順二",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvgkQAC/202632537",
@@ -79029,7 +79029,7 @@
       "term": "秋２Ｑ",
       "dayPeriod": "木3,木4,木5",
       "campus": "BKC",
-      "instructor": "小堤 和彦、白壁 恭子、林 紗千子、藤井 愛理、森脇 健介",
+      "instructor": "小堤 和彦、白壁 恭子、藤井 愛理、森本 航輔、森脇 健介",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYlQAK/202630872",
@@ -80099,7 +80099,7 @@
       "language": "日本語とスペイン語を併用",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RveWQAS/202611449",
-      "room": "以学館IG307号教室/諒友館RY306号教室"
+      "room": ""
     },
     {
       "code": "11457",
@@ -92956,7 +92956,7 @@
       "language": "English",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxpeQAC/202650329",
-      "room": "AN322セミナールーム"
+      "room": ""
     },
     {
       "code": "50331",
@@ -114523,7 +114523,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxErQAK/202654362",
-      "room": "AC432セミナールーム"
+      "room": ""
     },
     {
       "code": "53952",
@@ -117487,7 +117487,7 @@
       "language": "日本語\n日本語\n\n英語\nJapanese",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RyhoQAC/202654327",
-      "room": ""
+      "room": "AN413セミナールーム"
     },
     {
       "code": "54340",
@@ -117513,7 +117513,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RxWvQAK/202654379",
-      "room": ""
+      "room": "AN415セミナールーム"
     },
     {
       "code": "54380",

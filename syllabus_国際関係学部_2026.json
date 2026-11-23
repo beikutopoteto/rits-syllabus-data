@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:48:12.771777+00:00",
+  "lastUpdated": "2026-11-23T00:29:06.190965+00:00",
   "year": 2026,
   "faculty": "国際関係学部",
   "totalCourses": 1220,
@@ -8283,7 +8283,7 @@
       "language": "英語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwmbQAC/202634941",
-      "room": ""
+      "room": "AN427セミナールーム"
     },
     {
       "code": "54620",
@@ -8643,7 +8643,7 @@
       "term": "秋セメスター",
       "dayPeriod": "月2",
       "campus": "衣笠",
-      "instructor": "藤井 美穂",
+      "instructor": "河村 律子、藤井 美穂",
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Ruc1QAC/202615709",
@@ -9648,7 +9648,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw5LQAS/202616127",
-      "room": "恒心館KS204号教室"
+      "room": "授業で利用する言語"
     },
     {
       "code": "16128",
@@ -9661,7 +9661,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rw6JQAS/202616128",
-      "room": "恒心館KS201号教室"
+      "room": "授業で利用する言語"
     },
     {
       "code": "16130",

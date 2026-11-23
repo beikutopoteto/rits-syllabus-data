@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:57:26.439313+00:00",
+  "lastUpdated": "2026-11-23T00:39:46.359263+00:00",
   "year": 2026,
   "faculty": "法学部",
   "totalCourses": 1438,
@@ -9414,7 +9414,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwBHQA0/202617014",
-      "room": ""
+      "room": "以学館IG302号教室"
     },
     {
       "code": "12665",
@@ -9453,7 +9453,7 @@
       "language": "日本語とフランス語を併用",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RudmQAC/202614929",
-      "room": ""
+      "room": "敬学館KG004号教室"
     },
     {
       "code": "15514",
@@ -9479,7 +9479,7 @@
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvcbQAC/202611555",
-      "room": ""
+      "room": "諒友館RY202号教室"
     },
     {
       "code": "10006",
@@ -11403,7 +11403,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzRQAS/202610050",
-      "room": "啓明館KM201号教室"
+      "room": "啓明館KM301号教室"
     },
     {
       "code": "12197",

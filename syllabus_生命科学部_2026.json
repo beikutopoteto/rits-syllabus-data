@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:26:27.128910+00:00",
+  "lastUpdated": "2026-11-23T00:08:54.208667+00:00",
   "year": 2026,
   "faculty": "生命科学部",
   "totalCourses": 801,
@@ -6775,7 +6775,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx8KQAS/202634961",
-      "room": ""
+      "room": "コラーニングⅡ　８０１号教室"
     },
     {
       "code": "35026",
@@ -6840,7 +6840,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwuKQAS/202634863",
-      "room": ""
+      "room": "コラーニングⅠ　３０２号教室"
     },
     {
       "code": "30794",
@@ -8968,7 +8968,7 @@
       "term": "秋セメスター",
       "dayPeriod": "木3",
       "campus": "BKC",
-      "instructor": "永浜 明子",
+      "instructor": "長積 仁、永浜 明子",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RwE7QAK/202635044",
@@ -9215,7 +9215,7 @@
       "term": "秋２Ｑ",
       "dayPeriod": "木3,木4,木5",
       "campus": "BKC",
-      "instructor": "小堤 和彦、白壁 恭子、林 紗千子、藤井 愛理、森脇 健介",
+      "instructor": "小堤 和彦、白壁 恭子、藤井 愛理、森本 航輔、森脇 健介",
       "language": "日本語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RvYlQAK/202630872",

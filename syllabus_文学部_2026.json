@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:22:41.199239+00:00",
+  "lastUpdated": "2026-11-23T00:04:06.017423+00:00",
   "year": 2026,
   "faculty": "文学部",
   "totalCourses": 1183,
@@ -3031,7 +3031,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RuzRQAS/202610050",
-      "room": "啓明館KM201号教室"
+      "room": "啓明館KM301号教室"
     },
     {
       "code": "16965",
@@ -11403,7 +11403,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RupBQAS/202610172",
-      "room": ""
+      "room": "敬学館KG213号教室"
     },
     {
       "code": "17110",
@@ -15384,8 +15384,7 @@
       "room": "衣笠"
     }
   ]
-}��語を併用",
-      "credits": "2",
+}"credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003RviAQAS/202616502",
       "room": "学而館GJ308号教室"
     },

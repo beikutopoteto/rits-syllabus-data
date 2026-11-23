@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-15T23:26:08.877100+00:00",
+  "lastUpdated": "2026-11-23T00:09:54.879271+00:00",
   "year": 2026,
   "faculty": "情報理工学部",
   "totalCourses": 816,
@@ -873,7 +873,7 @@
       "language": "日本語、英語",
       "credits": "1",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rx5wQAC/202653108",
-      "room": "H244セミナールーム"
+      "room": ""
     },
     {
       "code": "53109",
@@ -964,7 +964,7 @@
       "language": "English",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxo9QAC/202653250",
-      "room": "H243セミナールーム"
+      "room": ""
     },
     {
       "code": "53251",
@@ -7230,7 +7230,7 @@
       "language": "日本語",
       "credits": "2",
       "syllabusUrl": "https://syllabus.ritsumei.ac.jp/syllabus/s/r-syllabus/a0ifD000003Rxp9QAC/202653461",
-      "room": ""
+      "room": "OIC"
     },
     {
       "code": "53462",
